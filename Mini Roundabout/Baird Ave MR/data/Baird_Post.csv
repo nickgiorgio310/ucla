@@ -1,0 +1,577 @@
+Data Periods,Mode of Travel,Zone ID,Zone Name,Zone Is Pass-Through,Zone Direction (degrees),Zone is Bi-Direction,Year-Month,Day Type,Day Part,Average Daily Spot Traffic (StL Volume),Avg Spot Speed (mph),Free Flow Speed (mph),Free Flow Factor,5th Speed Percentile,15th Speed Percentile,85th Speed Percentile,95th Speed Percentile
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-06,0: All Days (M-Su),0: All Day (12am-12am),171,13,18.552,0.713,6.000,10.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-06,0: All Days (M-Su),1: Early AM (12am-6am),9,14,18.552,0.760,5.000,7.000,18.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-06,0: All Days (M-Su),2: Peak AM (6am-10am),24,13,18.552,0.694,7.000,10.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-06,0: All Days (M-Su),3: Mid-Day (10am-3pm),53,13,18.552,0.709,5.000,9.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-06,0: All Days (M-Su),4: Peak PM (3pm-7pm),51,13,18.552,0.709,8.000,10.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-06,0: All Days (M-Su),5: Late PM (7pm-12am),34,13,18.552,0.725,5.000,10.000,17.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-06,1: Monday (M-M),0: All Day (12am-12am),187,13,18.552,0.679,6.000,9.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-06,1: Monday (M-M),1: Early AM (12am-6am),7,12,18.552,0.637,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-06,1: Monday (M-M),2: Peak AM (6am-10am),35,12,18.552,0.656,6.000,11.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-06,1: Monday (M-M),3: Mid-Day (10am-3pm),52,12,18.552,0.669,4.000,10.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-06,1: Monday (M-M),4: Peak PM (3pm-7pm),69,13,18.552,0.706,9.000,10.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-06,1: Monday (M-M),5: Late PM (7pm-12am),24,12,18.552,0.668,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-06,2: Tuesday (Tu-Tu),0: All Day (12am-12am),155,12,18.552,0.668,7.000,9.000,17.000,17.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-06,2: Tuesday (Tu-Tu),1: Early AM (12am-6am),5,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-06,2: Tuesday (Tu-Tu),2: Peak AM (6am-10am),19,12,18.552,0.654,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-06,2: Tuesday (Tu-Tu),3: Mid-Day (10am-3pm),39,12,18.552,0.630,4.000,8.000,14.000,17.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-06,2: Tuesday (Tu-Tu),4: Peak PM (3pm-7pm),52,13,18.552,0.692,9.000,10.000,17.000,17.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-06,2: Tuesday (Tu-Tu),5: Late PM (7pm-12am),40,13,18.552,0.689,7.000,10.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-06,3: Wednesday (W-W),0: All Day (12am-12am),179,13,18.552,0.721,7.000,10.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-06,3: Wednesday (W-W),1: Early AM (12am-6am),6,17,18.552,0.909,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-06,3: Wednesday (W-W),2: Peak AM (6am-10am),22,13,18.552,0.695,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-06,3: Wednesday (W-W),3: Mid-Day (10am-3pm),55,13,18.552,0.689,7.000,9.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-06,3: Wednesday (W-W),4: Peak PM (3pm-7pm),64,13,18.552,0.707,9.000,10.000,16.000,17.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-06,3: Wednesday (W-W),5: Late PM (7pm-12am),31,15,18.552,0.785,8.000,10.000,17.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-06,4: Thursday (Th-Th),0: All Day (12am-12am),166,14,18.552,0.745,9.000,10.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-06,4: Thursday (Th-Th),1: Early AM (12am-6am),7,19,18.552,0.998,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-06,4: Thursday (Th-Th),2: Peak AM (6am-10am),25,14,18.552,0.736,9.000,11.000,18.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-06,4: Thursday (Th-Th),3: Mid-Day (10am-3pm),52,14,18.552,0.756,9.000,10.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-06,4: Thursday (Th-Th),4: Peak PM (3pm-7pm),51,14,18.552,0.731,10.000,10.000,17.000,17.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-06,4: Thursday (Th-Th),5: Late PM (7pm-12am),31,13,18.552,0.698,5.000,10.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-06,5: Friday (F-F),0: All Day (12am-12am),174,13,18.552,0.722,7.000,10.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-06,5: Friday (F-F),1: Early AM (12am-6am),7,13,18.552,0.721,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-06,5: Friday (F-F),2: Peak AM (6am-10am),30,13,18.552,0.699,6.000,10.000,15.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-06,5: Friday (F-F),3: Mid-Day (10am-3pm),58,14,18.552,0.730,7.000,10.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-06,5: Friday (F-F),4: Peak PM (3pm-7pm),43,14,18.552,0.737,7.000,9.000,17.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-06,5: Friday (F-F),5: Late PM (7pm-12am),36,13,18.552,0.708,2.000,10.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-06,6: Saturday (Sa-Sa),0: All Day (12am-12am),179,13,18.552,0.727,4.000,9.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-06,6: Saturday (Sa-Sa),1: Early AM (12am-6am),15,14,18.552,0.742,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-06,6: Saturday (Sa-Sa),2: Peak AM (6am-10am),18,13,18.552,0.719,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-06,6: Saturday (Sa-Sa),3: Mid-Day (10am-3pm),63,13,18.552,0.691,2.000,8.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-06,6: Saturday (Sa-Sa),4: Peak PM (3pm-7pm),50,13,18.552,0.713,9.000,10.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-06,6: Saturday (Sa-Sa),5: Late PM (7pm-12am),33,15,18.552,0.814,9.000,12.000,23.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-06,7: Sunday (Su-Su),0: All Day (12am-12am),160,13,18.552,0.719,7.000,9.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-06,7: Sunday (Su-Su),1: Early AM (12am-6am),14,13,18.552,0.710,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-06,7: Sunday (Su-Su),2: Peak AM (6am-10am),17,13,18.552,0.702,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-06,7: Sunday (Su-Su),3: Mid-Day (10am-3pm),52,14,18.552,0.767,8.000,11.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-06,7: Sunday (Su-Su),4: Peak PM (3pm-7pm),32,12,18.552,0.651,5.000,8.000,14.000,17.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-06,7: Sunday (Su-Su),5: Late PM (7pm-12am),45,13,18.552,0.720,9.000,10.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-07,0: All Days (M-Su),0: All Day (12am-12am),164,13,15.054,0.876,6.000,10.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-07,0: All Days (M-Su),1: Early AM (12am-6am),9,13,15.054,0.882,11.000,13.000,17.000,17.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-07,0: All Days (M-Su),2: Peak AM (6am-10am),23,13,15.054,0.846,5.000,10.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-07,0: All Days (M-Su),3: Mid-Day (10am-3pm),50,13,15.054,0.893,6.000,10.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-07,0: All Days (M-Su),4: Peak PM (3pm-7pm),46,13,15.054,0.871,6.000,10.000,17.000,17.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-07,0: All Days (M-Su),5: Late PM (7pm-12am),36,13,15.054,0.876,6.000,9.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-07,1: Monday (M-M),0: All Day (12am-12am),172,13,15.054,0.866,5.000,10.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-07,1: Monday (M-M),1: Early AM (12am-6am),9,13,15.054,0.871,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-07,1: Monday (M-M),2: Peak AM (6am-10am),33,12,15.054,0.765,5.000,5.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-07,1: Monday (M-M),3: Mid-Day (10am-3pm),61,13,15.054,0.890,6.000,10.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-07,1: Monday (M-M),4: Peak PM (3pm-7pm),53,14,15.054,0.901,8.000,11.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-07,1: Monday (M-M),5: Late PM (7pm-12am),16,13,15.054,0.859,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-07,2: Tuesday (Tu-Tu),0: All Day (12am-12am),163,14,15.054,0.912,4.000,10.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-07,2: Tuesday (Tu-Tu),1: Early AM (12am-6am),6,15,15.054,0.995,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-07,2: Tuesday (Tu-Tu),2: Peak AM (6am-10am),14,13,15.054,0.897,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-07,2: Tuesday (Tu-Tu),3: Mid-Day (10am-3pm),60,14,15.054,0.912,7.000,11.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-07,2: Tuesday (Tu-Tu),4: Peak PM (3pm-7pm),35,13,15.054,0.858,3.000,4.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-07,2: Tuesday (Tu-Tu),5: Late PM (7pm-12am),47,14,15.054,0.946,10.000,11.000,17.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-07,3: Wednesday (W-W),0: All Day (12am-12am),176,14,15.054,0.917,8.000,10.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-07,3: Wednesday (W-W),1: Early AM (12am-6am),4,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-07,3: Wednesday (W-W),2: Peak AM (6am-10am),24,14,15.054,0.908,8.000,9.000,17.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-07,3: Wednesday (W-W),3: Mid-Day (10am-3pm),50,14,15.054,0.934,7.000,10.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-07,3: Wednesday (W-W),4: Peak PM (3pm-7pm),62,13,15.054,0.883,6.000,10.000,17.000,17.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-07,3: Wednesday (W-W),5: Late PM (7pm-12am),37,14,15.054,0.962,9.000,10.000,17.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-07,4: Thursday (Th-Th),0: All Day (12am-12am),174,13,15.054,0.875,6.000,10.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-07,4: Thursday (Th-Th),1: Early AM (12am-6am),5,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-07,4: Thursday (Th-Th),2: Peak AM (6am-10am),28,13,15.054,0.864,2.000,11.000,18.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-07,4: Thursday (Th-Th),3: Mid-Day (10am-3pm),53,13,15.054,0.893,6.000,10.000,17.000,17.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-07,4: Thursday (Th-Th),4: Peak PM (3pm-7pm),58,13,15.054,0.879,10.000,11.000,17.000,17.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-07,4: Thursday (Th-Th),5: Late PM (7pm-12am),30,13,15.054,0.847,6.000,8.000,17.000,17.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-07,5: Friday (F-F),0: All Day (12am-12am),162,13,15.054,0.866,6.000,10.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-07,5: Friday (F-F),1: Early AM (12am-6am),6,14,15.054,0.908,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-07,5: Friday (F-F),2: Peak AM (6am-10am),25,13,15.054,0.891,10.000,11.000,16.000,17.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-07,5: Friday (F-F),3: Mid-Day (10am-3pm),47,13,15.054,0.863,6.000,10.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-07,5: Friday (F-F),4: Peak PM (3pm-7pm),47,13,15.054,0.848,4.000,7.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-07,5: Friday (F-F),5: Late PM (7pm-12am),36,13,15.054,0.866,6.000,9.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-07,6: Saturday (Sa-Sa),0: All Day (12am-12am),163,13,15.054,0.833,5.000,9.000,17.000,17.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-07,6: Saturday (Sa-Sa),1: Early AM (12am-6am),10,13,15.054,0.837,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-07,6: Saturday (Sa-Sa),2: Peak AM (6am-10am),23,12,15.054,0.804,5.000,10.000,17.000,17.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-07,6: Saturday (Sa-Sa),3: Mid-Day (10am-3pm),44,13,15.054,0.858,5.000,8.000,17.000,17.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-07,6: Saturday (Sa-Sa),4: Peak PM (3pm-7pm),42,12,15.054,0.830,4.000,10.000,17.000,17.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-07,6: Saturday (Sa-Sa),5: Late PM (7pm-12am),43,12,15.054,0.823,6.000,8.000,17.000,17.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-07,7: Sunday (Su-Su),0: All Day (12am-12am),141,13,15.054,0.870,9.000,10.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-07,7: Sunday (Su-Su),1: Early AM (12am-6am),20,13,15.054,0.876,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-07,7: Sunday (Su-Su),2: Peak AM (6am-10am),14,13,15.054,0.878,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-07,7: Sunday (Su-Su),3: Mid-Day (10am-3pm),36,14,15.054,0.903,9.000,10.000,17.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-07,7: Sunday (Su-Su),4: Peak PM (3pm-7pm),26,13,15.054,0.883,9.000,12.000,16.000,17.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-07,7: Sunday (Su-Su),5: Late PM (7pm-12am),45,13,15.054,0.833,7.000,10.000,16.000,17.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-08,0: All Days (M-Su),0: All Day (12am-12am),179,13,18.933,0.710,7.000,9.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-08,0: All Days (M-Su),1: Early AM (12am-6am),5,15,18.933,0.774,13.000,13.000,16.000,17.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-08,0: All Days (M-Su),2: Peak AM (6am-10am),26,14,18.933,0.715,4.000,9.000,17.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-08,0: All Days (M-Su),3: Mid-Day (10am-3pm),59,14,18.933,0.742,7.000,10.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-08,0: All Days (M-Su),4: Peak PM (3pm-7pm),55,13,18.933,0.680,6.000,9.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-08,0: All Days (M-Su),5: Late PM (7pm-12am),33,13,18.933,0.690,7.000,9.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-08,1: Monday (M-M),0: All Day (12am-12am),171,13,18.933,0.673,7.000,10.000,17.000,17.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-08,1: Monday (M-M),1: Early AM (12am-6am),2,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-08,1: Monday (M-M),2: Peak AM (6am-10am),31,13,18.933,0.692,4.000,6.000,17.000,36.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-08,1: Monday (M-M),3: Mid-Day (10am-3pm),45,13,18.933,0.699,9.000,10.000,17.000,17.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-08,1: Monday (M-M),4: Peak PM (3pm-7pm),59,12,18.933,0.628,4.000,9.000,15.000,17.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-08,1: Monday (M-M),5: Late PM (7pm-12am),35,13,18.933,0.695,8.000,10.000,17.000,17.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-08,2: Tuesday (Tu-Tu),0: All Day (12am-12am),183,14,18.933,0.752,6.000,9.000,17.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-08,2: Tuesday (Tu-Tu),1: Early AM (12am-6am),4,14,18.933,0.761,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-08,2: Tuesday (Tu-Tu),2: Peak AM (6am-10am),25,13,18.933,0.705,5.000,11.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-08,2: Tuesday (Tu-Tu),3: Mid-Day (10am-3pm),61,17,18.933,0.898,5.000,8.000,20.000,50.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-08,2: Tuesday (Tu-Tu),4: Peak PM (3pm-7pm),58,13,18.933,0.667,7.000,10.000,16.000,17.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-08,2: Tuesday (Tu-Tu),5: Late PM (7pm-12am),35,13,18.933,0.671,8.000,8.000,17.000,17.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-08,3: Wednesday (W-W),0: All Day (12am-12am),204,13,18.933,0.690,7.000,9.000,17.000,17.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-08,3: Wednesday (W-W),1: Early AM (12am-6am),4,12,18.933,0.635,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-08,3: Wednesday (W-W),2: Peak AM (6am-10am),36,13,18.933,0.683,6.000,9.000,16.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-08,3: Wednesday (W-W),3: Mid-Day (10am-3pm),62,13,18.933,0.696,6.000,9.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-08,3: Wednesday (W-W),4: Peak PM (3pm-7pm),57,13,18.933,0.703,9.000,10.000,17.000,17.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-08,3: Wednesday (W-W),5: Late PM (7pm-12am),45,13,18.933,0.676,6.000,9.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-08,4: Thursday (Th-Th),0: All Day (12am-12am),166,14,18.933,0.713,7.000,9.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-08,4: Thursday (Th-Th),1: Early AM (12am-6am),4,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-08,4: Thursday (Th-Th),2: Peak AM (6am-10am),25,15,18.933,0.773,10.000,10.000,18.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-08,4: Thursday (Th-Th),3: Mid-Day (10am-3pm),69,13,18.933,0.698,7.000,9.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-08,4: Thursday (Th-Th),4: Peak PM (3pm-7pm),45,13,18.933,0.687,8.000,10.000,16.000,17.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-08,4: Thursday (Th-Th),5: Late PM (7pm-12am),23,14,18.933,0.734,4.000,9.000,17.000,17.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-08,5: Friday (F-F),0: All Day (12am-12am),223,14,18.933,0.741,7.000,10.000,17.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-08,5: Friday (F-F),1: Early AM (12am-6am),3,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-08,5: Friday (F-F),2: Peak AM (6am-10am),33,15,18.933,0.797,6.000,10.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-08,5: Friday (F-F),3: Mid-Day (10am-3pm),75,14,18.933,0.726,9.000,10.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-08,5: Friday (F-F),4: Peak PM (3pm-7pm),78,14,18.933,0.738,7.000,10.000,17.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-08,5: Friday (F-F),5: Late PM (7pm-12am),33,13,18.933,0.709,6.000,10.000,18.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-08,6: Saturday (Sa-Sa),0: All Day (12am-12am),179,13,18.933,0.682,5.000,9.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-08,6: Saturday (Sa-Sa),1: Early AM (12am-6am),6,15,18.933,0.797,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-08,6: Saturday (Sa-Sa),2: Peak AM (6am-10am),20,12,18.933,0.631,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-08,6: Saturday (Sa-Sa),3: Mid-Day (10am-3pm),60,14,18.933,0.730,9.000,12.000,17.000,17.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-08,6: Saturday (Sa-Sa),4: Peak PM (3pm-7pm),55,12,18.933,0.656,4.000,7.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-08,6: Saturday (Sa-Sa),5: Late PM (7pm-12am),38,12,18.933,0.652,7.000,9.000,14.000,17.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-08,7: Sunday (Su-Su),0: All Day (12am-12am),121,13,18.933,0.705,5.000,8.000,17.000,17.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-08,7: Sunday (Su-Su),1: Early AM (12am-6am),13,15,18.933,0.804,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-08,7: Sunday (Su-Su),2: Peak AM (6am-10am),10,13,18.933,0.668,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-08,7: Sunday (Su-Su),3: Mid-Day (10am-3pm),39,14,18.933,0.729,8.000,10.000,17.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-08,7: Sunday (Su-Su),4: Peak PM (3pm-7pm),34,12,18.933,0.636,2.000,6.000,17.000,17.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-08,7: Sunday (Su-Su),5: Late PM (7pm-12am),25,14,18.933,0.723,6.000,8.000,17.000,17.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-09,0: All Days (M-Su),0: All Day (12am-12am),184,14,20.157,0.674,7.000,10.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-09,0: All Days (M-Su),1: Early AM (12am-6am),4,14,20.157,0.710,5.000,5.000,17.000,17.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-09,0: All Days (M-Su),2: Peak AM (6am-10am),34,13,20.157,0.667,7.000,9.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-09,0: All Days (M-Su),3: Mid-Day (10am-3pm),59,14,20.157,0.701,7.000,10.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-09,0: All Days (M-Su),4: Peak PM (3pm-7pm),52,13,20.157,0.658,7.000,10.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-09,0: All Days (M-Su),5: Late PM (7pm-12am),35,13,20.157,0.658,6.000,10.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-09,1: Monday (M-M),0: All Day (12am-12am),165,14,20.157,0.670,7.000,10.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-09,1: Monday (M-M),1: Early AM (12am-6am),7,18,20.157,0.892,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-09,1: Monday (M-M),2: Peak AM (6am-10am),32,13,20.157,0.662,5.000,9.000,17.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-09,1: Monday (M-M),3: Mid-Day (10am-3pm),55,13,20.157,0.666,9.000,10.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-09,1: Monday (M-M),4: Peak PM (3pm-7pm),41,13,20.157,0.630,4.000,11.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-09,1: Monday (M-M),5: Late PM (7pm-12am),29,14,20.157,0.691,8.000,9.000,18.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-09,2: Tuesday (Tu-Tu),0: All Day (12am-12am),198,14,20.157,0.672,7.000,10.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-09,2: Tuesday (Tu-Tu),1: Early AM (12am-6am),2,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-09,2: Tuesday (Tu-Tu),2: Peak AM (6am-10am),30,13,20.157,0.622,2.000,6.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-09,2: Tuesday (Tu-Tu),3: Mid-Day (10am-3pm),65,15,20.157,0.725,9.000,11.000,18.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-09,2: Tuesday (Tu-Tu),4: Peak PM (3pm-7pm),67,13,20.157,0.653,7.000,9.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-09,2: Tuesday (Tu-Tu),5: Late PM (7pm-12am),34,13,20.157,0.658,9.000,10.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-09,3: Wednesday (W-W),0: All Day (12am-12am),199,14,20.157,0.713,9.000,11.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-09,3: Wednesday (W-W),1: Early AM (12am-6am),1,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-09,3: Wednesday (W-W),2: Peak AM (6am-10am),63,14,20.157,0.719,9.000,10.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-09,3: Wednesday (W-W),3: Mid-Day (10am-3pm),58,15,20.157,0.740,9.000,12.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-09,3: Wednesday (W-W),4: Peak PM (3pm-7pm),48,15,20.157,0.728,9.000,12.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-09,3: Wednesday (W-W),5: Late PM (7pm-12am),29,12,20.157,0.614,6.000,8.000,17.000,17.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-09,4: Thursday (Th-Th),0: All Day (12am-12am),217,14,20.157,0.680,8.000,10.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-09,4: Thursday (Th-Th),1: Early AM (12am-6am),2,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-09,4: Thursday (Th-Th),2: Peak AM (6am-10am),45,13,20.157,0.669,8.000,10.000,18.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-09,4: Thursday (Th-Th),3: Mid-Day (10am-3pm),62,14,20.157,0.708,10.000,11.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-09,4: Thursday (Th-Th),4: Peak PM (3pm-7pm),73,13,20.157,0.665,9.000,10.000,17.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-09,4: Thursday (Th-Th),5: Late PM (7pm-12am),36,13,20.157,0.658,7.000,10.000,17.000,17.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-09,5: Friday (F-F),0: All Day (12am-12am),211,14,20.157,0.684,7.000,10.000,17.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-09,5: Friday (F-F),1: Early AM (12am-6am),4,14,20.157,0.679,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-09,5: Friday (F-F),2: Peak AM (6am-10am),38,14,20.157,0.678,8.000,10.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-09,5: Friday (F-F),3: Mid-Day (10am-3pm),58,16,20.157,0.774,10.000,12.000,19.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-09,5: Friday (F-F),4: Peak PM (3pm-7pm),67,13,20.157,0.644,8.000,10.000,16.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-09,5: Friday (F-F),5: Late PM (7pm-12am),44,13,20.157,0.632,4.000,7.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-09,6: Saturday (Sa-Sa),0: All Day (12am-12am),152,13,20.157,0.638,6.000,9.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-09,6: Saturday (Sa-Sa),1: Early AM (12am-6am),5,13,20.157,0.625,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-09,6: Saturday (Sa-Sa),2: Peak AM (6am-10am),21,12,20.157,0.608,7.000,7.000,17.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-09,6: Saturday (Sa-Sa),3: Mid-Day (10am-3pm),64,13,20.157,0.634,6.000,9.000,17.000,17.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-09,6: Saturday (Sa-Sa),4: Peak PM (3pm-7pm),33,13,20.157,0.651,7.000,11.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-09,6: Saturday (Sa-Sa),5: Late PM (7pm-12am),30,13,20.157,0.655,8.000,10.000,17.000,17.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-09,7: Sunday (Su-Su),0: All Day (12am-12am),147,13,20.157,0.651,3.000,8.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-09,7: Sunday (Su-Su),1: Early AM (12am-6am),9,12,20.157,0.586,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-09,7: Sunday (Su-Su),2: Peak AM (6am-10am),10,12,20.157,0.588,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-09,7: Sunday (Su-Su),3: Mid-Day (10am-3pm),48,13,20.157,0.648,5.000,9.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-09,7: Sunday (Su-Su),4: Peak PM (3pm-7pm),36,13,20.157,0.628,2.000,7.000,17.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-09,7: Sunday (Su-Su),5: Late PM (7pm-12am),43,14,20.157,0.703,8.000,11.000,17.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-10,0: All Days (M-Su),0: All Day (12am-12am),165,13,14.327,0.922,6.000,10.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-10,0: All Days (M-Su),1: Early AM (12am-6am),6,13,14.327,0.880,3.000,4.000,14.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-10,0: All Days (M-Su),2: Peak AM (6am-10am),26,13,14.327,0.924,6.000,10.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-10,0: All Days (M-Su),3: Mid-Day (10am-3pm),48,14,14.327,0.956,6.000,10.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-10,0: All Days (M-Su),4: Peak PM (3pm-7pm),53,13,14.327,0.929,8.000,10.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-10,0: All Days (M-Su),5: Late PM (7pm-12am),32,12,14.327,0.868,4.000,9.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-10,1: Monday (M-M),0: All Day (12am-12am),180,13,14.327,0.908,6.000,10.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-10,1: Monday (M-M),1: Early AM (12am-6am),9,12,14.327,0.858,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-10,1: Monday (M-M),2: Peak AM (6am-10am),31,13,14.327,0.882,2.000,6.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-10,1: Monday (M-M),3: Mid-Day (10am-3pm),45,14,14.327,0.961,9.000,10.000,18.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-10,1: Monday (M-M),4: Peak PM (3pm-7pm),67,13,14.327,0.887,7.000,10.000,16.000,17.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-10,1: Monday (M-M),5: Late PM (7pm-12am),28,13,14.327,0.918,9.000,10.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-10,2: Tuesday (Tu-Tu),0: All Day (12am-12am),142,13,14.327,0.928,7.000,10.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-10,2: Tuesday (Tu-Tu),1: Early AM (12am-6am),5,12,14.327,0.809,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-10,2: Tuesday (Tu-Tu),2: Peak AM (6am-10am),26,14,14.327,0.959,7.000,10.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-10,2: Tuesday (Tu-Tu),3: Mid-Day (10am-3pm),38,14,14.327,0.960,7.000,11.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-10,2: Tuesday (Tu-Tu),4: Peak PM (3pm-7pm),50,13,14.327,0.926,9.000,10.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-10,2: Tuesday (Tu-Tu),5: Late PM (7pm-12am),22,12,14.327,0.872,7.000,8.000,16.000,17.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-10,3: Wednesday (W-W),0: All Day (12am-12am),179,13,14.327,0.922,6.000,10.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-10,3: Wednesday (W-W),1: Early AM (12am-6am),1,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-10,3: Wednesday (W-W),2: Peak AM (6am-10am),42,13,14.327,0.929,6.000,10.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-10,3: Wednesday (W-W),3: Mid-Day (10am-3pm),44,13,14.327,0.902,2.000,9.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-10,3: Wednesday (W-W),4: Peak PM (3pm-7pm),55,14,14.327,0.972,8.000,10.000,17.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-10,3: Wednesday (W-W),5: Late PM (7pm-12am),37,12,14.327,0.850,4.000,8.000,17.000,17.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-10,4: Thursday (Th-Th),0: All Day (12am-12am),173,13,14.327,0.906,7.000,10.000,17.000,17.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-10,4: Thursday (Th-Th),1: Early AM (12am-6am),7,14,14.327,0.961,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-10,4: Thursday (Th-Th),2: Peak AM (6am-10am),25,12,14.327,0.851,9.000,10.000,15.000,17.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-10,4: Thursday (Th-Th),3: Mid-Day (10am-3pm),50,14,14.327,0.958,7.000,11.000,17.000,17.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-10,4: Thursday (Th-Th),4: Peak PM (3pm-7pm),57,13,14.327,0.912,9.000,10.000,17.000,17.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-10,4: Thursday (Th-Th),5: Late PM (7pm-12am),33,12,14.327,0.847,3.000,8.000,15.000,17.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-10,5: Friday (F-F),0: All Day (12am-12am),181,14,14.327,0.948,6.000,10.000,17.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-10,5: Friday (F-F),1: Early AM (12am-6am),6,13,14.327,0.905,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-10,5: Friday (F-F),2: Peak AM (6am-10am),27,14,14.327,0.958,8.000,10.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-10,5: Friday (F-F),3: Mid-Day (10am-3pm),52,14,14.327,0.975,6.000,9.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-10,5: Friday (F-F),4: Peak PM (3pm-7pm),55,14,14.327,0.997,9.000,10.000,18.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-10,5: Friday (F-F),5: Late PM (7pm-12am),41,12,14.327,0.849,2.000,10.000,17.000,17.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-10,6: Saturday (Sa-Sa),0: All Day (12am-12am),195,13,14.327,0.929,8.000,10.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-10,6: Saturday (Sa-Sa),1: Early AM (12am-6am),11,13,14.327,0.877,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-10,6: Saturday (Sa-Sa),2: Peak AM (6am-10am),26,14,14.327,0.946,9.000,10.000,18.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-10,6: Saturday (Sa-Sa),3: Mid-Day (10am-3pm),67,14,14.327,0.967,8.000,10.000,17.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-10,6: Saturday (Sa-Sa),4: Peak PM (3pm-7pm),57,13,14.327,0.895,7.000,9.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-10,6: Saturday (Sa-Sa),5: Late PM (7pm-12am),34,13,14.327,0.912,10.000,10.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-10,7: Sunday (Su-Su),0: All Day (12am-12am),121,13,14.327,0.914,4.000,7.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-10,7: Sunday (Su-Su),1: Early AM (12am-6am),6,12,14.327,0.814,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-10,7: Sunday (Su-Su),2: Peak AM (6am-10am),8,14,14.327,0.987,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-10,7: Sunday (Su-Su),3: Mid-Day (10am-3pm),44,14,14.327,0.956,3.000,10.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-10,7: Sunday (Su-Su),4: Peak PM (3pm-7pm),30,13,14.327,0.936,4.000,10.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-10,7: Sunday (Su-Su),5: Late PM (7pm-12am),34,12,14.327,0.839,4.000,7.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-11,0: All Days (M-Su),0: All Day (12am-12am),156,13,19.107,0.697,6.000,10.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-11,0: All Days (M-Su),1: Early AM (12am-6am),5,15,19.107,0.769,10.000,11.000,25.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-11,0: All Days (M-Su),2: Peak AM (6am-10am),27,14,19.107,0.727,6.000,10.000,18.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-11,0: All Days (M-Su),3: Mid-Day (10am-3pm),45,13,19.107,0.700,7.000,10.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-11,0: All Days (M-Su),4: Peak PM (3pm-7pm),52,13,19.107,0.681,6.000,10.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-11,0: All Days (M-Su),5: Late PM (7pm-12am),27,13,19.107,0.677,5.000,9.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-11,1: Monday (M-M),0: All Day (12am-12am),210,13,19.107,0.687,6.000,10.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-11,1: Monday (M-M),1: Early AM (12am-6am),5,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-11,1: Monday (M-M),2: Peak AM (6am-10am),44,13,19.107,0.659,5.000,7.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-11,1: Monday (M-M),3: Mid-Day (10am-3pm),62,14,19.107,0.735,9.000,11.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-11,1: Monday (M-M),4: Peak PM (3pm-7pm),77,13,19.107,0.668,6.000,10.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-11,1: Monday (M-M),5: Late PM (7pm-12am),24,13,19.107,0.685,5.000,8.000,16.000,17.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-11,2: Tuesday (Tu-Tu),0: All Day (12am-12am),161,13,19.107,0.691,6.000,10.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-11,2: Tuesday (Tu-Tu),1: Early AM (12am-6am),5,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-11,2: Tuesday (Tu-Tu),2: Peak AM (6am-10am),28,14,19.107,0.728,6.000,10.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-11,2: Tuesday (Tu-Tu),3: Mid-Day (10am-3pm),45,14,19.107,0.714,7.000,10.000,17.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-11,2: Tuesday (Tu-Tu),4: Peak PM (3pm-7pm),57,13,19.107,0.662,4.000,10.000,16.000,17.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-11,2: Tuesday (Tu-Tu),5: Late PM (7pm-12am),26,13,19.107,0.677,9.000,10.000,17.000,17.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-11,3: Wednesday (W-W),0: All Day (12am-12am),171,13,19.107,0.695,6.000,10.000,17.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-11,3: Wednesday (W-W),1: Early AM (12am-6am),3,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-11,3: Wednesday (W-W),2: Peak AM (6am-10am),37,14,19.107,0.713,5.000,10.000,20.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-11,3: Wednesday (W-W),3: Mid-Day (10am-3pm),40,13,19.107,0.679,2.000,10.000,18.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-11,3: Wednesday (W-W),4: Peak PM (3pm-7pm),65,13,19.107,0.668,6.000,10.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-11,3: Wednesday (W-W),5: Late PM (7pm-12am),27,14,19.107,0.725,10.000,11.000,17.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-11,4: Thursday (Th-Th),0: All Day (12am-12am),165,13,19.107,0.689,7.000,9.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-11,4: Thursday (Th-Th),1: Early AM (12am-6am),6,16,19.107,0.851,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-11,4: Thursday (Th-Th),2: Peak AM (6am-10am),27,14,19.107,0.753,8.000,10.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-11,4: Thursday (Th-Th),3: Mid-Day (10am-3pm),50,13,19.107,0.696,9.000,10.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-11,4: Thursday (Th-Th),4: Peak PM (3pm-7pm),58,13,19.107,0.693,6.000,9.000,17.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-11,4: Thursday (Th-Th),5: Late PM (7pm-12am),24,10,19.107,0.549,3.000,8.000,15.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-11,5: Friday (F-F),0: All Day (12am-12am),163,14,19.107,0.708,7.000,10.000,17.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-11,5: Friday (F-F),1: Early AM (12am-6am),6,15,19.107,0.788,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-11,5: Friday (F-F),2: Peak AM (6am-10am),25,15,19.107,0.777,12.000,13.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-11,5: Friday (F-F),3: Mid-Day (10am-3pm),55,13,19.107,0.687,6.000,10.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-11,5: Friday (F-F),4: Peak PM (3pm-7pm),41,13,19.107,0.671,6.000,10.000,17.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-11,5: Friday (F-F),5: Late PM (7pm-12am),37,14,19.107,0.721,9.000,11.000,19.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-11,6: Saturday (Sa-Sa),0: All Day (12am-12am),115,13,19.107,0.697,7.000,10.000,17.000,17.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-11,6: Saturday (Sa-Sa),1: Early AM (12am-6am),7,13,19.107,0.681,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-11,6: Saturday (Sa-Sa),2: Peak AM (6am-10am),12,14,19.107,0.737,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-11,6: Saturday (Sa-Sa),3: Mid-Day (10am-3pm),43,13,19.107,0.670,7.000,10.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-11,6: Saturday (Sa-Sa),4: Peak PM (3pm-7pm),32,13,19.107,0.697,9.000,10.000,16.000,17.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-11,6: Saturday (Sa-Sa),5: Late PM (7pm-12am),21,14,19.107,0.732,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-11,7: Sunday (Su-Su),0: All Day (12am-12am),101,14,19.107,0.730,7.000,9.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-11,7: Sunday (Su-Su),1: Early AM (12am-6am),8,15,19.107,0.787,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-11,7: Sunday (Su-Su),2: Peak AM (6am-10am),11,16,19.107,0.846,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-11,7: Sunday (Su-Su),3: Mid-Day (10am-3pm),24,14,19.107,0.724,3.000,10.000,17.000,17.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-11,7: Sunday (Su-Su),4: Peak PM (3pm-7pm),31,14,19.107,0.747,9.000,9.000,18.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-11,7: Sunday (Su-Su),5: Late PM (7pm-12am),27,12,19.107,0.650,5.000,7.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-12,0: All Days (M-Su),0: All Day (12am-12am),161,13,16.294,0.795,6.000,9.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-12,0: All Days (M-Su),1: Early AM (12am-6am),5,14,16.294,0.829,9.000,13.000,17.000,17.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-12,0: All Days (M-Su),2: Peak AM (6am-10am),27,13,16.294,0.789,6.000,9.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-12,0: All Days (M-Su),3: Mid-Day (10am-3pm),45,13,16.294,0.797,6.000,10.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-12,0: All Days (M-Su),4: Peak PM (3pm-7pm),52,13,16.294,0.802,6.000,9.000,17.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-12,0: All Days (M-Su),5: Late PM (7pm-12am),32,13,16.294,0.780,3.000,9.000,17.000,17.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-12,1: Monday (M-M),0: All Day (12am-12am),153,13,16.294,0.771,5.000,8.000,17.000,17.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-12,1: Monday (M-M),1: Early AM (12am-6am),4,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-12,1: Monday (M-M),2: Peak AM (6am-10am),25,13,16.294,0.779,4.000,7.000,17.000,17.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-12,1: Monday (M-M),3: Mid-Day (10am-3pm),42,13,16.294,0.782,6.000,9.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-12,1: Monday (M-M),4: Peak PM (3pm-7pm),53,12,16.294,0.741,5.000,9.000,15.000,17.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-12,1: Monday (M-M),5: Late PM (7pm-12am),27,13,16.294,0.817,1.000,9.000,15.000,17.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-12,2: Tuesday (Tu-Tu),0: All Day (12am-12am),158,14,16.294,0.832,7.000,10.000,17.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-12,2: Tuesday (Tu-Tu),1: Early AM (12am-6am),4,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-12,2: Tuesday (Tu-Tu),2: Peak AM (6am-10am),25,13,16.294,0.795,5.000,9.000,17.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-12,2: Tuesday (Tu-Tu),3: Mid-Day (10am-3pm),49,13,16.294,0.790,9.000,10.000,17.000,17.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-12,2: Tuesday (Tu-Tu),4: Peak PM (3pm-7pm),41,14,16.294,0.865,7.000,10.000,19.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-12,2: Tuesday (Tu-Tu),5: Late PM (7pm-12am),38,14,16.294,0.865,7.000,10.000,17.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-12,3: Wednesday (W-W),0: All Day (12am-12am),133,13,16.294,0.789,6.000,10.000,17.000,17.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-12,3: Wednesday (W-W),1: Early AM (12am-6am),5,15,16.294,0.915,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-12,3: Wednesday (W-W),2: Peak AM (6am-10am),32,13,16.294,0.798,5.000,9.000,15.000,17.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-12,3: Wednesday (W-W),3: Mid-Day (10am-3pm),31,12,16.294,0.744,5.000,9.000,15.000,17.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-12,3: Wednesday (W-W),4: Peak PM (3pm-7pm),46,13,16.294,0.812,9.000,10.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-12,3: Wednesday (W-W),5: Late PM (7pm-12am),20,12,16.294,0.760,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-12,4: Thursday (Th-Th),0: All Day (12am-12am),177,13,16.294,0.809,5.000,9.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-12,4: Thursday (Th-Th),1: Early AM (12am-6am),3,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-12,4: Thursday (Th-Th),2: Peak AM (6am-10am),15,13,16.294,0.784,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-12,4: Thursday (Th-Th),3: Mid-Day (10am-3pm),45,14,16.294,0.848,5.000,10.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-12,4: Thursday (Th-Th),4: Peak PM (3pm-7pm),75,13,16.294,0.814,6.000,9.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-12,4: Thursday (Th-Th),5: Late PM (7pm-12am),38,12,16.294,0.760,2.000,9.000,16.000,17.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-12,5: Friday (F-F),0: All Day (12am-12am),179,13,16.294,0.804,7.000,10.000,17.000,17.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-12,5: Friday (F-F),1: Early AM (12am-6am),7,13,16.294,0.800,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-12,5: Friday (F-F),2: Peak AM (6am-10am),27,13,16.294,0.772,3.000,9.000,17.000,17.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-12,5: Friday (F-F),3: Mid-Day (10am-3pm),37,13,16.294,0.807,8.000,10.000,17.000,17.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-12,5: Friday (F-F),4: Peak PM (3pm-7pm),68,13,16.294,0.818,9.000,10.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-12,5: Friday (F-F),5: Late PM (7pm-12am),39,13,16.294,0.802,7.000,10.000,17.000,17.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-12,6: Saturday (Sa-Sa),0: All Day (12am-12am),210,12,16.294,0.766,7.000,9.000,16.000,17.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-12,6: Saturday (Sa-Sa),1: Early AM (12am-6am),4,13,16.294,0.773,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-12,6: Saturday (Sa-Sa),2: Peak AM (6am-10am),50,13,16.294,0.799,8.000,10.000,17.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-12,6: Saturday (Sa-Sa),3: Mid-Day (10am-3pm),66,13,16.294,0.791,8.000,10.000,16.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-12,6: Saturday (Sa-Sa),4: Peak PM (3pm-7pm),52,12,16.294,0.735,7.000,9.000,16.000,17.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-12,6: Saturday (Sa-Sa),5: Late PM (7pm-12am),38,12,16.294,0.719,4.000,7.000,14.000,17.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-12,7: Sunday (Su-Su),0: All Day (12am-12am),113,13,16.294,0.809,2.000,7.000,17.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-12,7: Sunday (Su-Su),1: Early AM (12am-6am),8,14,16.294,0.858,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-12,7: Sunday (Su-Su),2: Peak AM (6am-10am),12,13,16.294,0.784,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-12,7: Sunday (Su-Su),3: Mid-Day (10am-3pm),40,13,16.294,0.805,2.000,6.000,17.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-12,7: Sunday (Su-Su),4: Peak PM (3pm-7pm),28,14,16.294,0.867,4.000,4.000,19.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2023-12,7: Sunday (Su-Su),5: Late PM (7pm-12am),24,12,16.294,0.743,2.000,7.000,16.000,17.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-01,0: All Days (M-Su),0: All Day (12am-12am),145,13,17.734,0.748,7.000,9.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-01,0: All Days (M-Su),1: Early AM (12am-6am),7,15,17.734,0.829,8.000,9.000,17.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-01,0: All Days (M-Su),2: Peak AM (6am-10am),24,14,17.734,0.764,7.000,10.000,17.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-01,0: All Days (M-Su),3: Mid-Day (10am-3pm),40,13,17.734,0.740,5.000,9.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-01,0: All Days (M-Su),4: Peak PM (3pm-7pm),48,13,17.734,0.731,7.000,9.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-01,0: All Days (M-Su),5: Late PM (7pm-12am),27,13,17.734,0.757,7.000,10.000,17.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-01,1: Monday (M-M),0: All Day (12am-12am),164,13,17.734,0.750,7.000,9.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-01,1: Monday (M-M),1: Early AM (12am-6am),13,15,17.734,0.835,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-01,1: Monday (M-M),2: Peak AM (6am-10am),28,13,17.734,0.742,7.000,10.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-01,1: Monday (M-M),3: Mid-Day (10am-3pm),47,14,17.734,0.771,7.000,10.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-01,1: Monday (M-M),4: Peak PM (3pm-7pm),54,13,17.734,0.732,5.000,9.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-01,1: Monday (M-M),5: Late PM (7pm-12am),23,13,17.734,0.713,7.000,8.000,15.000,16.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-01,2: Tuesday (Tu-Tu),0: All Day (12am-12am),135,13,17.734,0.737,6.000,9.000,17.000,17.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-01,2: Tuesday (Tu-Tu),1: Early AM (12am-6am),4,15,17.734,0.838,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-01,2: Tuesday (Tu-Tu),2: Peak AM (6am-10am),24,13,17.734,0.739,6.000,9.000,17.000,17.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-01,2: Tuesday (Tu-Tu),3: Mid-Day (10am-3pm),35,13,17.734,0.730,3.000,9.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-01,2: Tuesday (Tu-Tu),4: Peak PM (3pm-7pm),43,13,17.734,0.743,6.000,9.000,15.000,17.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-01,2: Tuesday (Tu-Tu),5: Late PM (7pm-12am),29,13,17.734,0.721,8.000,9.000,16.000,17.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-01,3: Wednesday (W-W),0: All Day (12am-12am),129,14,17.734,0.762,9.000,10.000,17.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-01,3: Wednesday (W-W),1: Early AM (12am-6am),4,20,17.734,1.000,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-01,3: Wednesday (W-W),2: Peak AM (6am-10am),30,14,17.734,0.785,9.000,10.000,18.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-01,3: Wednesday (W-W),3: Mid-Day (10am-3pm),37,14,17.734,0.774,9.000,11.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-01,3: Wednesday (W-W),4: Peak PM (3pm-7pm),37,14,17.734,0.762,10.000,11.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-01,3: Wednesday (W-W),5: Late PM (7pm-12am),20,11,17.734,0.632,5.000,9.000,13.000,14.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-01,4: Thursday (Th-Th),0: All Day (12am-12am),173,14,17.734,0.771,8.000,9.000,17.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-01,4: Thursday (Th-Th),1: Early AM (12am-6am),6,15,17.734,0.833,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-01,4: Thursday (Th-Th),2: Peak AM (6am-10am),34,14,17.734,0.810,9.000,9.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-01,4: Thursday (Th-Th),3: Mid-Day (10am-3pm),46,14,17.734,0.793,8.000,9.000,17.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-01,4: Thursday (Th-Th),4: Peak PM (3pm-7pm),52,13,17.734,0.710,8.000,9.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-01,4: Thursday (Th-Th),5: Late PM (7pm-12am),35,14,17.734,0.784,5.000,10.000,17.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-01,5: Friday (F-F),0: All Day (12am-12am),180,13,17.734,0.756,8.000,10.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-01,5: Friday (F-F),1: Early AM (12am-6am),3,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-01,5: Friday (F-F),2: Peak AM (6am-10am),32,13,17.734,0.758,6.000,10.000,17.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-01,5: Friday (F-F),3: Mid-Day (10am-3pm),39,13,17.734,0.708,5.000,10.000,17.000,17.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-01,5: Friday (F-F),4: Peak PM (3pm-7pm),75,13,17.734,0.732,8.000,10.000,17.000,17.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-01,5: Friday (F-F),5: Late PM (7pm-12am),30,15,17.734,0.846,9.000,10.000,18.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-01,6: Saturday (Sa-Sa),0: All Day (12am-12am),126,13,17.734,0.710,4.000,8.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-01,6: Saturday (Sa-Sa),1: Early AM (12am-6am),7,13,17.734,0.728,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-01,6: Saturday (Sa-Sa),2: Peak AM (6am-10am),13,12,17.734,0.700,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-01,6: Saturday (Sa-Sa),3: Mid-Day (10am-3pm),35,11,17.734,0.643,2.000,5.000,17.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-01,6: Saturday (Sa-Sa),4: Peak PM (3pm-7pm),44,13,17.734,0.712,4.000,9.000,17.000,17.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-01,6: Saturday (Sa-Sa),5: Late PM (7pm-12am),27,14,17.734,0.795,8.000,10.000,17.000,43.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-01,7: Sunday (Su-Su),0: All Day (12am-12am),113,13,17.734,0.744,7.000,9.000,17.000,17.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-01,7: Sunday (Su-Su),1: Early AM (12am-6am),8,12,17.734,0.666,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-01,7: Sunday (Su-Su),2: Peak AM (6am-10am),3,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-01,7: Sunday (Su-Su),3: Mid-Day (10am-3pm),40,13,17.734,0.733,7.000,10.000,17.000,17.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-01,7: Sunday (Su-Su),4: Peak PM (3pm-7pm),33,13,17.734,0.728,6.000,9.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-01,7: Sunday (Su-Su),5: Late PM (7pm-12am),28,14,17.734,0.786,7.000,12.000,17.000,17.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-02,0: All Days (M-Su),0: All Day (12am-12am),147,13,14.439,0.915,5.000,9.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-02,0: All Days (M-Su),1: Early AM (12am-6am),4,12,14.439,0.800,2.000,2.000,17.000,17.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-02,0: All Days (M-Su),2: Peak AM (6am-10am),23,13,14.439,0.895,3.000,8.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-02,0: All Days (M-Su),3: Mid-Day (10am-3pm),38,13,14.439,0.900,5.000,9.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-02,0: All Days (M-Su),4: Peak PM (3pm-7pm),55,14,14.439,0.944,7.000,10.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-02,0: All Days (M-Su),5: Late PM (7pm-12am),27,13,14.439,0.914,6.000,9.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-02,1: Monday (M-M),0: All Day (12am-12am),142,12,14.439,0.860,4.000,8.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-02,1: Monday (M-M),1: Early AM (12am-6am),1,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-02,1: Monday (M-M),2: Peak AM (6am-10am),26,13,14.439,0.867,5.000,5.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-02,1: Monday (M-M),3: Mid-Day (10am-3pm),40,12,14.439,0.827,3.000,8.000,17.000,17.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-02,1: Monday (M-M),4: Peak PM (3pm-7pm),54,13,14.439,0.877,3.000,8.000,17.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-02,1: Monday (M-M),5: Late PM (7pm-12am),22,12,14.439,0.857,6.000,10.000,14.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-02,2: Tuesday (Tu-Tu),0: All Day (12am-12am),164,13,14.439,0.922,6.000,9.000,17.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-02,2: Tuesday (Tu-Tu),1: Early AM (12am-6am),2,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-02,2: Tuesday (Tu-Tu),2: Peak AM (6am-10am),27,14,14.439,0.935,5.000,11.000,17.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-02,2: Tuesday (Tu-Tu),3: Mid-Day (10am-3pm),50,13,14.439,0.899,6.000,9.000,17.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-02,2: Tuesday (Tu-Tu),4: Peak PM (3pm-7pm),59,13,14.439,0.921,7.000,9.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-02,2: Tuesday (Tu-Tu),5: Late PM (7pm-12am),27,14,14.439,0.941,7.000,9.000,17.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-02,3: Wednesday (W-W),0: All Day (12am-12am),140,14,14.439,0.980,7.000,10.000,17.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-02,3: Wednesday (W-W),1: Early AM (12am-6am),1,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-02,3: Wednesday (W-W),2: Peak AM (6am-10am),24,13,14.439,0.928,10.000,11.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-02,3: Wednesday (W-W),3: Mid-Day (10am-3pm),36,14,14.439,0.953,2.000,9.000,17.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-02,3: Wednesday (W-W),4: Peak PM (3pm-7pm),63,15,14.439,1.000,8.000,11.000,18.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-02,3: Wednesday (W-W),5: Late PM (7pm-12am),17,13,14.439,0.928,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-02,4: Thursday (Th-Th),0: All Day (12am-12am),161,14,14.439,0.950,7.000,10.000,17.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-02,4: Thursday (Th-Th),1: Early AM (12am-6am),6,11,14.439,0.765,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-02,4: Thursday (Th-Th),2: Peak AM (6am-10am),22,14,14.439,0.942,3.000,9.000,17.000,17.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-02,4: Thursday (Th-Th),3: Mid-Day (10am-3pm),39,13,14.439,0.924,6.000,8.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-02,4: Thursday (Th-Th),4: Peak PM (3pm-7pm),69,14,14.439,0.968,8.000,10.000,17.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-02,4: Thursday (Th-Th),5: Late PM (7pm-12am),26,14,14.439,0.988,9.000,12.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-02,5: Friday (F-F),0: All Day (12am-12am),202,13,14.439,0.888,5.000,9.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-02,5: Friday (F-F),1: Early AM (12am-6am),4,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-02,5: Friday (F-F),2: Peak AM (6am-10am),33,13,14.439,0.888,4.000,5.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-02,5: Friday (F-F),3: Mid-Day (10am-3pm),36,13,14.439,0.870,7.000,9.000,17.000,17.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-02,5: Friday (F-F),4: Peak PM (3pm-7pm),87,13,14.439,0.926,9.000,10.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-02,5: Friday (F-F),5: Late PM (7pm-12am),42,12,14.439,0.830,1.000,6.000,17.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-02,6: Saturday (Sa-Sa),0: All Day (12am-12am),126,13,14.439,0.909,6.000,10.000,17.000,17.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-02,6: Saturday (Sa-Sa),1: Early AM (12am-6am),6,11,14.439,0.769,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-02,6: Saturday (Sa-Sa),2: Peak AM (6am-10am),17,10,14.439,0.713,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-02,6: Saturday (Sa-Sa),3: Mid-Day (10am-3pm),36,14,14.439,0.944,9.000,10.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-02,6: Saturday (Sa-Sa),4: Peak PM (3pm-7pm),31,14,14.439,0.940,5.000,10.000,17.000,17.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-02,6: Saturday (Sa-Sa),5: Late PM (7pm-12am),36,14,14.439,0.967,8.000,10.000,17.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-02,7: Sunday (Su-Su),0: All Day (12am-12am),87,13,14.439,0.878,6.000,9.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-02,7: Sunday (Su-Su),1: Early AM (12am-6am),10,10,14.439,0.721,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-02,7: Sunday (Su-Su),2: Peak AM (6am-10am),10,15,14.439,1.000,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-02,7: Sunday (Su-Su),3: Mid-Day (10am-3pm),30,13,14.439,0.874,4.000,7.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-02,7: Sunday (Su-Su),4: Peak PM (3pm-7pm),19,13,14.439,0.897,10.000,10.000,17.000,17.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-02,7: Sunday (Su-Su),5: Late PM (7pm-12am),18,13,14.439,0.875,4.000,6.000,16.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-03,0: All Days (M-Su),0: All Day (12am-12am),124,14,17.274,0.822,7.000,10.000,18.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-03,0: All Days (M-Su),1: Early AM (12am-6am),6,13,17.274,0.754,6.000,7.000,19.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-03,0: All Days (M-Su),2: Peak AM (6am-10am),19,15,17.274,0.858,7.000,10.000,18.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-03,0: All Days (M-Su),3: Mid-Day (10am-3pm),36,14,17.274,0.837,7.000,10.000,18.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-03,0: All Days (M-Su),4: Peak PM (3pm-7pm),40,14,17.274,0.816,7.000,10.000,17.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-03,0: All Days (M-Su),5: Late PM (7pm-12am),23,14,17.274,0.795,6.000,10.000,17.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-03,1: Monday (M-M),0: All Day (12am-12am),134,15,17.274,0.842,7.000,10.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-03,1: Monday (M-M),1: Early AM (12am-6am),7,12,17.274,0.686,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-03,1: Monday (M-M),2: Peak AM (6am-10am),23,17,17.274,1.000,13.000,15.000,20.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-03,1: Monday (M-M),3: Mid-Day (10am-3pm),39,14,17.274,0.823,5.000,9.000,18.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-03,1: Monday (M-M),4: Peak PM (3pm-7pm),50,13,17.274,0.776,5.000,9.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-03,1: Monday (M-M),5: Late PM (7pm-12am),15,16,17.274,0.934,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-03,2: Tuesday (Tu-Tu),0: All Day (12am-12am),146,15,17.274,0.870,8.000,11.000,18.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-03,2: Tuesday (Tu-Tu),1: Early AM (12am-6am),4,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-03,2: Tuesday (Tu-Tu),2: Peak AM (6am-10am),23,14,17.274,0.786,3.000,8.000,18.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-03,2: Tuesday (Tu-Tu),3: Mid-Day (10am-3pm),40,15,17.274,0.848,6.000,10.000,17.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-03,2: Tuesday (Tu-Tu),4: Peak PM (3pm-7pm),55,16,17.274,0.915,9.000,12.000,20.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-03,2: Tuesday (Tu-Tu),5: Late PM (7pm-12am),24,15,17.274,0.866,9.000,10.000,17.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-03,3: Wednesday (W-W),0: All Day (12am-12am),137,14,17.274,0.817,7.000,10.000,18.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-03,3: Wednesday (W-W),1: Early AM (12am-6am),6,14,17.274,0.789,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-03,3: Wednesday (W-W),2: Peak AM (6am-10am),29,14,17.274,0.803,7.000,8.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-03,3: Wednesday (W-W),3: Mid-Day (10am-3pm),53,14,17.274,0.829,6.000,9.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-03,3: Wednesday (W-W),4: Peak PM (3pm-7pm),31,14,17.274,0.828,6.000,10.000,18.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-03,3: Wednesday (W-W),5: Late PM (7pm-12am),17,14,17.274,0.789,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-03,4: Thursday (Th-Th),0: All Day (12am-12am),149,14,17.274,0.820,6.000,10.000,18.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-03,4: Thursday (Th-Th),1: Early AM (12am-6am),4,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-03,4: Thursday (Th-Th),2: Peak AM (6am-10am),30,16,17.274,0.937,2.000,13.000,23.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-03,4: Thursday (Th-Th),3: Mid-Day (10am-3pm),35,15,17.274,0.880,5.000,8.000,25.000,33.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-03,4: Thursday (Th-Th),4: Peak PM (3pm-7pm),56,14,17.274,0.812,9.000,11.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-03,4: Thursday (Th-Th),5: Late PM (7pm-12am),24,11,17.274,0.639,6.000,8.000,15.000,15.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-03,5: Friday (F-F),0: All Day (12am-12am),135,15,17.274,0.864,7.000,10.000,18.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-03,5: Friday (F-F),1: Early AM (12am-6am),6,16,17.274,0.905,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-03,5: Friday (F-F),2: Peak AM (6am-10am),18,14,17.274,0.835,10.000,10.000,14.000,16.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-03,5: Friday (F-F),3: Mid-Day (10am-3pm),37,15,17.274,0.884,9.000,11.000,18.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-03,5: Friday (F-F),4: Peak PM (3pm-7pm),42,14,17.274,0.833,7.000,10.000,18.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-03,5: Friday (F-F),5: Late PM (7pm-12am),32,15,17.274,0.889,4.000,9.000,17.000,38.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-03,6: Saturday (Sa-Sa),0: All Day (12am-12am),105,13,17.274,0.751,6.000,9.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-03,6: Saturday (Sa-Sa),1: Early AM (12am-6am),7,10,17.274,0.605,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-03,6: Saturday (Sa-Sa),2: Peak AM (6am-10am),9,13,17.274,0.737,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-03,6: Saturday (Sa-Sa),3: Mid-Day (10am-3pm),31,14,17.274,0.786,9.000,10.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-03,6: Saturday (Sa-Sa),4: Peak PM (3pm-7pm),30,13,17.274,0.733,5.000,9.000,17.000,17.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-03,6: Saturday (Sa-Sa),5: Late PM (7pm-12am),27,13,17.274,0.774,10.000,11.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-03,7: Sunday (Su-Su),0: All Day (12am-12am),78,13,17.274,0.770,4.000,9.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-03,7: Sunday (Su-Su),1: Early AM (12am-6am),9,13,17.274,0.777,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-03,7: Sunday (Su-Su),2: Peak AM (6am-10am),6,14,17.274,0.812,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-03,7: Sunday (Su-Su),3: Mid-Day (10am-3pm),23,14,17.274,0.811,9.000,10.000,18.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-03,7: Sunday (Su-Su),4: Peak PM (3pm-7pm),23,14,17.274,0.783,4.000,9.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-03,7: Sunday (Su-Su),5: Late PM (7pm-12am),17,12,17.274,0.680,2.000,4.000,18.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-04,0: All Days (M-Su),0: All Day (12am-12am),109,14,16.094,0.883,7.000,10.000,17.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-04,0: All Days (M-Su),1: Early AM (12am-6am),4,14,16.094,0.858,4.000,11.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-04,0: All Days (M-Su),2: Peak AM (6am-10am),16,15,16.094,0.915,9.000,11.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-04,0: All Days (M-Su),3: Mid-Day (10am-3pm),34,14,16.094,0.882,8.000,10.000,17.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-04,0: All Days (M-Su),4: Peak PM (3pm-7pm),38,14,16.094,0.895,7.000,11.000,17.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-04,0: All Days (M-Su),5: Late PM (7pm-12am),18,13,16.094,0.834,4.000,8.000,17.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-04,1: Monday (M-M),0: All Day (12am-12am),118,14,16.094,0.854,7.000,10.000,17.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-04,1: Monday (M-M),1: Early AM (12am-6am),4,12,16.094,0.738,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-04,1: Monday (M-M),2: Peak AM (6am-10am),16,14,16.094,0.880,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-04,1: Monday (M-M),3: Mid-Day (10am-3pm),36,14,16.094,0.888,8.000,10.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-04,1: Monday (M-M),4: Peak PM (3pm-7pm),43,14,16.094,0.869,9.000,11.000,17.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-04,1: Monday (M-M),5: Late PM (7pm-12am),20,12,16.094,0.764,3.000,4.000,17.000,17.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-04,2: Tuesday (Tu-Tu),0: All Day (12am-12am),105,14,16.094,0.900,9.000,10.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-04,2: Tuesday (Tu-Tu),1: Early AM (12am-6am),2,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-04,2: Tuesday (Tu-Tu),2: Peak AM (6am-10am),18,15,16.094,0.909,10.000,11.000,20.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-04,2: Tuesday (Tu-Tu),3: Mid-Day (10am-3pm),37,13,16.094,0.828,3.000,9.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-04,2: Tuesday (Tu-Tu),4: Peak PM (3pm-7pm),32,15,16.094,0.955,9.000,11.000,17.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-04,2: Tuesday (Tu-Tu),5: Late PM (7pm-12am),16,15,16.094,0.940,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-04,3: Wednesday (W-W),0: All Day (12am-12am),101,15,16.094,0.947,7.000,11.000,18.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-04,3: Wednesday (W-W),1: Early AM (12am-6am),4,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-04,3: Wednesday (W-W),2: Peak AM (6am-10am),15,15,16.094,0.907,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-04,3: Wednesday (W-W),3: Mid-Day (10am-3pm),37,17,16.094,1.000,9.000,12.000,19.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-04,3: Wednesday (W-W),4: Peak PM (3pm-7pm),36,14,16.094,0.887,5.000,10.000,18.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-04,3: Wednesday (W-W),5: Late PM (7pm-12am),9,14,16.094,0.850,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-04,4: Thursday (Th-Th),0: All Day (12am-12am),127,14,16.094,0.866,6.000,9.000,17.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-04,4: Thursday (Th-Th),1: Early AM (12am-6am),3,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-04,4: Thursday (Th-Th),2: Peak AM (6am-10am),19,15,16.094,0.942,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-04,4: Thursday (Th-Th),3: Mid-Day (10am-3pm),30,14,16.094,0.889,9.000,11.000,18.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-04,4: Thursday (Th-Th),4: Peak PM (3pm-7pm),53,14,16.094,0.887,9.000,11.000,17.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-04,4: Thursday (Th-Th),5: Late PM (7pm-12am),22,12,16.094,0.739,2.000,4.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-04,5: Friday (F-F),0: All Day (12am-12am),148,14,16.094,0.886,8.000,10.000,18.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-04,5: Friday (F-F),1: Early AM (12am-6am),3,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-04,5: Friday (F-F),2: Peak AM (6am-10am),27,15,16.094,0.928,10.000,11.000,21.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-04,5: Friday (F-F),3: Mid-Day (10am-3pm),38,13,16.094,0.829,4.000,10.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-04,5: Friday (F-F),4: Peak PM (3pm-7pm),54,15,16.094,0.931,8.000,12.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-04,5: Friday (F-F),5: Late PM (7pm-12am),26,14,16.094,0.857,8.000,10.000,18.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-04,6: Saturday (Sa-Sa),0: All Day (12am-12am),92,14,16.094,0.844,7.000,10.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-04,6: Saturday (Sa-Sa),1: Early AM (12am-6am),8,14,16.094,0.863,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-04,6: Saturday (Sa-Sa),2: Peak AM (6am-10am),11,15,16.094,0.905,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-04,6: Saturday (Sa-Sa),3: Mid-Day (10am-3pm),33,14,16.094,0.871,9.000,11.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-04,6: Saturday (Sa-Sa),4: Peak PM (3pm-7pm),23,13,16.094,0.796,2.000,6.000,16.000,16.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-04,6: Saturday (Sa-Sa),5: Late PM (7pm-12am),17,13,16.094,0.810,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-04,7: Sunday (Su-Su),0: All Day (12am-12am),74,14,16.094,0.895,8.000,10.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-04,7: Sunday (Su-Su),1: Early AM (12am-6am),5,15,16.094,0.946,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-04,7: Sunday (Su-Su),2: Peak AM (6am-10am),3,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-04,7: Sunday (Su-Su),3: Mid-Day (10am-3pm),24,14,16.094,0.848,8.000,9.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-04,7: Sunday (Su-Su),4: Peak PM (3pm-7pm),26,15,16.094,0.906,10.000,11.000,17.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-04,7: Sunday (Su-Su),5: Late PM (7pm-12am),15,15,16.094,0.918,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-05,0: All Days (M-Su),0: All Day (12am-12am),127,14,19.607,0.725,6.000,10.000,18.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-05,0: All Days (M-Su),1: Early AM (12am-6am),7,14,19.607,0.690,4.000,10.000,16.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-05,0: All Days (M-Su),2: Peak AM (6am-10am),17,14,19.607,0.735,4.000,10.000,19.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-05,0: All Days (M-Su),3: Mid-Day (10am-3pm),40,14,19.607,0.737,7.000,11.000,18.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-05,0: All Days (M-Su),4: Peak PM (3pm-7pm),43,14,19.607,0.724,7.000,10.000,18.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-05,0: All Days (M-Su),5: Late PM (7pm-12am),21,14,19.607,0.709,5.000,10.000,18.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-05,1: Monday (M-M),0: All Day (12am-12am),112,14,19.607,0.699,7.000,9.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-05,1: Monday (M-M),1: Early AM (12am-6am),5,14,19.607,0.727,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-05,1: Monday (M-M),2: Peak AM (6am-10am),16,14,19.607,0.714,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-05,1: Monday (M-M),3: Mid-Day (10am-3pm),42,15,19.607,0.756,7.000,10.000,17.000,18.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-05,1: Monday (M-M),4: Peak PM (3pm-7pm),32,13,19.607,0.667,8.000,10.000,17.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-05,1: Monday (M-M),5: Late PM (7pm-12am),16,12,19.607,0.594,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-05,2: Tuesday (Tu-Tu),0: All Day (12am-12am),122,14,19.607,0.734,8.000,10.000,19.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-05,2: Tuesday (Tu-Tu),1: Early AM (12am-6am),7,16,19.607,0.832,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-05,2: Tuesday (Tu-Tu),2: Peak AM (6am-10am),13,15,19.607,0.745,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-05,2: Tuesday (Tu-Tu),3: Mid-Day (10am-3pm),34,15,19.607,0.740,9.000,10.000,18.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-05,2: Tuesday (Tu-Tu),4: Peak PM (3pm-7pm),52,14,19.607,0.724,7.000,10.000,19.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-05,2: Tuesday (Tu-Tu),5: Late PM (7pm-12am),15,14,19.607,0.703,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-05,3: Wednesday (W-W),0: All Day (12am-12am),144,14,19.607,0.736,8.000,11.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-05,3: Wednesday (W-W),1: Early AM (12am-6am),5,14,19.607,0.697,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-05,3: Wednesday (W-W),2: Peak AM (6am-10am),21,13,19.607,0.652,6.000,9.000,17.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-05,3: Wednesday (W-W),3: Mid-Day (10am-3pm),52,15,19.607,0.747,10.000,12.000,19.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-05,3: Wednesday (W-W),4: Peak PM (3pm-7pm),47,15,19.607,0.747,8.000,11.000,19.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-05,3: Wednesday (W-W),5: Late PM (7pm-12am),19,15,19.607,0.779,5.000,12.000,21.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-05,4: Thursday (Th-Th),0: All Day (12am-12am),142,15,19.607,0.759,8.000,11.000,18.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-05,4: Thursday (Th-Th),1: Early AM (12am-6am),6,11,19.607,0.539,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-05,4: Thursday (Th-Th),2: Peak AM (6am-10am),18,16,19.607,0.831,4.000,11.000,25.000,30.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-05,4: Thursday (Th-Th),3: Mid-Day (10am-3pm),42,15,19.607,0.762,8.000,13.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-05,4: Thursday (Th-Th),4: Peak PM (3pm-7pm),53,15,19.607,0.768,8.000,12.000,18.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-05,4: Thursday (Th-Th),5: Late PM (7pm-12am),24,14,19.607,0.733,10.000,10.000,15.000,17.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-05,5: Friday (F-F),0: All Day (12am-12am),135,14,19.607,0.724,4.000,10.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-05,5: Friday (F-F),1: Early AM (12am-6am),6,14,19.607,0.712,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-05,5: Friday (F-F),2: Peak AM (6am-10am),24,14,19.607,0.737,3.000,11.000,19.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-05,5: Friday (F-F),3: Mid-Day (10am-3pm),37,14,19.607,0.738,7.000,11.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-05,5: Friday (F-F),4: Peak PM (3pm-7pm),44,14,19.607,0.724,4.000,9.000,18.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-05,5: Friday (F-F),5: Late PM (7pm-12am),25,14,19.607,0.692,4.000,9.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-05,6: Saturday (Sa-Sa),0: All Day (12am-12am),121,14,19.607,0.712,3.000,10.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-05,6: Saturday (Sa-Sa),1: Early AM (12am-6am),6,13,19.607,0.652,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-05,6: Saturday (Sa-Sa),2: Peak AM (6am-10am),14,15,19.607,0.790,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-05,6: Saturday (Sa-Sa),3: Mid-Day (10am-3pm),33,14,19.607,0.696,3.000,3.000,16.000,17.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-05,6: Saturday (Sa-Sa),4: Peak PM (3pm-7pm),41,14,19.607,0.693,10.000,10.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-05,6: Saturday (Sa-Sa),5: Late PM (7pm-12am),28,14,19.607,0.732,8.000,10.000,19.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-05,7: Sunday (Su-Su),0: All Day (12am-12am),104,14,19.607,0.689,6.000,9.000,18.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-05,7: Sunday (Su-Su),1: Early AM (12am-6am),14,13,19.607,0.682,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-05,7: Sunday (Su-Su),2: Peak AM (6am-10am),8,13,19.607,0.666,N/A,N/A,N/A,N/A
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-05,7: Sunday (Su-Su),3: Mid-Day (10am-3pm),42,14,19.607,0.707,7.000,12.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-05,7: Sunday (Su-Su),4: Peak PM (3pm-7pm),26,13,19.607,0.681,6.000,6.000,17.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Hart Street,yes,270,no,2024-05,7: Sunday (Su-Su),5: Late PM (7pm-12am),15,13,19.607,0.671,N/A,N/A,N/A,N/A

@@ -1,0 +1,193 @@
+Data Periods,Mode of Travel,Zone ID,Zone Name,Zone Is Pass-Through,Zone Direction (degrees),Zone is Bi-Direction,Year-Month,Day Type,Day Part,Average Daily Spot Traffic (StL Volume),Avg Spot Speed (mph),Free Flow Speed (mph),Free Flow Factor,5th Speed Percentile,75th Speed Percentile,85th Speed Percentile,95th Speed Percentile
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue,yes,0,yes,2021-01,0: All Days (M-Su),0: All Day (12am-12am),656,20,28.869,0.686,12.000,22.000,24.000,28.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue,yes,0,yes,2021-01,0: All Days (M-Su),1: Early AM (12am-6am),11,21,28.869,0.740,15.000,24.000,40.000,40.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue,yes,0,yes,2021-01,0: All Days (M-Su),2: Peak AM (6am-10am),115,20,28.869,0.707,13.000,23.000,25.000,29.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue,yes,0,yes,2021-01,0: All Days (M-Su),3: Mid-Day (10am-3pm),227,20,28.869,0.690,13.000,23.000,24.000,28.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue,yes,0,yes,2021-01,0: All Days (M-Su),4: Peak PM (3pm-7pm),211,20,28.869,0.678,12.000,22.000,24.000,29.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue,yes,0,yes,2021-01,0: All Days (M-Su),5: Late PM (7pm-12am),92,19,28.869,0.662,12.000,21.000,24.000,28.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue,yes,0,yes,2021-01,1: Monday (M-M),0: All Day (12am-12am),697,20,28.869,0.684,13.000,22.000,24.000,28.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue,yes,0,yes,2021-01,1: Monday (M-M),1: Early AM (12am-6am),8,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue,yes,0,yes,2021-01,1: Monday (M-M),2: Peak AM (6am-10am),149,20,28.869,0.704,13.000,23.000,25.000,29.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue,yes,0,yes,2021-01,1: Monday (M-M),3: Mid-Day (10am-3pm),245,20,28.869,0.678,14.000,22.000,24.000,28.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue,yes,0,yes,2021-01,1: Monday (M-M),4: Peak PM (3pm-7pm),201,20,28.869,0.678,12.000,22.000,24.000,30.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue,yes,0,yes,2021-01,1: Monday (M-M),5: Late PM (7pm-12am),94,20,28.869,0.680,14.000,20.000,21.000,24.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue,yes,0,yes,2021-01,2: Tuesday (Tu-Tu),0: All Day (12am-12am),736,19,28.869,0.674,11.000,22.000,24.000,29.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue,yes,0,yes,2021-01,2: Tuesday (Tu-Tu),1: Early AM (12am-6am),11,27,28.869,0.944,N/A,N/A,N/A,N/A
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue,yes,0,yes,2021-01,2: Tuesday (Tu-Tu),2: Peak AM (6am-10am),144,20,28.869,0.688,11.000,22.000,24.000,35.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue,yes,0,yes,2021-01,2: Tuesday (Tu-Tu),3: Mid-Day (10am-3pm),236,19,28.869,0.668,11.000,22.000,24.000,28.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue,yes,0,yes,2021-01,2: Tuesday (Tu-Tu),4: Peak PM (3pm-7pm),238,19,28.869,0.649,12.000,21.000,23.000,26.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue,yes,0,yes,2021-01,2: Tuesday (Tu-Tu),5: Late PM (7pm-12am),107,20,28.869,0.693,14.000,22.000,25.000,28.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue,yes,0,yes,2021-01,3: Wednesday (W-W),0: All Day (12am-12am),743,20,28.869,0.697,13.000,22.000,24.000,29.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue,yes,0,yes,2021-01,3: Wednesday (W-W),1: Early AM (12am-6am),13,20,28.869,0.685,N/A,N/A,N/A,N/A
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue,yes,0,yes,2021-01,3: Wednesday (W-W),2: Peak AM (6am-10am),176,20,28.869,0.702,13.000,23.000,24.000,26.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue,yes,0,yes,2021-01,3: Wednesday (W-W),3: Mid-Day (10am-3pm),186,20,28.869,0.687,12.000,22.000,23.000,32.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue,yes,0,yes,2021-01,3: Wednesday (W-W),4: Peak PM (3pm-7pm),266,21,28.869,0.713,13.000,23.000,25.000,32.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue,yes,0,yes,2021-01,3: Wednesday (W-W),5: Late PM (7pm-12am),102,19,28.869,0.667,12.000,21.000,24.000,32.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue,yes,0,yes,2021-01,4: Thursday (Th-Th),0: All Day (12am-12am),686,20,28.869,0.704,10.000,23.000,26.000,32.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue,yes,0,yes,2021-01,4: Thursday (Th-Th),1: Early AM (12am-6am),13,31,28.869,1.000,N/A,N/A,N/A,N/A
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue,yes,0,yes,2021-01,4: Thursday (Th-Th),2: Peak AM (6am-10am),140,22,28.869,0.751,15.000,23.000,27.000,35.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue,yes,0,yes,2021-01,4: Thursday (Th-Th),3: Mid-Day (10am-3pm),218,20,28.869,0.708,10.000,24.000,26.000,30.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue,yes,0,yes,2021-01,4: Thursday (Th-Th),4: Peak PM (3pm-7pm),240,19,28.869,0.675,10.000,22.000,24.000,27.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue,yes,0,yes,2021-01,4: Thursday (Th-Th),5: Late PM (7pm-12am),75,18,28.869,0.627,6.000,24.000,26.000,32.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue,yes,0,yes,2021-01,5: Friday (F-F),0: All Day (12am-12am),763,20,28.869,0.683,13.000,22.000,24.000,28.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue,yes,0,yes,2021-01,5: Friday (F-F),1: Early AM (12am-6am),26,17,28.869,0.572,N/A,N/A,N/A,N/A
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue,yes,0,yes,2021-01,5: Friday (F-F),2: Peak AM (6am-10am),113,20,28.869,0.700,14.000,22.000,23.000,27.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue,yes,0,yes,2021-01,5: Friday (F-F),3: Mid-Day (10am-3pm),235,20,28.869,0.691,13.000,23.000,24.000,26.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue,yes,0,yes,2021-01,5: Friday (F-F),4: Peak PM (3pm-7pm),262,20,28.869,0.701,13.000,23.000,25.000,30.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue,yes,0,yes,2021-01,5: Friday (F-F),5: Late PM (7pm-12am),127,18,28.869,0.639,13.000,21.000,23.000,25.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue,yes,0,yes,2021-01,6: Saturday (Sa-Sa),0: All Day (12am-12am),549,20,28.869,0.689,13.000,22.000,24.000,29.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue,yes,0,yes,2021-01,6: Saturday (Sa-Sa),1: Early AM (12am-6am),2,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue,yes,0,yes,2021-01,6: Saturday (Sa-Sa),2: Peak AM (6am-10am),58,21,28.869,0.739,13.000,24.000,25.000,41.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue,yes,0,yes,2021-01,6: Saturday (Sa-Sa),3: Mid-Day (10am-3pm),255,20,28.869,0.703,14.000,22.000,24.000,28.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue,yes,0,yes,2021-01,6: Saturday (Sa-Sa),4: Peak PM (3pm-7pm),155,19,28.869,0.660,10.000,22.000,23.000,27.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue,yes,0,yes,2021-01,6: Saturday (Sa-Sa),5: Late PM (7pm-12am),79,19,28.869,0.672,8.000,23.000,24.000,26.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue,yes,0,yes,2021-01,7: Sunday (Su-Su),0: All Day (12am-12am),464,19,28.869,0.671,12.000,22.000,24.000,26.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue,yes,0,yes,2021-01,7: Sunday (Su-Su),1: Early AM (12am-6am),2,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue,yes,0,yes,2021-01,7: Sunday (Su-Su),2: Peak AM (6am-10am),53,19,28.869,0.655,8.000,22.000,22.000,25.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue,yes,0,yes,2021-01,7: Sunday (Su-Su),3: Mid-Day (10am-3pm),208,20,28.869,0.685,13.000,23.000,24.000,26.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue,yes,0,yes,2021-01,7: Sunday (Su-Su),4: Peak PM (3pm-7pm),137,19,28.869,0.657,10.000,21.000,23.000,32.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue,yes,0,yes,2021-01,7: Sunday (Su-Su),5: Late PM (7pm-12am),63,19,28.869,0.657,13.000,21.000,24.000,25.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue,yes,0,yes,2021-02,0: All Days (M-Su),0: All Day (12am-12am),702,20,21.536,0.915,12.000,22.000,24.000,28.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue,yes,0,yes,2021-02,0: All Days (M-Su),1: Early AM (12am-6am),12,19,21.536,0.878,8.000,23.000,25.000,33.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue,yes,0,yes,2021-02,0: All Days (M-Su),2: Peak AM (6am-10am),135,20,21.536,0.943,12.000,23.000,24.000,29.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue,yes,0,yes,2021-02,0: All Days (M-Su),3: Mid-Day (10am-3pm),233,20,21.536,0.919,11.000,22.000,24.000,29.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue,yes,0,yes,2021-02,0: All Days (M-Su),4: Peak PM (3pm-7pm),227,20,21.536,0.908,12.000,22.000,23.000,28.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue,yes,0,yes,2021-02,0: All Days (M-Su),5: Late PM (7pm-12am),94,19,21.536,0.888,12.000,21.000,23.000,28.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue,yes,0,yes,2021-02,1: Monday (M-M),0: All Day (12am-12am),645,20,21.536,0.925,13.000,23.000,24.000,29.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue,yes,0,yes,2021-02,1: Monday (M-M),1: Early AM (12am-6am),7,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue,yes,0,yes,2021-02,1: Monday (M-M),2: Peak AM (6am-10am),134,20,21.536,0.944,14.000,23.000,24.000,27.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue,yes,0,yes,2021-02,1: Monday (M-M),3: Mid-Day (10am-3pm),171,19,21.536,0.903,8.000,23.000,24.000,28.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue,yes,0,yes,2021-02,1: Monday (M-M),4: Peak PM (3pm-7pm),237,20,21.536,0.921,12.000,22.000,24.000,27.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue,yes,0,yes,2021-02,1: Monday (M-M),5: Late PM (7pm-12am),96,21,21.536,0.957,13.000,24.000,26.000,31.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue,yes,0,yes,2021-02,2: Tuesday (Tu-Tu),0: All Day (12am-12am),675,20,21.536,0.909,12.000,22.000,23.000,27.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue,yes,0,yes,2021-02,2: Tuesday (Tu-Tu),1: Early AM (12am-6am),9,23,21.536,1.000,N/A,N/A,N/A,N/A
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue,yes,0,yes,2021-02,2: Tuesday (Tu-Tu),2: Peak AM (6am-10am),143,20,21.536,0.930,13.000,22.000,23.000,27.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue,yes,0,yes,2021-02,2: Tuesday (Tu-Tu),3: Mid-Day (10am-3pm),206,19,21.536,0.881,12.000,21.000,23.000,26.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue,yes,0,yes,2021-02,2: Tuesday (Tu-Tu),4: Peak PM (3pm-7pm),239,20,21.536,0.928,12.000,22.000,23.000,31.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue,yes,0,yes,2021-02,2: Tuesday (Tu-Tu),5: Late PM (7pm-12am),78,19,21.536,0.869,11.000,22.000,23.000,23.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue,yes,0,yes,2021-02,3: Wednesday (W-W),0: All Day (12am-12am),816,20,21.536,0.919,12.000,22.000,24.000,29.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue,yes,0,yes,2021-02,3: Wednesday (W-W),1: Early AM (12am-6am),9,19,21.536,0.861,N/A,N/A,N/A,N/A
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue,yes,0,yes,2021-02,3: Wednesday (W-W),2: Peak AM (6am-10am),185,20,21.536,0.944,14.000,22.000,24.000,28.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue,yes,0,yes,2021-02,3: Wednesday (W-W),3: Mid-Day (10am-3pm),234,20,21.536,0.912,11.000,22.000,24.000,30.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue,yes,0,yes,2021-02,3: Wednesday (W-W),4: Peak PM (3pm-7pm),288,20,21.536,0.933,12.000,22.000,23.000,28.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue,yes,0,yes,2021-02,3: Wednesday (W-W),5: Late PM (7pm-12am),101,18,21.536,0.854,14.000,20.000,22.000,24.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue,yes,0,yes,2021-02,4: Thursday (Th-Th),0: All Day (12am-12am),713,19,21.536,0.900,12.000,22.000,24.000,29.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue,yes,0,yes,2021-02,4: Thursday (Th-Th),1: Early AM (12am-6am),24,18,21.536,0.815,N/A,N/A,N/A,N/A
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue,yes,0,yes,2021-02,4: Thursday (Th-Th),2: Peak AM (6am-10am),174,20,21.536,0.925,11.000,22.000,25.000,31.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue,yes,0,yes,2021-02,4: Thursday (Th-Th),3: Mid-Day (10am-3pm),200,21,21.536,0.960,14.000,23.000,25.000,31.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue,yes,0,yes,2021-02,4: Thursday (Th-Th),4: Peak PM (3pm-7pm),221,19,21.536,0.860,12.000,21.000,22.000,27.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue,yes,0,yes,2021-02,4: Thursday (Th-Th),5: Late PM (7pm-12am),92,18,21.536,0.840,11.000,21.000,22.000,26.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue,yes,0,yes,2021-02,5: Friday (F-F),0: All Day (12am-12am),805,20,21.536,0.911,9.000,22.000,24.000,27.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue,yes,0,yes,2021-02,5: Friday (F-F),1: Early AM (12am-6am),12,18,21.536,0.848,N/A,N/A,N/A,N/A
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue,yes,0,yes,2021-02,5: Friday (F-F),2: Peak AM (6am-10am),129,20,21.536,0.951,14.000,23.000,24.000,27.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue,yes,0,yes,2021-02,5: Friday (F-F),3: Mid-Day (10am-3pm),279,20,21.536,0.920,9.000,22.000,24.000,28.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue,yes,0,yes,2021-02,5: Friday (F-F),4: Peak PM (3pm-7pm),275,19,21.536,0.890,8.000,22.000,23.000,27.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue,yes,0,yes,2021-02,5: Friday (F-F),5: Late PM (7pm-12am),110,19,21.536,0.898,10.000,22.000,24.000,28.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue,yes,0,yes,2021-02,6: Saturday (Sa-Sa),0: All Day (12am-12am),704,20,21.536,0.916,11.000,22.000,24.000,29.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue,yes,0,yes,2021-02,6: Saturday (Sa-Sa),1: Early AM (12am-6am),15,19,21.536,0.864,N/A,N/A,N/A,N/A
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue,yes,0,yes,2021-02,6: Saturday (Sa-Sa),2: Peak AM (6am-10am),119,20,21.536,0.940,9.000,23.000,25.000,29.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue,yes,0,yes,2021-02,6: Saturday (Sa-Sa),3: Mid-Day (10am-3pm),282,20,21.536,0.926,9.000,23.000,25.000,29.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue,yes,0,yes,2021-02,6: Saturday (Sa-Sa),4: Peak PM (3pm-7pm),190,19,21.536,0.899,12.000,22.000,23.000,27.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue,yes,0,yes,2021-02,6: Saturday (Sa-Sa),5: Late PM (7pm-12am),98,19,21.536,0.900,14.000,21.000,24.000,30.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue,yes,0,yes,2021-02,7: Sunday (Su-Su),0: All Day (12am-12am),556,20,21.536,0.927,12.000,22.000,24.000,29.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue,yes,0,yes,2021-02,7: Sunday (Su-Su),1: Early AM (12am-6am),12,21,21.536,0.984,N/A,N/A,N/A,N/A
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue,yes,0,yes,2021-02,7: Sunday (Su-Su),2: Peak AM (6am-10am),60,21,21.536,0.996,12.000,23.000,26.000,75.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue,yes,0,yes,2021-02,7: Sunday (Su-Su),3: Mid-Day (10am-3pm),262,20,21.536,0.925,12.000,22.000,24.000,28.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue,yes,0,yes,2021-02,7: Sunday (Su-Su),4: Peak PM (3pm-7pm),143,20,21.536,0.917,11.000,22.000,23.000,29.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue,yes,0,yes,2021-02,7: Sunday (Su-Su),5: Late PM (7pm-12am),79,19,21.536,0.888,13.000,22.000,26.000,28.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue (1),yes,0,yes,2021-01,0: All Days (M-Su),0: All Day (12am-12am),603,17,22.684,0.757,11.000,19.000,21.000,24.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue (1),yes,0,yes,2021-01,0: All Days (M-Su),1: Early AM (12am-6am),12,16,22.684,0.722,9.000,17.000,17.000,21.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue (1),yes,0,yes,2021-01,0: All Days (M-Su),2: Peak AM (6am-10am),103,18,22.684,0.780,11.000,20.000,21.000,24.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue (1),yes,0,yes,2021-01,0: All Days (M-Su),3: Mid-Day (10am-3pm),204,17,22.684,0.756,11.000,19.000,21.000,24.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue (1),yes,0,yes,2021-01,0: All Days (M-Su),4: Peak PM (3pm-7pm),200,17,22.684,0.759,11.000,19.000,21.000,25.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue (1),yes,0,yes,2021-01,0: All Days (M-Su),5: Late PM (7pm-12am),84,17,22.684,0.733,9.000,19.000,20.000,24.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue (1),yes,0,yes,2021-01,1: Monday (M-M),0: All Day (12am-12am),641,17,22.684,0.767,12.000,19.000,21.000,25.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue (1),yes,0,yes,2021-01,1: Monday (M-M),1: Early AM (12am-6am),4,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue (1),yes,0,yes,2021-01,1: Monday (M-M),2: Peak AM (6am-10am),136,18,22.684,0.808,13.000,20.000,21.000,25.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue (1),yes,0,yes,2021-01,1: Monday (M-M),3: Mid-Day (10am-3pm),223,17,22.684,0.761,12.000,19.000,21.000,25.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue (1),yes,0,yes,2021-01,1: Monday (M-M),4: Peak PM (3pm-7pm),188,17,22.684,0.765,11.000,19.000,22.000,27.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue (1),yes,0,yes,2021-01,1: Monday (M-M),5: Late PM (7pm-12am),89,17,22.684,0.729,11.000,18.000,19.000,20.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue (1),yes,0,yes,2021-01,2: Tuesday (Tu-Tu),0: All Day (12am-12am),662,17,22.684,0.754,10.000,20.000,22.000,25.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue (1),yes,0,yes,2021-01,2: Tuesday (Tu-Tu),1: Early AM (12am-6am),12,16,22.684,0.721,N/A,N/A,N/A,N/A
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue (1),yes,0,yes,2021-01,2: Tuesday (Tu-Tu),2: Peak AM (6am-10am),132,17,22.684,0.753,11.000,20.000,22.000,25.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue (1),yes,0,yes,2021-01,2: Tuesday (Tu-Tu),3: Mid-Day (10am-3pm),196,17,22.684,0.765,10.000,21.000,22.000,25.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue (1),yes,0,yes,2021-01,2: Tuesday (Tu-Tu),4: Peak PM (3pm-7pm),215,17,22.684,0.747,9.000,20.000,22.000,25.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue (1),yes,0,yes,2021-01,2: Tuesday (Tu-Tu),5: Late PM (7pm-12am),107,17,22.684,0.752,11.000,20.000,25.000,27.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue (1),yes,0,yes,2021-01,3: Wednesday (W-W),0: All Day (12am-12am),728,17,22.684,0.763,11.000,19.000,21.000,24.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue (1),yes,0,yes,2021-01,3: Wednesday (W-W),1: Early AM (12am-6am),16,17,22.684,0.764,N/A,N/A,N/A,N/A
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue (1),yes,0,yes,2021-01,3: Wednesday (W-W),2: Peak AM (6am-10am),148,18,22.684,0.779,12.000,20.000,21.000,25.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue (1),yes,0,yes,2021-01,3: Wednesday (W-W),3: Mid-Day (10am-3pm),198,17,22.684,0.766,10.000,20.000,21.000,25.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue (1),yes,0,yes,2021-01,3: Wednesday (W-W),4: Peak PM (3pm-7pm),272,17,22.684,0.764,12.000,19.000,20.000,23.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue (1),yes,0,yes,2021-01,3: Wednesday (W-W),5: Late PM (7pm-12am),95,17,22.684,0.730,11.000,18.000,19.000,22.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue (1),yes,0,yes,2021-01,4: Thursday (Th-Th),0: All Day (12am-12am),606,17,22.684,0.761,11.000,19.000,21.000,24.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue (1),yes,0,yes,2021-01,4: Thursday (Th-Th),1: Early AM (12am-6am),10,22,22.684,0.951,N/A,N/A,N/A,N/A
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue (1),yes,0,yes,2021-01,4: Thursday (Th-Th),2: Peak AM (6am-10am),116,18,22.684,0.814,9.000,21.000,23.000,25.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue (1),yes,0,yes,2021-01,4: Thursday (Th-Th),3: Mid-Day (10am-3pm),186,17,22.684,0.754,11.000,19.000,21.000,24.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue (1),yes,0,yes,2021-01,4: Thursday (Th-Th),4: Peak PM (3pm-7pm),225,17,22.684,0.766,12.000,19.000,21.000,24.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue (1),yes,0,yes,2021-01,4: Thursday (Th-Th),5: Late PM (7pm-12am),68,15,22.684,0.647,5.000,19.000,20.000,23.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue (1),yes,0,yes,2021-01,5: Friday (F-F),0: All Day (12am-12am),707,17,22.684,0.766,11.000,20.000,21.000,24.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue (1),yes,0,yes,2021-01,5: Friday (F-F),1: Early AM (12am-6am),30,15,22.684,0.672,N/A,N/A,N/A,N/A
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue (1),yes,0,yes,2021-01,5: Friday (F-F),2: Peak AM (6am-10am),113,18,22.684,0.791,11.000,20.000,22.000,25.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue (1),yes,0,yes,2021-01,5: Friday (F-F),3: Mid-Day (10am-3pm),227,18,22.684,0.774,12.000,20.000,21.000,23.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue (1),yes,0,yes,2021-01,5: Friday (F-F),4: Peak PM (3pm-7pm),236,18,22.684,0.778,11.000,20.000,22.000,24.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue (1),yes,0,yes,2021-01,5: Friday (F-F),5: Late PM (7pm-12am),101,16,22.684,0.715,6.000,18.000,20.000,24.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue (1),yes,0,yes,2021-01,6: Saturday (Sa-Sa),0: All Day (12am-12am),470,17,22.684,0.745,10.000,19.000,21.000,24.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue (1),yes,0,yes,2021-01,6: Saturday (Sa-Sa),1: Early AM (12am-6am),7,14,22.684,0.608,N/A,N/A,N/A,N/A
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue (1),yes,0,yes,2021-01,6: Saturday (Sa-Sa),2: Peak AM (6am-10am),44,17,22.684,0.741,12.000,18.000,19.000,22.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue (1),yes,0,yes,2021-01,6: Saturday (Sa-Sa),3: Mid-Day (10am-3pm),203,17,22.684,0.742,11.000,19.000,21.000,23.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue (1),yes,0,yes,2021-01,6: Saturday (Sa-Sa),4: Peak PM (3pm-7pm),151,17,22.684,0.737,9.000,19.000,20.000,26.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue (1),yes,0,yes,2021-01,6: Saturday (Sa-Sa),5: Late PM (7pm-12am),64,18,22.684,0.793,13.000,20.000,22.000,25.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue (1),yes,0,yes,2021-01,7: Sunday (Su-Su),0: All Day (12am-12am),451,17,22.684,0.744,10.000,19.000,21.000,24.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue (1),yes,0,yes,2021-01,7: Sunday (Su-Su),1: Early AM (12am-6am),4,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue (1),yes,0,yes,2021-01,7: Sunday (Su-Su),2: Peak AM (6am-10am),57,17,22.684,0.747,13.000,18.000,18.000,20.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue (1),yes,0,yes,2021-01,7: Sunday (Su-Su),3: Mid-Day (10am-3pm),189,17,22.684,0.741,8.000,19.000,21.000,24.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue (1),yes,0,yes,2021-01,7: Sunday (Su-Su),4: Peak PM (3pm-7pm),131,17,22.684,0.751,11.000,19.000,21.000,25.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue (1),yes,0,yes,2021-01,7: Sunday (Su-Su),5: Late PM (7pm-12am),70,17,22.684,0.736,10.000,18.000,21.000,25.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue (1),yes,0,yes,2021-02,0: All Days (M-Su),0: All Day (12am-12am),636,17,19.620,0.878,11.000,20.000,21.000,24.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue (1),yes,0,yes,2021-02,0: All Days (M-Su),1: Early AM (12am-6am),14,16,19.620,0.791,10.000,26.000,26.000,26.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue (1),yes,0,yes,2021-02,0: All Days (M-Su),2: Peak AM (6am-10am),127,17,19.620,0.881,11.000,20.000,21.000,24.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue (1),yes,0,yes,2021-02,0: All Days (M-Su),3: Mid-Day (10am-3pm),204,17,19.620,0.873,10.000,20.000,21.000,24.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue (1),yes,0,yes,2021-02,0: All Days (M-Su),4: Peak PM (3pm-7pm),207,18,19.620,0.894,11.000,20.000,21.000,24.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue (1),yes,0,yes,2021-02,0: All Days (M-Su),5: Late PM (7pm-12am),85,17,19.620,0.861,9.000,19.000,21.000,23.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue (1),yes,0,yes,2021-02,1: Monday (M-M),0: All Day (12am-12am),619,18,19.620,0.902,11.000,20.000,22.000,25.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue (1),yes,0,yes,2021-02,1: Monday (M-M),1: Early AM (12am-6am),9,12,19.620,0.630,N/A,N/A,N/A,N/A
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue (1),yes,0,yes,2021-02,1: Monday (M-M),2: Peak AM (6am-10am),124,18,19.620,0.914,13.000,21.000,23.000,25.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue (1),yes,0,yes,2021-02,1: Monday (M-M),3: Mid-Day (10am-3pm),181,18,19.620,0.896,12.000,20.000,21.000,24.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue (1),yes,0,yes,2021-02,1: Monday (M-M),4: Peak PM (3pm-7pm),225,18,19.620,0.906,12.000,20.000,22.000,24.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue (1),yes,0,yes,2021-02,1: Monday (M-M),5: Late PM (7pm-12am),80,18,19.620,0.917,11.000,21.000,23.000,28.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue (1),yes,0,yes,2021-02,2: Tuesday (Tu-Tu),0: All Day (12am-12am),643,17,19.620,0.876,11.000,20.000,21.000,23.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue (1),yes,0,yes,2021-02,2: Tuesday (Tu-Tu),1: Early AM (12am-6am),7,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue (1),yes,0,yes,2021-02,2: Tuesday (Tu-Tu),2: Peak AM (6am-10am),139,17,19.620,0.879,12.000,19.000,20.000,22.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue (1),yes,0,yes,2021-02,2: Tuesday (Tu-Tu),3: Mid-Day (10am-3pm),195,17,19.620,0.870,9.000,20.000,21.000,23.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue (1),yes,0,yes,2021-02,2: Tuesday (Tu-Tu),4: Peak PM (3pm-7pm),216,17,19.620,0.884,11.000,20.000,21.000,24.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue (1),yes,0,yes,2021-02,2: Tuesday (Tu-Tu),5: Late PM (7pm-12am),85,17,19.620,0.863,9.000,20.000,21.000,22.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue (1),yes,0,yes,2021-02,3: Wednesday (W-W),0: All Day (12am-12am),694,17,19.620,0.883,11.000,19.000,22.000,24.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue (1),yes,0,yes,2021-02,3: Wednesday (W-W),1: Early AM (12am-6am),12,16,19.620,0.824,N/A,N/A,N/A,N/A
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue (1),yes,0,yes,2021-02,3: Wednesday (W-W),2: Peak AM (6am-10am),162,18,19.620,0.896,12.000,20.000,22.000,24.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue (1),yes,0,yes,2021-02,3: Wednesday (W-W),3: Mid-Day (10am-3pm),190,16,19.620,0.838,10.000,18.000,21.000,23.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue (1),yes,0,yes,2021-02,3: Wednesday (W-W),4: Peak PM (3pm-7pm),256,18,19.620,0.915,13.000,20.000,22.000,25.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue (1),yes,0,yes,2021-02,3: Wednesday (W-W),5: Late PM (7pm-12am),73,17,19.620,0.871,13.000,17.000,19.000,45.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue (1),yes,0,yes,2021-02,4: Thursday (Th-Th),0: All Day (12am-12am),622,17,19.620,0.870,10.000,19.000,21.000,24.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue (1),yes,0,yes,2021-02,4: Thursday (Th-Th),1: Early AM (12am-6am),17,13,19.620,0.663,N/A,N/A,N/A,N/A
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue (1),yes,0,yes,2021-02,4: Thursday (Th-Th),2: Peak AM (6am-10am),159,17,19.620,0.843,9.000,19.000,20.000,23.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue (1),yes,0,yes,2021-02,4: Thursday (Th-Th),3: Mid-Day (10am-3pm),183,17,19.620,0.888,10.000,20.000,22.000,26.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue (1),yes,0,yes,2021-02,4: Thursday (Th-Th),4: Peak PM (3pm-7pm),180,18,19.620,0.915,11.000,19.000,21.000,25.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue (1),yes,0,yes,2021-02,4: Thursday (Th-Th),5: Late PM (7pm-12am),84,16,19.620,0.831,8.000,18.000,19.000,22.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue (1),yes,0,yes,2021-02,5: Friday (F-F),0: All Day (12am-12am),732,17,19.620,0.862,10.000,19.000,21.000,23.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue (1),yes,0,yes,2021-02,5: Friday (F-F),1: Early AM (12am-6am),10,16,19.620,0.805,N/A,N/A,N/A,N/A
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue (1),yes,0,yes,2021-02,5: Friday (F-F),2: Peak AM (6am-10am),132,17,19.620,0.870,8.000,20.000,21.000,24.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue (1),yes,0,yes,2021-02,5: Friday (F-F),3: Mid-Day (10am-3pm),223,16,19.620,0.838,10.000,19.000,20.000,22.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue (1),yes,0,yes,2021-02,5: Friday (F-F),4: Peak PM (3pm-7pm),265,17,19.620,0.858,9.000,19.000,21.000,22.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue (1),yes,0,yes,2021-02,5: Friday (F-F),5: Late PM (7pm-12am),101,18,19.620,0.921,12.000,20.000,22.000,24.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue (1),yes,0,yes,2021-02,6: Saturday (Sa-Sa),0: All Day (12am-12am),637,17,19.620,0.869,10.000,19.000,21.000,25.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue (1),yes,0,yes,2021-02,6: Saturday (Sa-Sa),1: Early AM (12am-6am),24,16,19.620,0.808,N/A,N/A,N/A,N/A
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue (1),yes,0,yes,2021-02,6: Saturday (Sa-Sa),2: Peak AM (6am-10am),104,18,19.620,0.905,10.000,20.000,22.000,26.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue (1),yes,0,yes,2021-02,6: Saturday (Sa-Sa),3: Mid-Day (10am-3pm),241,17,19.620,0.888,11.000,20.000,22.000,25.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue (1),yes,0,yes,2021-02,6: Saturday (Sa-Sa),4: Peak PM (3pm-7pm),173,17,19.620,0.862,11.000,19.000,21.000,25.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue (1),yes,0,yes,2021-02,6: Saturday (Sa-Sa),5: Late PM (7pm-12am),94,16,19.620,0.805,8.000,18.000,19.000,23.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue (1),yes,0,yes,2021-02,7: Sunday (Su-Su),0: All Day (12am-12am),506,17,19.620,0.889,11.000,20.000,21.000,24.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue (1),yes,0,yes,2021-02,7: Sunday (Su-Su),1: Early AM (12am-6am),16,18,19.620,0.909,N/A,N/A,N/A,N/A
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue (1),yes,0,yes,2021-02,7: Sunday (Su-Su),2: Peak AM (6am-10am),68,17,19.620,0.859,12.000,18.000,20.000,23.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue (1),yes,0,yes,2021-02,7: Sunday (Su-Su),3: Mid-Day (10am-3pm),212,17,19.620,0.889,10.000,20.000,22.000,24.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue (1),yes,0,yes,2021-02,7: Sunday (Su-Su),4: Peak PM (3pm-7pm),132,18,19.620,0.937,11.000,21.000,22.000,26.000
+"Jan 01, 2021 - Mar 01, 2021",All Vehicles - StL All Vehicles Volume,,Oakdale Avenue (1),yes,0,yes,2021-02,7: Sunday (Su-Su),5: Late PM (7pm-12am),78,16,19.620,0.829,9.000,18.000,20.000,23.000

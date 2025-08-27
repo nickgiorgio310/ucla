@@ -1,0 +1,73 @@
+Data Periods,Mode of Travel,Zone ID,Zone Name,Zone Is Pass-Through,Zone Direction (degrees),Zone is Bi-Direction,Day Type,Day Part,Average Daily Spot Traffic (StL Volume),Avg Spot Speed (mph),Free Flow Speed (mph),Free Flow Factor,5th Speed Percentile,15th Speed Percentile,85th Speed Percentile,95th Speed Percentile
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Buchanan Street,yes,102,yes,0: All Days (M-Su),0: All Day (12am-12am),338,14,26.818,0.532,5.000,10.000,18.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Buchanan Street,yes,102,yes,0: All Days (M-Su),1: Early AM (12am-6am),11,15,26.818,0.556,5.000,11.000,19.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Buchanan Street,yes,102,yes,0: All Days (M-Su),2: Peak AM (6am-10am),44,15,26.818,0.559,5.000,11.000,19.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Buchanan Street,yes,102,yes,0: All Days (M-Su),3: Mid-Day (10am-3pm),93,15,26.818,0.544,5.000,11.000,18.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Buchanan Street,yes,102,yes,0: All Days (M-Su),4: Peak PM (3pm-7pm),108,14,26.818,0.530,6.000,10.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Buchanan Street,yes,102,yes,0: All Days (M-Su),5: Late PM (7pm-12am),83,14,26.818,0.505,5.000,9.000,17.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Buchanan Street,yes,102,yes,1: Weekday (M-Th),0: All Day (12am-12am),306,15,26.818,0.542,5.000,11.000,18.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Buchanan Street,yes,102,yes,1: Weekday (M-Th),1: Early AM (12am-6am),9,15,26.818,0.572,8.000,13.000,19.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Buchanan Street,yes,102,yes,1: Weekday (M-Th),2: Peak AM (6am-10am),50,15,26.818,0.561,5.000,11.000,19.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Buchanan Street,yes,102,yes,1: Weekday (M-Th),3: Mid-Day (10am-3pm),82,15,26.818,0.548,5.000,11.000,19.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Buchanan Street,yes,102,yes,1: Weekday (M-Th),4: Peak PM (3pm-7pm),103,14,26.818,0.534,6.000,10.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Buchanan Street,yes,102,yes,1: Weekday (M-Th),5: Late PM (7pm-12am),62,14,26.818,0.526,5.000,10.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Buchanan Street,yes,102,yes,2: Weekend (Sa-Su),0: All Day (12am-12am),354,14,26.818,0.521,5.000,10.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Buchanan Street,yes,102,yes,2: Weekend (Sa-Su),1: Early AM (12am-6am),14,14,26.818,0.525,3.000,8.000,18.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Buchanan Street,yes,102,yes,2: Weekend (Sa-Su),2: Peak AM (6am-10am),28,15,26.818,0.558,6.000,11.000,19.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Buchanan Street,yes,102,yes,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),110,14,26.818,0.539,5.000,10.000,18.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Buchanan Street,yes,102,yes,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),104,14,26.818,0.523,6.000,10.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Buchanan Street,yes,102,yes,2: Weekend (Sa-Su),5: Late PM (7pm-12am),98,13,26.818,0.488,5.000,9.000,17.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Buchanan Street (1),yes,102,yes,0: All Days (M-Su),0: All Day (12am-12am),364,17,28.353,0.605,6.000,10.000,24.000,32.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Buchanan Street (1),yes,102,yes,0: All Days (M-Su),1: Early AM (12am-6am),11,17,28.353,0.610,6.000,11.000,28.000,35.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Buchanan Street (1),yes,102,yes,0: All Days (M-Su),2: Peak AM (6am-10am),54,17,28.353,0.614,6.000,10.000,25.000,33.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Buchanan Street (1),yes,102,yes,0: All Days (M-Su),3: Mid-Day (10am-3pm),109,17,28.353,0.607,6.000,10.000,24.000,32.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Buchanan Street (1),yes,102,yes,0: All Days (M-Su),4: Peak PM (3pm-7pm),119,17,28.353,0.598,6.000,10.000,24.000,31.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Buchanan Street (1),yes,102,yes,0: All Days (M-Su),5: Late PM (7pm-12am),71,17,28.353,0.605,5.000,9.000,24.000,32.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Buchanan Street (1),yes,102,yes,1: Weekday (M-Th),0: All Day (12am-12am),352,17,28.353,0.611,6.000,10.000,24.000,32.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Buchanan Street (1),yes,102,yes,1: Weekday (M-Th),1: Early AM (12am-6am),9,18,28.353,0.618,8.000,12.000,32.000,37.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Buchanan Street (1),yes,102,yes,1: Weekday (M-Th),2: Peak AM (6am-10am),63,18,28.353,0.623,5.000,10.000,25.000,33.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Buchanan Street (1),yes,102,yes,1: Weekday (M-Th),3: Mid-Day (10am-3pm),101,17,28.353,0.611,5.000,10.000,24.000,32.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Buchanan Street (1),yes,102,yes,1: Weekday (M-Th),4: Peak PM (3pm-7pm),117,17,28.353,0.603,6.000,10.000,24.000,32.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Buchanan Street (1),yes,102,yes,1: Weekday (M-Th),5: Late PM (7pm-12am),62,17,28.353,0.614,5.000,10.000,24.000,32.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Buchanan Street (1),yes,102,yes,2: Weekend (Sa-Su),0: All Day (12am-12am),350,17,28.353,0.593,6.000,9.000,23.000,31.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Buchanan Street (1),yes,102,yes,2: Weekend (Sa-Su),1: Early AM (12am-6am),16,17,28.353,0.587,4.000,11.000,24.000,33.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Buchanan Street (1),yes,102,yes,2: Weekend (Sa-Su),2: Peak AM (6am-10am),32,17,28.353,0.596,7.000,10.000,24.000,32.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Buchanan Street (1),yes,102,yes,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),121,17,28.353,0.601,6.000,9.000,24.000,32.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Buchanan Street (1),yes,102,yes,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),107,17,28.353,0.583,6.000,9.000,23.000,30.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Buchanan Street (1),yes,102,yes,2: Weekend (Sa-Su),5: Late PM (7pm-12am),76,17,28.353,0.593,5.000,9.000,24.000,32.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Nolden Street,yes,12,yes,0: All Days (M-Su),0: All Day (12am-12am),451,14,26.165,0.531,5.000,8.000,19.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Nolden Street,yes,12,yes,0: All Days (M-Su),1: Early AM (12am-6am),17,15,26.165,0.584,6.000,9.000,21.000,28.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Nolden Street,yes,12,yes,0: All Days (M-Su),2: Peak AM (6am-10am),64,14,26.165,0.552,6.000,9.000,20.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Nolden Street,yes,12,yes,0: All Days (M-Su),3: Mid-Day (10am-3pm),124,14,26.165,0.528,5.000,8.000,19.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Nolden Street,yes,12,yes,0: All Days (M-Su),4: Peak PM (3pm-7pm),137,13,26.165,0.515,5.000,8.000,19.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Nolden Street,yes,12,yes,0: All Days (M-Su),5: Late PM (7pm-12am),110,14,26.165,0.535,5.000,8.000,19.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Nolden Street,yes,12,yes,1: Weekday (M-Th),0: All Day (12am-12am),434,14,26.165,0.532,5.000,8.000,19.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Nolden Street,yes,12,yes,1: Weekday (M-Th),1: Early AM (12am-6am),14,16,26.165,0.598,6.000,10.000,23.000,28.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Nolden Street,yes,12,yes,1: Weekday (M-Th),2: Peak AM (6am-10am),74,15,26.165,0.560,5.000,9.000,20.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Nolden Street,yes,12,yes,1: Weekday (M-Th),3: Mid-Day (10am-3pm),117,14,26.165,0.529,5.000,8.000,19.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Nolden Street,yes,12,yes,1: Weekday (M-Th),4: Peak PM (3pm-7pm),139,13,26.165,0.511,5.000,8.000,18.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Nolden Street,yes,12,yes,1: Weekday (M-Th),5: Late PM (7pm-12am),90,14,26.165,0.537,5.000,8.000,19.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Nolden Street,yes,12,yes,2: Weekend (Sa-Su),0: All Day (12am-12am),425,14,26.165,0.531,5.000,8.000,19.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Nolden Street,yes,12,yes,2: Weekend (Sa-Su),1: Early AM (12am-6am),22,15,26.165,0.563,5.000,9.000,20.000,28.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Nolden Street,yes,12,yes,2: Weekend (Sa-Su),2: Peak AM (6am-10am),36,14,26.165,0.537,5.000,8.000,20.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Nolden Street,yes,12,yes,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),133,14,26.165,0.527,5.000,8.000,19.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Nolden Street,yes,12,yes,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),119,14,26.165,0.526,5.000,8.000,19.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Nolden Street,yes,12,yes,2: Weekend (Sa-Su),5: Late PM (7pm-12am),116,14,26.165,0.533,5.000,8.000,19.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Nolden Street (1),yes,12,yes,0: All Days (M-Su),0: All Day (12am-12am),282,15,25.824,0.577,4.000,10.000,20.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Nolden Street (1),yes,12,yes,0: All Days (M-Su),1: Early AM (12am-6am),9,16,25.824,0.606,5.000,9.000,20.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Nolden Street (1),yes,12,yes,0: All Days (M-Su),2: Peak AM (6am-10am),47,15,25.824,0.593,6.000,11.000,20.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Nolden Street (1),yes,12,yes,0: All Days (M-Su),3: Mid-Day (10am-3pm),81,15,25.824,0.577,3.000,9.000,20.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Nolden Street (1),yes,12,yes,0: All Days (M-Su),4: Peak PM (3pm-7pm),87,15,25.824,0.574,4.000,10.000,19.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Nolden Street (1),yes,12,yes,0: All Days (M-Su),5: Late PM (7pm-12am),58,15,25.824,0.565,4.000,9.000,19.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Nolden Street (1),yes,12,yes,1: Weekday (M-Th),0: All Day (12am-12am),286,15,25.824,0.581,4.000,10.000,20.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Nolden Street (1),yes,12,yes,1: Weekday (M-Th),1: Early AM (12am-6am),7,16,25.824,0.623,8.000,12.000,22.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Nolden Street (1),yes,12,yes,1: Weekday (M-Th),2: Peak AM (6am-10am),54,15,25.824,0.598,7.000,11.000,20.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Nolden Street (1),yes,12,yes,1: Weekday (M-Th),3: Mid-Day (10am-3pm),79,15,25.824,0.578,3.000,9.000,20.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Nolden Street (1),yes,12,yes,1: Weekday (M-Th),4: Peak PM (3pm-7pm),92,15,25.824,0.574,4.000,9.000,19.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Nolden Street (1),yes,12,yes,1: Weekday (M-Th),5: Late PM (7pm-12am),53,15,25.824,0.573,5.000,10.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Nolden Street (1),yes,12,yes,2: Weekend (Sa-Su),0: All Day (12am-12am),257,15,25.824,0.572,5.000,10.000,19.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Nolden Street (1),yes,12,yes,2: Weekend (Sa-Su),1: Early AM (12am-6am),13,15,25.824,0.587,3.000,9.000,20.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Nolden Street (1),yes,12,yes,2: Weekend (Sa-Su),2: Peak AM (6am-10am),27,15,25.824,0.582,6.000,10.000,20.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Nolden Street (1),yes,12,yes,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),88,15,25.824,0.574,4.000,10.000,19.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Nolden Street (1),yes,12,yes,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),72,15,25.824,0.574,5.000,10.000,19.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Nolden Street (1),yes,12,yes,2: Weekend (Sa-Su),5: Late PM (7pm-12am),58,14,25.824,0.558,4.000,9.000,19.000,22.000

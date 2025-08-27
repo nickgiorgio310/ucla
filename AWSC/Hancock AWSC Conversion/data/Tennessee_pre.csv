@@ -1,0 +1,241 @@
+Data Periods,Mode of Travel,Zone ID,Zone Name,Zone Is Pass-Through,Zone Direction (degrees),Zone is Bi-Direction,Year-Month,Day Type,Day Part,Average Daily Spot Traffic (StL Volume),Avg Spot Speed (mph),Free Flow Speed (mph),Free Flow Factor,5th Speed Percentile,75th Speed Percentile,85th Speed Percentile,95th Speed Percentile
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-01,0: All Days (M-Su),0: All Day (12am-12am),937,17,22.773,0.763,7.000,21.000,23.000,27.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-01,0: All Days (M-Su),1: Early AM (12am-6am),56,15,22.773,0.639,6.000,21.000,21.000,24.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-01,0: All Days (M-Su),2: Peak AM (6am-10am),400,19,22.773,0.833,9.000,22.000,24.000,28.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-01,0: All Days (M-Su),3: Mid-Day (10am-3pm),187,17,22.773,0.745,7.000,21.000,23.000,27.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-01,0: All Days (M-Su),4: Peak PM (3pm-7pm),176,17,22.773,0.738,5.000,20.000,21.000,25.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-01,0: All Days (M-Su),5: Late PM (7pm-12am),118,15,22.773,0.676,4.000,23.000,24.000,27.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-01,1: Monday (M-M),0: All Day (12am-12am),1132,16,22.773,0.722,6.000,20.000,22.000,26.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-01,1: Monday (M-M),1: Early AM (12am-6am),97,16,22.773,0.681,N/A,N/A,N/A,N/A
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-01,1: Monday (M-M),2: Peak AM (6am-10am),561,17,22.773,0.764,6.000,21.000,22.000,27.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-01,1: Monday (M-M),3: Mid-Day (10am-3pm),213,16,22.773,0.704,5.000,18.000,20.000,23.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-01,1: Monday (M-M),4: Peak PM (3pm-7pm),145,16,22.773,0.712,N/A,N/A,N/A,N/A
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-01,1: Monday (M-M),5: Late PM (7pm-12am),116,14,22.773,0.595,N/A,N/A,N/A,N/A
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-01,2: Tuesday (Tu-Tu),0: All Day (12am-12am),1061,17,22.773,0.742,6.000,21.000,22.000,27.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-01,2: Tuesday (Tu-Tu),1: Early AM (12am-6am),62,13,22.773,0.590,N/A,N/A,N/A,N/A
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-01,2: Tuesday (Tu-Tu),2: Peak AM (6am-10am),503,18,22.773,0.800,9.000,21.000,23.000,27.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-01,2: Tuesday (Tu-Tu),3: Mid-Day (10am-3pm),194,16,22.773,0.705,6.000,21.000,23.000,27.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-01,2: Tuesday (Tu-Tu),4: Peak PM (3pm-7pm),209,17,22.773,0.727,10.000,18.000,21.000,27.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-01,2: Tuesday (Tu-Tu),5: Late PM (7pm-12am),93,15,22.773,0.643,N/A,N/A,N/A,N/A
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-01,3: Wednesday (W-W),0: All Day (12am-12am),1208,19,22.773,0.838,11.000,22.000,25.000,28.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-01,3: Wednesday (W-W),1: Early AM (12am-6am),23,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-01,3: Wednesday (W-W),2: Peak AM (6am-10am),697,20,22.773,0.898,12.000,23.000,25.000,28.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-01,3: Wednesday (W-W),3: Mid-Day (10am-3pm),170,17,22.773,0.731,7.000,20.000,27.000,27.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-01,3: Wednesday (W-W),4: Peak PM (3pm-7pm),170,20,22.773,0.864,14.000,20.000,21.000,21.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-01,3: Wednesday (W-W),5: Late PM (7pm-12am),147,15,22.773,0.678,N/A,N/A,N/A,N/A
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-01,4: Thursday (Th-Th),0: All Day (12am-12am),1177,18,22.773,0.808,6.000,22.000,25.000,28.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-01,4: Thursday (Th-Th),1: Early AM (12am-6am),54,16,22.773,0.689,N/A,N/A,N/A,N/A
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-01,4: Thursday (Th-Th),2: Peak AM (6am-10am),604,19,22.773,0.854,7.000,23.000,25.000,28.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-01,4: Thursday (Th-Th),3: Mid-Day (10am-3pm),248,18,22.773,0.770,10.000,21.000,22.000,29.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-01,4: Thursday (Th-Th),4: Peak PM (3pm-7pm),186,17,22.773,0.760,6.000,25.000,25.000,25.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-01,4: Thursday (Th-Th),5: Late PM (7pm-12am),85,18,22.773,0.772,N/A,N/A,N/A,N/A
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-01,5: Friday (F-F),0: All Day (12am-12am),881,17,22.773,0.766,8.000,21.000,23.000,25.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-01,5: Friday (F-F),1: Early AM (12am-6am),77,17,22.773,0.726,N/A,N/A,N/A,N/A
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-01,5: Friday (F-F),2: Peak AM (6am-10am),184,18,22.773,0.799,N/A,N/A,N/A,N/A
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-01,5: Friday (F-F),3: Mid-Day (10am-3pm),213,18,22.773,0.809,12.000,23.000,24.000,25.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-01,5: Friday (F-F),4: Peak PM (3pm-7pm),223,17,22.773,0.758,7.000,19.000,21.000,45.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-01,5: Friday (F-F),5: Late PM (7pm-12am),184,16,22.773,0.711,N/A,N/A,N/A,N/A
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-01,6: Saturday (Sa-Sa),0: All Day (12am-12am),432,15,22.773,0.680,5.000,18.000,21.000,24.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-01,6: Saturday (Sa-Sa),1: Early AM (12am-6am),41,16,22.773,0.700,N/A,N/A,N/A,N/A
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-01,6: Saturday (Sa-Sa),2: Peak AM (6am-10am),41,19,22.773,0.826,N/A,N/A,N/A,N/A
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-01,6: Saturday (Sa-Sa),3: Mid-Day (10am-3pm),101,15,22.773,0.639,N/A,N/A,N/A,N/A
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-01,6: Saturday (Sa-Sa),4: Peak PM (3pm-7pm),172,16,22.773,0.711,5.000,17.000,21.000,24.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-01,6: Saturday (Sa-Sa),5: Late PM (7pm-12am),77,13,22.773,0.577,N/A,N/A,N/A,N/A
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-01,7: Sunday (Su-Su),0: All Day (12am-12am),510,16,22.773,0.709,6.000,22.000,24.000,29.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-01,7: Sunday (Su-Su),1: Early AM (12am-6am),41,10,22.773,0.421,N/A,N/A,N/A,N/A
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-01,7: Sunday (Su-Su),2: Peak AM (6am-10am),59,18,22.773,0.785,N/A,N/A,N/A,N/A
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-01,7: Sunday (Su-Su),3: Mid-Day (10am-3pm),160,19,22.773,0.814,11.000,23.000,24.000,31.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-01,7: Sunday (Su-Su),4: Peak PM (3pm-7pm),118,14,22.773,0.622,5.000,18.000,22.000,22.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-01,7: Sunday (Su-Su),5: Late PM (7pm-12am),130,16,22.773,0.716,6.000,27.000,28.000,29.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-02,0: All Days (M-Su),0: All Day (12am-12am),750,18,26.213,0.693,8.000,22.000,24.000,28.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-02,0: All Days (M-Su),1: Early AM (12am-6am),24,16,26.213,0.614,17.000,21.000,21.000,21.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-02,0: All Days (M-Su),2: Peak AM (6am-10am),425,19,26.213,0.721,9.000,22.000,24.000,28.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-02,0: All Days (M-Su),3: Mid-Day (10am-3pm),120,17,26.213,0.665,8.000,22.000,24.000,26.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-02,0: All Days (M-Su),4: Peak PM (3pm-7pm),116,18,26.213,0.681,7.000,23.000,25.000,30.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-02,0: All Days (M-Su),5: Late PM (7pm-12am),65,16,26.213,0.621,8.000,19.000,21.000,26.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-02,1: Monday (M-M),0: All Day (12am-12am),781,18,26.213,0.686,10.000,22.000,25.000,28.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-02,1: Monday (M-M),1: Early AM (12am-6am),50,13,26.213,0.502,N/A,N/A,N/A,N/A
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-02,1: Monday (M-M),2: Peak AM (6am-10am),437,19,26.213,0.719,10.000,22.000,25.000,28.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-02,1: Monday (M-M),3: Mid-Day (10am-3pm),93,16,26.213,0.594,N/A,N/A,N/A,N/A
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-02,1: Monday (M-M),4: Peak PM (3pm-7pm),136,18,26.213,0.685,N/A,N/A,N/A,N/A
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-02,1: Monday (M-M),5: Late PM (7pm-12am),64,19,26.213,0.735,N/A,N/A,N/A,N/A
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-02,2: Tuesday (Tu-Tu),0: All Day (12am-12am),1253,19,26.213,0.706,8.000,22.000,24.000,28.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-02,2: Tuesday (Tu-Tu),1: Early AM (12am-6am),21,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-02,2: Tuesday (Tu-Tu),2: Peak AM (6am-10am),773,19,26.213,0.734,10.000,22.000,24.000,27.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-02,2: Tuesday (Tu-Tu),3: Mid-Day (10am-3pm),208,19,26.213,0.721,16.000,23.000,25.000,29.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-02,2: Tuesday (Tu-Tu),4: Peak PM (3pm-7pm),150,16,26.213,0.628,7.000,19.000,19.000,20.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-02,2: Tuesday (Tu-Tu),5: Late PM (7pm-12am),100,15,26.213,0.584,N/A,N/A,N/A,N/A
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-02,3: Wednesday (W-W),0: All Day (12am-12am),1002,19,26.213,0.708,8.000,22.000,24.000,27.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-02,3: Wednesday (W-W),1: Early AM (12am-6am),14,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-02,3: Wednesday (W-W),2: Peak AM (6am-10am),630,19,26.213,0.737,8.000,22.000,23.000,26.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-02,3: Wednesday (W-W),3: Mid-Day (10am-3pm),93,17,26.213,0.666,N/A,N/A,N/A,N/A
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-02,3: Wednesday (W-W),4: Peak PM (3pm-7pm),193,18,26.213,0.672,5.000,23.000,25.000,27.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-02,3: Wednesday (W-W),5: Late PM (7pm-12am),72,16,26.213,0.618,N/A,N/A,N/A,N/A
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-02,4: Thursday (Th-Th),0: All Day (12am-12am),1024,18,26.213,0.704,7.000,23.000,25.000,29.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-02,4: Thursday (Th-Th),1: Early AM (12am-6am),7,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-02,4: Thursday (Th-Th),2: Peak AM (6am-10am),687,19,26.213,0.714,7.000,23.000,25.000,29.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-02,4: Thursday (Th-Th),3: Mid-Day (10am-3pm),115,17,26.213,0.631,N/A,N/A,N/A,N/A
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-02,4: Thursday (Th-Th),4: Peak PM (3pm-7pm),143,21,26.213,0.784,6.000,27.000,30.000,31.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-02,4: Thursday (Th-Th),5: Late PM (7pm-12am),72,15,26.213,0.555,N/A,N/A,N/A,N/A
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-02,5: Friday (F-F),0: All Day (12am-12am),745,18,26.213,0.704,9.000,22.000,24.000,28.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-02,5: Friday (F-F),1: Early AM (12am-6am),29,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-02,5: Friday (F-F),2: Peak AM (6am-10am),372,19,26.213,0.715,10.000,23.000,25.000,28.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-02,5: Friday (F-F),3: Mid-Day (10am-3pm),158,18,26.213,0.678,9.000,22.000,22.000,26.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-02,5: Friday (F-F),4: Peak PM (3pm-7pm),107,18,26.213,0.697,N/A,N/A,N/A,N/A
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-02,5: Friday (F-F),5: Late PM (7pm-12am),79,18,26.213,0.683,N/A,N/A,N/A,N/A
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-02,6: Saturday (Sa-Sa),0: All Day (12am-12am),233,16,26.213,0.616,4.000,20.000,20.000,21.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-02,6: Saturday (Sa-Sa),1: Early AM (12am-6am),22,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-02,6: Saturday (Sa-Sa),2: Peak AM (6am-10am),28,17,26.213,0.636,N/A,N/A,N/A,N/A
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-02,6: Saturday (Sa-Sa),3: Mid-Day (10am-3pm),100,18,26.213,0.693,N/A,N/A,N/A,N/A
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-02,6: Saturday (Sa-Sa),4: Peak PM (3pm-7pm),44,15,26.213,0.585,N/A,N/A,N/A,N/A
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-02,6: Saturday (Sa-Sa),5: Late PM (7pm-12am),39,15,26.213,0.570,N/A,N/A,N/A,N/A
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-02,7: Sunday (Su-Su),0: All Day (12am-12am),216,16,26.213,0.619,7.000,19.000,20.000,21.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-02,7: Sunday (Su-Su),1: Early AM (12am-6am),22,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-02,7: Sunday (Su-Su),2: Peak AM (6am-10am),50,16,26.213,0.596,N/A,N/A,N/A,N/A
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-02,7: Sunday (Su-Su),3: Mid-Day (10am-3pm),78,16,26.213,0.601,N/A,N/A,N/A,N/A
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-02,7: Sunday (Su-Su),4: Peak PM (3pm-7pm),39,17,26.213,0.651,N/A,N/A,N/A,N/A
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-02,7: Sunday (Su-Su),5: Late PM (7pm-12am),28,16,26.213,0.599,N/A,N/A,N/A,N/A
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-03,0: All Days (M-Su),0: All Day (12am-12am),690,18,27.263,0.646,7.000,22.000,23.000,27.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-03,0: All Days (M-Su),1: Early AM (12am-6am),23,16,27.263,0.594,7.000,23.000,23.000,23.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-03,0: All Days (M-Su),2: Peak AM (6am-10am),327,19,27.263,0.696,9.000,22.000,24.000,28.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-03,0: All Days (M-Su),3: Mid-Day (10am-3pm),112,17,27.263,0.631,8.000,22.000,26.000,28.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-03,0: All Days (M-Su),4: Peak PM (3pm-7pm),144,17,27.263,0.616,6.000,19.000,22.000,25.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-03,0: All Days (M-Su),5: Late PM (7pm-12am),84,15,27.263,0.554,6.000,21.000,22.000,26.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-03,1: Monday (M-M),0: All Day (12am-12am),772,18,27.263,0.653,7.000,22.000,24.000,29.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-03,1: Monday (M-M),1: Early AM (12am-6am),19,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-03,1: Monday (M-M),2: Peak AM (6am-10am),444,19,27.263,0.700,11.000,23.000,27.000,30.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-03,1: Monday (M-M),3: Mid-Day (10am-3pm),111,15,27.263,0.553,N/A,N/A,N/A,N/A
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-03,1: Monday (M-M),4: Peak PM (3pm-7pm),142,17,27.263,0.642,5.000,21.000,22.000,23.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-03,1: Monday (M-M),5: Late PM (7pm-12am),56,15,27.263,0.555,N/A,N/A,N/A,N/A
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-03,2: Tuesday (Tu-Tu),0: All Day (12am-12am),1049,18,27.263,0.668,8.000,22.000,24.000,26.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-03,2: Tuesday (Tu-Tu),1: Early AM (12am-6am),37,16,27.263,0.578,N/A,N/A,N/A,N/A
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-03,2: Tuesday (Tu-Tu),2: Peak AM (6am-10am),642,19,27.263,0.708,9.000,23.000,24.000,27.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-03,2: Tuesday (Tu-Tu),3: Mid-Day (10am-3pm),123,17,27.263,0.634,4.000,25.000,26.000,26.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-03,2: Tuesday (Tu-Tu),4: Peak PM (3pm-7pm),154,15,27.263,0.560,5.000,18.000,18.000,26.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-03,2: Tuesday (Tu-Tu),5: Late PM (7pm-12am),93,18,27.263,0.648,N/A,N/A,N/A,N/A
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-03,3: Wednesday (W-W),0: All Day (12am-12am),988,17,27.263,0.629,6.000,21.000,23.000,28.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-03,3: Wednesday (W-W),1: Early AM (12am-6am),37,17,27.263,0.630,N/A,N/A,N/A,N/A
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-03,3: Wednesday (W-W),2: Peak AM (6am-10am),549,19,27.263,0.683,11.000,22.000,24.000,28.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-03,3: Wednesday (W-W),3: Mid-Day (10am-3pm),136,16,27.263,0.582,9.000,28.000,28.000,28.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-03,3: Wednesday (W-W),4: Peak PM (3pm-7pm),179,16,27.263,0.581,6.000,17.000,19.000,21.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-03,3: Wednesday (W-W),5: Late PM (7pm-12am),86,12,27.263,0.455,N/A,N/A,N/A,N/A
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-03,4: Thursday (Th-Th),0: All Day (12am-12am),1019,18,27.263,0.672,10.000,22.000,23.000,26.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-03,4: Thursday (Th-Th),1: Early AM (12am-6am),12,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-03,4: Thursday (Th-Th),2: Peak AM (6am-10am),494,19,27.263,0.711,12.000,22.000,23.000,28.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-03,4: Thursday (Th-Th),3: Mid-Day (10am-3pm),148,19,27.263,0.714,13.000,21.000,24.000,26.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-03,4: Thursday (Th-Th),4: Peak PM (3pm-7pm),265,16,27.263,0.600,7.000,20.000,21.000,24.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-03,4: Thursday (Th-Th),5: Late PM (7pm-12am),99,17,27.263,0.615,N/A,N/A,N/A,N/A
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-03,5: Friday (F-F),0: All Day (12am-12am),756,17,27.263,0.632,7.000,22.000,23.000,28.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-03,5: Friday (F-F),1: Early AM (12am-6am),20,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-03,5: Friday (F-F),2: Peak AM (6am-10am),272,18,27.263,0.675,8.000,22.000,23.000,26.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-03,5: Friday (F-F),3: Mid-Day (10am-3pm),148,18,27.263,0.660,7.000,26.000,28.000,31.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-03,5: Friday (F-F),4: Peak PM (3pm-7pm),178,18,27.263,0.646,8.000,20.000,23.000,27.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-03,5: Friday (F-F),5: Late PM (7pm-12am),138,14,27.263,0.516,7.000,20.000,26.000,27.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-03,6: Saturday (Sa-Sa),0: All Day (12am-12am),271,17,27.263,0.636,7.000,20.000,23.000,26.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-03,6: Saturday (Sa-Sa),1: Early AM (12am-6am),21,18,27.263,0.649,N/A,N/A,N/A,N/A
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-03,6: Saturday (Sa-Sa),2: Peak AM (6am-10am),24,23,27.263,0.839,N/A,N/A,N/A,N/A
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-03,6: Saturday (Sa-Sa),3: Mid-Day (10am-3pm),81,18,27.263,0.674,7.000,23.000,26.000,28.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-03,6: Saturday (Sa-Sa),4: Peak PM (3pm-7pm),72,17,27.263,0.625,13.000,19.000,20.000,23.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-03,6: Saturday (Sa-Sa),5: Late PM (7pm-12am),72,15,27.263,0.534,6.000,18.000,19.000,24.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-03,7: Sunday (Su-Su),0: All Day (12am-12am),190,16,27.263,0.590,7.000,27.000,27.000,30.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-03,7: Sunday (Su-Su),1: Early AM (12am-6am),18,16,27.263,0.591,N/A,N/A,N/A,N/A
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-03,7: Sunday (Su-Su),2: Peak AM (6am-10am),27,14,27.263,0.508,N/A,N/A,N/A,N/A
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-03,7: Sunday (Su-Su),3: Mid-Day (10am-3pm),51,15,27.263,0.538,N/A,N/A,N/A,N/A
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-03,7: Sunday (Su-Su),4: Peak PM (3pm-7pm),48,19,27.263,0.686,N/A,N/A,N/A,N/A
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-03,7: Sunday (Su-Su),5: Late PM (7pm-12am),45,16,27.263,0.593,N/A,N/A,N/A,N/A
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-04,0: All Days (M-Su),0: All Day (12am-12am),673,16,26.253,0.608,7.000,19.000,21.000,24.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-04,0: All Days (M-Su),1: Early AM (12am-6am),35,14,26.253,0.539,5.000,16.000,22.000,25.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-04,0: All Days (M-Su),2: Peak AM (6am-10am),308,17,26.253,0.640,8.000,20.000,21.000,24.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-04,0: All Days (M-Su),3: Mid-Day (10am-3pm),129,16,26.253,0.609,7.000,20.000,21.000,24.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-04,0: All Days (M-Su),4: Peak PM (3pm-7pm),127,15,26.253,0.575,7.000,18.000,19.000,22.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-04,0: All Days (M-Su),5: Late PM (7pm-12am),75,15,26.253,0.576,7.000,20.000,21.000,27.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-04,1: Monday (M-M),0: All Day (12am-12am),682,15,26.253,0.580,7.000,18.000,20.000,22.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-04,1: Monday (M-M),1: Early AM (12am-6am),49,13,26.253,0.477,N/A,N/A,N/A,N/A
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-04,1: Monday (M-M),2: Peak AM (6am-10am),299,16,26.253,0.602,5.000,19.000,21.000,23.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-04,1: Monday (M-M),3: Mid-Day (10am-3pm),113,17,26.253,0.645,12.000,18.000,19.000,21.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-04,1: Monday (M-M),4: Peak PM (3pm-7pm),137,15,26.253,0.554,7.000,18.000,18.000,20.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-04,1: Monday (M-M),5: Late PM (7pm-12am),83,14,26.253,0.517,N/A,N/A,N/A,N/A
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-04,2: Tuesday (Tu-Tu),0: All Day (12am-12am),1010,16,26.253,0.617,8.000,19.000,21.000,23.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-04,2: Tuesday (Tu-Tu),1: Early AM (12am-6am),39,13,26.253,0.500,N/A,N/A,N/A,N/A
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-04,2: Tuesday (Tu-Tu),2: Peak AM (6am-10am),544,16,26.253,0.626,8.000,19.000,20.000,23.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-04,2: Tuesday (Tu-Tu),3: Mid-Day (10am-3pm),191,16,26.253,0.597,7.000,19.000,23.000,24.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-04,2: Tuesday (Tu-Tu),4: Peak PM (3pm-7pm),167,16,26.253,0.611,7.000,19.000,21.000,23.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-04,2: Tuesday (Tu-Tu),5: Late PM (7pm-12am),69,18,26.253,0.676,N/A,N/A,N/A,N/A
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-04,3: Wednesday (W-W),0: All Day (12am-12am),871,18,26.253,0.669,8.000,21.000,23.000,26.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-04,3: Wednesday (W-W),1: Early AM (12am-6am),25,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-04,3: Wednesday (W-W),2: Peak AM (6am-10am),509,19,26.253,0.714,12.000,21.000,23.000,27.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-04,3: Wednesday (W-W),3: Mid-Day (10am-3pm),110,16,26.253,0.615,N/A,N/A,N/A,N/A
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-04,3: Wednesday (W-W),4: Peak PM (3pm-7pm),159,17,26.253,0.641,7.000,19.000,22.000,25.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-04,3: Wednesday (W-W),5: Late PM (7pm-12am),67,14,26.253,0.526,N/A,N/A,N/A,N/A
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-04,4: Thursday (Th-Th),0: All Day (12am-12am),871,16,26.253,0.608,7.000,20.000,21.000,24.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-04,4: Thursday (Th-Th),1: Early AM (12am-6am),31,13,26.253,0.506,N/A,N/A,N/A,N/A
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-04,4: Thursday (Th-Th),2: Peak AM (6am-10am),368,17,26.253,0.640,8.000,20.000,21.000,24.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-04,4: Thursday (Th-Th),3: Mid-Day (10am-3pm),147,16,26.253,0.606,2.000,21.000,21.000,24.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-04,4: Thursday (Th-Th),4: Peak PM (3pm-7pm),215,14,26.253,0.538,6.000,17.000,18.000,21.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-04,4: Thursday (Th-Th),5: Late PM (7pm-12am),110,18,26.253,0.669,N/A,N/A,N/A,N/A
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-04,5: Friday (F-F),0: All Day (12am-12am),773,15,26.253,0.584,7.000,20.000,21.000,24.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-04,5: Friday (F-F),1: Early AM (12am-6am),37,15,26.253,0.560,N/A,N/A,N/A,N/A
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-04,5: Friday (F-F),2: Peak AM (6am-10am),313,16,26.253,0.609,7.000,20.000,21.000,25.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-04,5: Friday (F-F),3: Mid-Day (10am-3pm),202,17,26.253,0.645,11.000,20.000,21.000,24.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-04,5: Friday (F-F),4: Peak PM (3pm-7pm),129,13,26.253,0.509,4.000,16.000,19.000,19.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-04,5: Friday (F-F),5: Late PM (7pm-12am),92,12,26.253,0.475,N/A,N/A,N/A,N/A
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-04,6: Saturday (Sa-Sa),0: All Day (12am-12am),219,14,26.253,0.548,5.000,17.000,18.000,21.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-04,6: Saturday (Sa-Sa),1: Early AM (12am-6am),25,12,26.253,0.442,N/A,N/A,N/A,N/A
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-04,6: Saturday (Sa-Sa),2: Peak AM (6am-10am),25,17,26.253,0.630,N/A,N/A,N/A,N/A
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-04,6: Saturday (Sa-Sa),3: Mid-Day (10am-3pm),68,14,26.253,0.534,N/A,N/A,N/A,N/A
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-04,6: Saturday (Sa-Sa),4: Peak PM (3pm-7pm),22,13,26.253,0.500,N/A,N/A,N/A,N/A
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-04,6: Saturday (Sa-Sa),5: Late PM (7pm-12am),79,15,26.253,0.580,6.000,19.000,21.000,21.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-04,7: Sunday (Su-Su),0: All Day (12am-12am),201,16,26.253,0.615,9.000,19.000,25.000,28.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-04,7: Sunday (Su-Su),1: Early AM (12am-6am),32,19,26.253,0.716,N/A,N/A,N/A,N/A
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-04,7: Sunday (Su-Su),2: Peak AM (6am-10am),40,15,26.253,0.571,N/A,N/A,N/A,N/A
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-04,7: Sunday (Su-Su),3: Mid-Day (10am-3pm),61,16,26.253,0.596,N/A,N/A,N/A,N/A
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-04,7: Sunday (Su-Su),4: Peak PM (3pm-7pm),47,17,26.253,0.632,N/A,N/A,N/A,N/A
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-04,7: Sunday (Su-Su),5: Late PM (7pm-12am),22,15,26.253,0.557,N/A,N/A,N/A,N/A
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-05,0: All Days (M-Su),0: All Day (12am-12am),720,15,20.971,0.728,6.000,18.000,19.000,21.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-05,0: All Days (M-Su),1: Early AM (12am-6am),29,13,20.971,0.623,1.000,17.000,18.000,20.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-05,0: All Days (M-Su),2: Peak AM (6am-10am),353,15,20.971,0.734,7.000,18.000,19.000,21.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-05,0: All Days (M-Su),3: Mid-Day (10am-3pm),131,16,20.971,0.779,6.000,19.000,20.000,22.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-05,0: All Days (M-Su),4: Peak PM (3pm-7pm),123,15,20.971,0.707,5.000,17.000,18.000,21.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-05,0: All Days (M-Su),5: Late PM (7pm-12am),85,15,20.971,0.693,6.000,17.000,20.000,21.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-05,1: Monday (M-M),0: All Day (12am-12am),684,15,20.971,0.698,7.000,18.000,19.000,20.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-05,1: Monday (M-M),1: Early AM (12am-6am),35,13,20.971,0.626,N/A,N/A,N/A,N/A
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-05,1: Monday (M-M),2: Peak AM (6am-10am),352,15,20.971,0.736,7.000,18.000,19.000,21.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-05,1: Monday (M-M),3: Mid-Day (10am-3pm),89,14,20.971,0.649,N/A,N/A,N/A,N/A
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-05,1: Monday (M-M),4: Peak PM (3pm-7pm),109,14,20.971,0.664,7.000,17.000,18.000,20.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-05,1: Monday (M-M),5: Late PM (7pm-12am),99,14,20.971,0.668,4.000,17.000,17.000,21.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-05,2: Tuesday (Tu-Tu),0: All Day (12am-12am),1066,15,20.971,0.715,5.000,19.000,19.000,21.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-05,2: Tuesday (Tu-Tu),1: Early AM (12am-6am),30,13,20.971,0.629,N/A,N/A,N/A,N/A
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-05,2: Tuesday (Tu-Tu),2: Peak AM (6am-10am),664,15,20.971,0.738,6.000,18.000,19.000,21.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-05,2: Tuesday (Tu-Tu),3: Mid-Day (10am-3pm),164,16,20.971,0.755,9.000,19.000,20.000,23.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-05,2: Tuesday (Tu-Tu),4: Peak PM (3pm-7pm),124,12,20.971,0.594,4.000,15.000,17.000,19.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-05,2: Tuesday (Tu-Tu),5: Late PM (7pm-12am),84,14,20.971,0.669,N/A,N/A,N/A,N/A
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-05,3: Wednesday (W-W),0: All Day (12am-12am),877,16,20.971,0.759,8.000,18.000,19.000,20.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-05,3: Wednesday (W-W),1: Early AM (12am-6am),28,14,20.971,0.653,N/A,N/A,N/A,N/A
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-05,3: Wednesday (W-W),2: Peak AM (6am-10am),472,16,20.971,0.755,8.000,18.000,19.000,20.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-05,3: Wednesday (W-W),3: Mid-Day (10am-3pm),139,16,20.971,0.766,9.000,19.000,20.000,20.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-05,3: Wednesday (W-W),4: Peak PM (3pm-7pm),147,16,20.971,0.782,11.000,18.000,18.000,20.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-05,3: Wednesday (W-W),5: Late PM (7pm-12am),91,16,20.971,0.768,6.000,17.000,20.000,21.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-05,4: Thursday (Th-Th),0: All Day (12am-12am),988,15,20.971,0.720,6.000,18.000,19.000,20.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-05,4: Thursday (Th-Th),1: Early AM (12am-6am),16,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-05,4: Thursday (Th-Th),2: Peak AM (6am-10am),543,15,20.971,0.729,8.000,18.000,19.000,20.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-05,4: Thursday (Th-Th),3: Mid-Day (10am-3pm),155,15,20.971,0.727,4.000,16.000,18.000,21.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-05,4: Thursday (Th-Th),4: Peak PM (3pm-7pm),190,15,20.971,0.721,7.000,18.000,19.000,21.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-05,4: Thursday (Th-Th),5: Late PM (7pm-12am),83,13,20.971,0.620,6.000,15.000,19.000,19.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-05,5: Friday (F-F),0: All Day (12am-12am),694,15,20.971,0.730,7.000,18.000,19.000,21.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-05,5: Friday (F-F),1: Early AM (12am-6am),32,11,20.971,0.546,N/A,N/A,N/A,N/A
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-05,5: Friday (F-F),2: Peak AM (6am-10am),305,16,20.971,0.747,7.000,19.000,20.000,23.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-05,5: Friday (F-F),3: Mid-Day (10am-3pm),139,17,20.971,0.825,9.000,19.000,20.000,21.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-05,5: Friday (F-F),4: Peak PM (3pm-7pm),123,15,20.971,0.699,6.000,17.000,18.000,19.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-05,5: Friday (F-F),5: Late PM (7pm-12am),95,13,20.971,0.638,7.000,17.000,17.000,20.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-05,6: Saturday (Sa-Sa),0: All Day (12am-12am),324,15,20.971,0.707,6.000,19.000,20.000,23.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-05,6: Saturday (Sa-Sa),1: Early AM (12am-6am),36,13,20.971,0.638,N/A,N/A,N/A,N/A
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-05,6: Saturday (Sa-Sa),2: Peak AM (6am-10am),43,11,20.971,0.520,N/A,N/A,N/A,N/A
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-05,6: Saturday (Sa-Sa),3: Mid-Day (10am-3pm),102,17,20.971,0.803,14.000,19.000,21.000,23.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-05,6: Saturday (Sa-Sa),4: Peak PM (3pm-7pm),69,15,20.971,0.724,5.000,18.000,18.000,22.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-05,6: Saturday (Sa-Sa),5: Late PM (7pm-12am),73,15,20.971,0.700,5.000,20.000,20.000,22.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-05,7: Sunday (Su-Su),0: All Day (12am-12am),307,16,20.971,0.768,5.000,19.000,19.000,22.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-05,7: Sunday (Su-Su),1: Early AM (12am-6am),30,11,20.971,0.528,N/A,N/A,N/A,N/A
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-05,7: Sunday (Su-Su),2: Peak AM (6am-10am),23,14,20.971,0.673,N/A,N/A,N/A,N/A
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-05,7: Sunday (Su-Su),3: Mid-Day (10am-3pm),116,18,20.971,0.871,5.000,19.000,20.000,23.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-05,7: Sunday (Su-Su),4: Peak PM (3pm-7pm),73,15,20.971,0.714,6.000,19.000,21.000,21.000
+"Jan 01, 2019 - Jun 01, 2019",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2019-05,7: Sunday (Su-Su),5: Late PM (7pm-12am),66,17,20.971,0.788,7.000,15.000,19.000,20.000

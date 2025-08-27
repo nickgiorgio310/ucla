@@ -1,0 +1,5 @@
+Data Periods,Mode of Travel,Zone ID,Zone Name,Zone Is Pass-Through,Zone Direction (degrees),Zone is Bi-Direction,Day Type,Day Part,Average Daily Spot Traffic (StL Volume),Lower 95 Prediction Range,Upper 95 Prediction Range
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,South Saint Andrew's Place,yes,180,yes,0: All Days (M-Su),0: All Day (12am-12am),785,500,1400
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,South Saint Andrew's Place (1),yes,180,yes,0: All Days (M-Su),0: All Day (12am-12am),948,600,1600
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,West 29th Street,yes,270,yes,0: All Days (M-Su),0: All Day (12am-12am),654,400,1200
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,West 29th Street (1),yes,270,yes,0: All Days (M-Su),0: All Day (12am-12am),539,300,1000

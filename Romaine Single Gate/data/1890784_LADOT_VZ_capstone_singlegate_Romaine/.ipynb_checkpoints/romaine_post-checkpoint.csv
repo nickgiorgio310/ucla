@@ -1,0 +1,49 @@
+Data Periods,Mode of Travel,Zone ID,Zone Name,Zone Is Pass-Through,Zone Direction (degrees),Zone is Bi-Direction,Year-Month,Day Type,Day Part,Average Daily Spot Traffic (StL Volume),Avg Spot Speed (mph),Free Flow Speed (mph),Free Flow Factor,5th Speed Percentile,15th Speed Percentile,85th Speed Percentile,95th Speed Percentile
+"Jun 01, 2022 - Jul 01, 2022",All Vehicles - StL All Vehicles Volume,,North Serrano Avenue,yes,359,yes,2022-06,0: All Days (M-Su),0: All Day (12am-12am),690,13,18.203,0.735,3.000,7.000,19.000,26.000
+"Jun 01, 2022 - Jul 01, 2022",All Vehicles - StL All Vehicles Volume,,North Serrano Avenue,yes,359,yes,2022-06,0: All Days (M-Su),1: Early AM (12am-6am),67,13,18.203,0.728,2.000,8.000,18.000,25.000
+"Jun 01, 2022 - Jul 01, 2022",All Vehicles - StL All Vehicles Volume,,North Serrano Avenue,yes,359,yes,2022-06,0: All Days (M-Su),2: Peak AM (6am-10am),91,14,18.203,0.767,3.000,7.000,19.000,28.000
+"Jun 01, 2022 - Jul 01, 2022",All Vehicles - StL All Vehicles Volume,,North Serrano Avenue,yes,359,yes,2022-06,0: All Days (M-Su),3: Mid-Day (10am-3pm),164,14,18.203,0.752,4.000,8.000,19.000,25.000
+"Jun 01, 2022 - Jul 01, 2022",All Vehicles - StL All Vehicles Volume,,North Serrano Avenue,yes,359,yes,2022-06,0: All Days (M-Su),4: Peak PM (3pm-7pm),194,13,18.203,0.707,3.000,6.000,19.000,26.000
+"Jun 01, 2022 - Jul 01, 2022",All Vehicles - StL All Vehicles Volume,,North Serrano Avenue,yes,359,yes,2022-06,0: All Days (M-Su),5: Late PM (7pm-12am),175,13,18.203,0.735,4.000,7.000,19.000,26.000
+"Jun 01, 2022 - Jul 01, 2022",All Vehicles - StL All Vehicles Volume,,North Serrano Avenue,yes,359,yes,2022-06,1: Monday (M-M),0: All Day (12am-12am),580,13,18.203,0.725,4.000,7.000,19.000,25.000
+"Jun 01, 2022 - Jul 01, 2022",All Vehicles - StL All Vehicles Volume,,North Serrano Avenue,yes,359,yes,2022-06,1: Monday (M-M),1: Early AM (12am-6am),46,11,18.203,0.617,2.000,4.000,11.000,20.000
+"Jun 01, 2022 - Jul 01, 2022",All Vehicles - StL All Vehicles Volume,,North Serrano Avenue,yes,359,yes,2022-06,1: Monday (M-M),2: Peak AM (6am-10am),88,15,18.203,0.814,6.000,8.000,18.000,24.000
+"Jun 01, 2022 - Jul 01, 2022",All Vehicles - StL All Vehicles Volume,,North Serrano Avenue,yes,359,yes,2022-06,1: Monday (M-M),3: Mid-Day (10am-3pm),135,13,18.203,0.718,2.000,7.000,18.000,23.000
+"Jun 01, 2022 - Jul 01, 2022",All Vehicles - StL All Vehicles Volume,,North Serrano Avenue,yes,359,yes,2022-06,1: Monday (M-M),4: Peak PM (3pm-7pm),180,13,18.203,0.715,2.000,6.000,19.000,30.000
+"Jun 01, 2022 - Jul 01, 2022",All Vehicles - StL All Vehicles Volume,,North Serrano Avenue,yes,359,yes,2022-06,1: Monday (M-M),5: Late PM (7pm-12am),131,13,18.203,0.723,6.000,8.000,19.000,25.000
+"Jun 01, 2022 - Jul 01, 2022",All Vehicles - StL All Vehicles Volume,,North Serrano Avenue,yes,359,yes,2022-06,2: Tuesday (Tu-Tu),0: All Day (12am-12am),702,13,18.203,0.717,3.000,7.000,19.000,25.000
+"Jun 01, 2022 - Jul 01, 2022",All Vehicles - StL All Vehicles Volume,,North Serrano Avenue,yes,359,yes,2022-06,2: Tuesday (Tu-Tu),1: Early AM (12am-6am),88,12,18.203,0.671,5.000,8.000,19.000,27.000
+"Jun 01, 2022 - Jul 01, 2022",All Vehicles - StL All Vehicles Volume,,North Serrano Avenue,yes,359,yes,2022-06,2: Tuesday (Tu-Tu),2: Peak AM (6am-10am),95,14,18.203,0.785,3.000,3.000,18.000,25.000
+"Jun 01, 2022 - Jul 01, 2022",All Vehicles - StL All Vehicles Volume,,North Serrano Avenue,yes,359,yes,2022-06,2: Tuesday (Tu-Tu),3: Mid-Day (10am-3pm),143,14,18.203,0.755,4.000,8.000,19.000,25.000
+"Jun 01, 2022 - Jul 01, 2022",All Vehicles - StL All Vehicles Volume,,North Serrano Avenue,yes,359,yes,2022-06,2: Tuesday (Tu-Tu),4: Peak PM (3pm-7pm),205,12,18.203,0.685,3.000,6.000,17.000,26.000
+"Jun 01, 2022 - Jul 01, 2022",All Vehicles - StL All Vehicles Volume,,North Serrano Avenue,yes,359,yes,2022-06,2: Tuesday (Tu-Tu),5: Late PM (7pm-12am),171,13,18.203,0.711,3.000,6.000,19.000,24.000
+"Jun 01, 2022 - Jul 01, 2022",All Vehicles - StL All Vehicles Volume,,North Serrano Avenue,yes,359,yes,2022-06,3: Wednesday (W-W),0: All Day (12am-12am),765,13,18.203,0.732,4.000,7.000,19.000,26.000
+"Jun 01, 2022 - Jul 01, 2022",All Vehicles - StL All Vehicles Volume,,North Serrano Avenue,yes,359,yes,2022-06,3: Wednesday (W-W),1: Early AM (12am-6am),65,14,18.203,0.764,5.000,9.000,20.000,27.000
+"Jun 01, 2022 - Jul 01, 2022",All Vehicles - StL All Vehicles Volume,,North Serrano Avenue,yes,359,yes,2022-06,3: Wednesday (W-W),2: Peak AM (6am-10am),92,15,18.203,0.835,4.000,7.000,25.000,29.000
+"Jun 01, 2022 - Jul 01, 2022",All Vehicles - StL All Vehicles Volume,,North Serrano Avenue,yes,359,yes,2022-06,3: Wednesday (W-W),3: Mid-Day (10am-3pm),156,14,18.203,0.761,6.000,8.000,19.000,25.000
+"Jun 01, 2022 - Jul 01, 2022",All Vehicles - StL All Vehicles Volume,,North Serrano Avenue,yes,359,yes,2022-06,3: Wednesday (W-W),4: Peak PM (3pm-7pm),240,13,18.203,0.692,3.000,6.000,18.000,25.000
+"Jun 01, 2022 - Jul 01, 2022",All Vehicles - StL All Vehicles Volume,,North Serrano Avenue,yes,359,yes,2022-06,3: Wednesday (W-W),5: Late PM (7pm-12am),211,13,18.203,0.700,2.000,6.000,18.000,23.000
+"Jun 01, 2022 - Jul 01, 2022",All Vehicles - StL All Vehicles Volume,,North Serrano Avenue,yes,359,yes,2022-06,4: Thursday (Th-Th),0: All Day (12am-12am),719,13,18.203,0.720,3.000,7.000,19.000,25.000
+"Jun 01, 2022 - Jul 01, 2022",All Vehicles - StL All Vehicles Volume,,North Serrano Avenue,yes,359,yes,2022-06,4: Thursday (Th-Th),1: Early AM (12am-6am),65,14,18.203,0.778,2.000,9.000,16.000,66.000
+"Jun 01, 2022 - Jul 01, 2022",All Vehicles - StL All Vehicles Volume,,North Serrano Avenue,yes,359,yes,2022-06,4: Thursday (Th-Th),2: Peak AM (6am-10am),106,12,18.203,0.676,5.000,7.000,18.000,26.000
+"Jun 01, 2022 - Jul 01, 2022",All Vehicles - StL All Vehicles Volume,,North Serrano Avenue,yes,359,yes,2022-06,4: Thursday (Th-Th),3: Mid-Day (10am-3pm),171,13,18.203,0.729,3.000,8.000,19.000,23.000
+"Jun 01, 2022 - Jul 01, 2022",All Vehicles - StL All Vehicles Volume,,North Serrano Avenue,yes,359,yes,2022-06,4: Thursday (Th-Th),4: Peak PM (3pm-7pm),207,13,18.203,0.725,3.000,6.000,20.000,25.000
+"Jun 01, 2022 - Jul 01, 2022",All Vehicles - StL All Vehicles Volume,,North Serrano Avenue,yes,359,yes,2022-06,4: Thursday (Th-Th),5: Late PM (7pm-12am),170,13,18.203,0.709,2.000,6.000,19.000,26.000
+"Jun 01, 2022 - Jul 01, 2022",All Vehicles - StL All Vehicles Volume,,North Serrano Avenue,yes,359,yes,2022-06,5: Friday (F-F),0: All Day (12am-12am),731,14,18.203,0.758,4.000,7.000,19.000,26.000
+"Jun 01, 2022 - Jul 01, 2022",All Vehicles - StL All Vehicles Volume,,North Serrano Avenue,yes,359,yes,2022-06,5: Friday (F-F),1: Early AM (12am-6am),54,13,18.203,0.734,2.000,8.000,16.000,18.000
+"Jun 01, 2022 - Jul 01, 2022",All Vehicles - StL All Vehicles Volume,,North Serrano Avenue,yes,359,yes,2022-06,5: Friday (F-F),2: Peak AM (6am-10am),125,14,18.203,0.791,5.000,7.000,19.000,34.000
+"Jun 01, 2022 - Jul 01, 2022",All Vehicles - StL All Vehicles Volume,,North Serrano Avenue,yes,359,yes,2022-06,5: Friday (F-F),3: Mid-Day (10am-3pm),172,14,18.203,0.789,4.000,7.000,20.000,25.000
+"Jun 01, 2022 - Jul 01, 2022",All Vehicles - StL All Vehicles Volume,,North Serrano Avenue,yes,359,yes,2022-06,5: Friday (F-F),4: Peak PM (3pm-7pm),171,13,18.203,0.732,4.000,6.000,20.000,28.000
+"Jun 01, 2022 - Jul 01, 2022",All Vehicles - StL All Vehicles Volume,,North Serrano Avenue,yes,359,yes,2022-06,5: Friday (F-F),5: Late PM (7pm-12am),209,13,18.203,0.740,2.000,7.000,19.000,25.000
+"Jun 01, 2022 - Jul 01, 2022",All Vehicles - StL All Vehicles Volume,,North Serrano Avenue,yes,359,yes,2022-06,6: Saturday (Sa-Sa),0: All Day (12am-12am),696,14,18.203,0.754,4.000,7.000,19.000,27.000
+"Jun 01, 2022 - Jul 01, 2022",All Vehicles - StL All Vehicles Volume,,North Serrano Avenue,yes,359,yes,2022-06,6: Saturday (Sa-Sa),1: Early AM (12am-6am),72,13,18.203,0.720,1.000,9.000,17.000,20.000
+"Jun 01, 2022 - Jul 01, 2022",All Vehicles - StL All Vehicles Volume,,North Serrano Avenue,yes,359,yes,2022-06,6: Saturday (Sa-Sa),2: Peak AM (6am-10am),69,13,18.203,0.730,4.000,8.000,19.000,25.000
+"Jun 01, 2022 - Jul 01, 2022",All Vehicles - StL All Vehicles Volume,,North Serrano Avenue,yes,359,yes,2022-06,6: Saturday (Sa-Sa),3: Mid-Day (10am-3pm),192,14,18.203,0.749,4.000,7.000,17.000,26.000
+"Jun 01, 2022 - Jul 01, 2022",All Vehicles - StL All Vehicles Volume,,North Serrano Avenue,yes,359,yes,2022-06,6: Saturday (Sa-Sa),4: Peak PM (3pm-7pm),192,13,18.203,0.716,3.000,6.000,19.000,25.000
+"Jun 01, 2022 - Jul 01, 2022",All Vehicles - StL All Vehicles Volume,,North Serrano Avenue,yes,359,yes,2022-06,6: Saturday (Sa-Sa),5: Late PM (7pm-12am),171,15,18.203,0.827,5.000,8.000,20.000,37.000
+"Jun 01, 2022 - Jul 01, 2022",All Vehicles - StL All Vehicles Volume,,North Serrano Avenue,yes,359,yes,2022-06,7: Sunday (Su-Su),0: All Day (12am-12am),612,13,18.203,0.735,4.000,7.000,19.000,28.000
+"Jun 01, 2022 - Jul 01, 2022",All Vehicles - StL All Vehicles Volume,,North Serrano Avenue,yes,359,yes,2022-06,7: Sunday (Su-Su),1: Early AM (12am-6am),78,14,18.203,0.765,3.000,7.000,19.000,27.000
+"Jun 01, 2022 - Jul 01, 2022",All Vehicles - StL All Vehicles Volume,,North Serrano Avenue,yes,359,yes,2022-06,7: Sunday (Su-Su),2: Peak AM (6am-10am),55,13,18.203,0.740,1.000,8.000,24.000,30.000
+"Jun 01, 2022 - Jul 01, 2022",All Vehicles - StL All Vehicles Volume,,North Serrano Avenue,yes,359,yes,2022-06,7: Sunday (Su-Su),3: Mid-Day (10am-3pm),175,14,18.203,0.759,3.000,8.000,20.000,29.000
+"Jun 01, 2022 - Jul 01, 2022",All Vehicles - StL All Vehicles Volume,,North Serrano Avenue,yes,359,yes,2022-06,7: Sunday (Su-Su),4: Peak PM (3pm-7pm),151,12,18.203,0.686,4.000,7.000,19.000,28.000
+"Jun 01, 2022 - Jul 01, 2022",All Vehicles - StL All Vehicles Volume,,North Serrano Avenue,yes,359,yes,2022-06,7: Sunday (Su-Su),5: Late PM (7pm-12am),151,13,18.203,0.738,4.000,7.000,19.000,28.000

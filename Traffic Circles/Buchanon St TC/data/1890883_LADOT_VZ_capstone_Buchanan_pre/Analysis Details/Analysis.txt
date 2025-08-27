@@ -1,0 +1,34 @@
+Analysis ID: 1890883
+Analysis: LADOT-VZ-capstone_Buchanan_pre
+Created by: robert.fishel@lacity.org
+Created on: 2025-02-24
+Organization: SCAG - Regional Multimode
+
+Analysis Setup Details:
+Analysis Type: Network Performance
+Additional Project Configuration: Speed Percentile Attributes (5, 15, 85, 95)
+Unit of Measurement: Miles
+Mode of Travel: All Vehicles
+Output Type: StL All Vehicles Volume
+
+Analysis Options: 
+Data Periods: Jun 01, 2021 - Jun 01, 2022
+
+
+Day Type: 
+0: All Days (M-Su)
+1: Weekday (M-Th)
+2: Weekend (Sa-Su)
+
+Day Part: 
+0: All Day (12am-12am)
+1: Early AM (12am-6am)
+2: Peak AM (6am-10am)
+3: Mid-Day (10am-3pm)
+4: Peak PM (3pm-7pm)
+5: Late PM (7pm-12am)
+
+Country: USA
+Metrics Version: R144-M134
+
+Copyright © 2011 - 2025, StreetLight Data, Inc. All rights reserved.

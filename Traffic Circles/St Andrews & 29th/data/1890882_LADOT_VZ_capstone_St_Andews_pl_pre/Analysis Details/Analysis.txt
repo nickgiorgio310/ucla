@@ -1,0 +1,38 @@
+Analysis ID: 1890882
+Analysis: LADOT-VZ-capstone_St_Andews_pl_pre
+Created by: robert.fishel@lacity.org
+Created on: 2025-02-24
+Organization: SCAG - Regional Multimode
+
+Analysis Setup Details:
+Analysis Type: Network Performance
+Unit of Measurement: Miles
+Mode of Travel: All Vehicles
+Output Type: StL All Vehicles Volume
+
+Analysis Options: 
+Data Periods: Jun 01, 2021 - Jun 01, 2022
+
+
+Day Type: 
+0: All Days (M-Su)
+1: Monday (M-M)
+2: Tuesday (Tu-Tu)
+3: Wednesday (W-W)
+4: Thursday (Th-Th)
+5: Friday (F-F)
+6: Saturday (Sa-Sa)
+7: Sunday (Su-Su)
+
+Day Part: 
+0: All Day (12am-12am)
+1: Early AM (12am-6am)
+2: Peak AM (6am-10am)
+3: Mid-Day (10am-3pm)
+4: Peak PM (3pm-7pm)
+5: Late PM (7pm-12am)
+
+Country: USA
+Metrics Version: R144-M134
+
+Copyright © 2011 - 2025, StreetLight Data, Inc. All rights reserved.

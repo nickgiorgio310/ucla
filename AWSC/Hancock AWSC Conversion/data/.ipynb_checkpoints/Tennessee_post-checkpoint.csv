@@ -1,0 +1,241 @@
+Data Periods,Mode of Travel,Zone ID,Zone Name,Zone Is Pass-Through,Zone Direction (degrees),Zone is Bi-Direction,Year-Month,Day Type,Day Part,Average Daily Spot Traffic (StL Volume),Avg Spot Speed (mph),Free Flow Speed (mph),Free Flow Factor,5th Speed Percentile,75th Speed Percentile,85th Speed Percentile,95th Speed Percentile
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-01,0: All Days (M-Su),0: All Day (12am-12am),860,19,25.773,0.734,9.000,23.000,27.000,33.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-01,0: All Days (M-Su),1: Early AM (12am-6am),40,20,25.773,0.769,6.000,24.000,27.000,31.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-01,0: All Days (M-Su),2: Peak AM (6am-10am),123,18,25.773,0.707,10.000,21.000,25.000,31.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-01,0: All Days (M-Su),3: Mid-Day (10am-3pm),281,19,25.773,0.738,9.000,23.000,27.000,34.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-01,0: All Days (M-Su),4: Peak PM (3pm-7pm),275,19,25.773,0.739,9.000,24.000,27.000,33.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-01,0: All Days (M-Su),5: Late PM (7pm-12am),141,19,25.773,0.731,7.000,24.000,28.000,34.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-01,1: Monday (M-M),0: All Day (12am-12am),983,18,25.773,0.694,3.000,22.000,27.000,32.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-01,1: Monday (M-M),1: Early AM (12am-6am),51,16,25.773,0.614,3.000,23.000,23.000,27.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-01,1: Monday (M-M),2: Peak AM (6am-10am),147,17,25.773,0.658,9.000,20.000,22.000,27.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-01,1: Monday (M-M),3: Mid-Day (10am-3pm),312,18,25.773,0.695,3.000,24.000,29.000,34.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-01,1: Monday (M-M),4: Peak PM (3pm-7pm),295,19,25.773,0.737,8.000,24.000,28.000,33.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-01,1: Monday (M-M),5: Late PM (7pm-12am),178,17,25.773,0.672,4.000,20.000,25.000,29.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-01,2: Tuesday (Tu-Tu),0: All Day (12am-12am),1074,19,25.773,0.725,9.000,23.000,27.000,33.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-01,2: Tuesday (Tu-Tu),1: Early AM (12am-6am),43,18,25.773,0.697,N/A,N/A,N/A,N/A
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-01,2: Tuesday (Tu-Tu),2: Peak AM (6am-10am),165,18,25.773,0.686,11.000,22.000,24.000,27.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-01,2: Tuesday (Tu-Tu),3: Mid-Day (10am-3pm),328,20,25.773,0.758,8.000,24.000,27.000,34.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-01,2: Tuesday (Tu-Tu),4: Peak PM (3pm-7pm),399,19,25.773,0.727,9.000,24.000,27.000,32.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-01,2: Tuesday (Tu-Tu),5: Late PM (7pm-12am),140,18,25.773,0.700,1.000,23.000,25.000,30.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-01,3: Wednesday (W-W),0: All Day (12am-12am),1033,19,25.773,0.733,8.000,23.000,27.000,33.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-01,3: Wednesday (W-W),1: Early AM (12am-6am),46,22,25.773,0.862,N/A,N/A,N/A,N/A
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-01,3: Wednesday (W-W),2: Peak AM (6am-10am),150,18,25.773,0.707,4.000,20.000,24.000,33.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-01,3: Wednesday (W-W),3: Mid-Day (10am-3pm),368,18,25.773,0.703,7.000,22.000,27.000,33.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-01,3: Wednesday (W-W),4: Peak PM (3pm-7pm),310,19,25.773,0.749,9.000,24.000,28.000,34.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-01,3: Wednesday (W-W),5: Late PM (7pm-12am),160,20,25.773,0.758,10.000,25.000,30.000,36.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-01,4: Thursday (Th-Th),0: All Day (12am-12am),942,19,25.773,0.746,11.000,23.000,27.000,35.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-01,4: Thursday (Th-Th),1: Early AM (12am-6am),41,20,25.773,0.782,N/A,N/A,N/A,N/A
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-01,4: Thursday (Th-Th),2: Peak AM (6am-10am),140,19,25.773,0.720,12.000,18.000,22.000,28.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-01,4: Thursday (Th-Th),3: Mid-Day (10am-3pm),310,19,25.773,0.721,11.000,21.000,25.000,33.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-01,4: Thursday (Th-Th),4: Peak PM (3pm-7pm),305,20,25.773,0.790,9.000,26.000,31.000,36.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-01,4: Thursday (Th-Th),5: Late PM (7pm-12am),147,19,25.773,0.720,9.000,26.000,27.000,32.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-01,5: Friday (F-F),0: All Day (12am-12am),906,19,25.773,0.747,9.000,24.000,28.000,35.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-01,5: Friday (F-F),1: Early AM (12am-6am),43,22,25.773,0.854,13.000,31.000,31.000,31.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-01,5: Friday (F-F),2: Peak AM (6am-10am),128,18,25.773,0.700,7.000,24.000,29.000,34.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-01,5: Friday (F-F),3: Mid-Day (10am-3pm),276,20,25.773,0.783,9.000,25.000,28.000,36.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-01,5: Friday (F-F),4: Peak PM (3pm-7pm),309,18,25.773,0.715,9.000,23.000,27.000,34.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-01,5: Friday (F-F),5: Late PM (7pm-12am),150,20,25.773,0.759,9.000,26.000,30.000,38.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-01,6: Saturday (Sa-Sa),0: All Day (12am-12am),677,19,25.773,0.739,9.000,24.000,27.000,34.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-01,6: Saturday (Sa-Sa),1: Early AM (12am-6am),35,20,25.773,0.784,14.000,23.000,24.000,34.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-01,6: Saturday (Sa-Sa),2: Peak AM (6am-10am),89,19,25.773,0.726,11.000,22.000,26.000,33.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-01,6: Saturday (Sa-Sa),3: Mid-Day (10am-3pm),217,19,25.773,0.747,10.000,24.000,27.000,35.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-01,6: Saturday (Sa-Sa),4: Peak PM (3pm-7pm),206,19,25.773,0.725,7.000,24.000,27.000,33.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-01,6: Saturday (Sa-Sa),5: Late PM (7pm-12am),129,19,25.773,0.744,9.000,24.000,28.000,36.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-01,7: Sunday (Su-Su),0: All Day (12am-12am),522,19,25.773,0.755,10.000,25.000,28.000,33.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-01,7: Sunday (Su-Su),1: Early AM (12am-6am),26,20,25.773,0.782,N/A,N/A,N/A,N/A
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-01,7: Sunday (Su-Su),2: Peak AM (6am-10am),61,20,25.773,0.769,12.000,25.000,28.000,31.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-01,7: Sunday (Su-Su),3: Mid-Day (10am-3pm),195,19,25.773,0.754,10.000,25.000,29.000,33.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-01,7: Sunday (Su-Su),4: Peak PM (3pm-7pm),146,19,25.773,0.745,10.000,25.000,27.000,33.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-01,7: Sunday (Su-Su),5: Late PM (7pm-12am),93,19,25.773,0.755,8.000,26.000,28.000,34.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-02,0: All Days (M-Su),0: All Day (12am-12am),942,19,24.148,0.778,8.000,23.000,27.000,34.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-02,0: All Days (M-Su),1: Early AM (12am-6am),34,18,24.148,0.756,7.000,22.000,24.000,30.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-02,0: All Days (M-Su),2: Peak AM (6am-10am),165,18,24.148,0.731,7.000,21.000,24.000,31.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-02,0: All Days (M-Su),3: Mid-Day (10am-3pm),303,19,24.148,0.792,8.000,24.000,28.000,34.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-02,0: All Days (M-Su),4: Peak PM (3pm-7pm),281,19,24.148,0.786,8.000,24.000,28.000,34.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-02,0: All Days (M-Su),5: Late PM (7pm-12am),160,19,24.148,0.789,7.000,24.000,28.000,35.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-02,1: Monday (M-M),0: All Day (12am-12am),1054,18,24.148,0.763,7.000,23.000,28.000,35.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-02,1: Monday (M-M),1: Early AM (12am-6am),37,16,24.148,0.656,N/A,N/A,N/A,N/A
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-02,1: Monday (M-M),2: Peak AM (6am-10am),171,16,24.148,0.653,4.000,20.000,21.000,25.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-02,1: Monday (M-M),3: Mid-Day (10am-3pm),320,19,24.148,0.771,7.000,24.000,29.000,34.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-02,1: Monday (M-M),4: Peak PM (3pm-7pm),364,20,24.148,0.815,9.000,24.000,30.000,36.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-02,1: Monday (M-M),5: Late PM (7pm-12am),161,19,24.148,0.770,6.000,23.000,28.000,35.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-02,2: Tuesday (Tu-Tu),0: All Day (12am-12am),1012,19,24.148,0.771,9.000,23.000,26.000,33.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-02,2: Tuesday (Tu-Tu),1: Early AM (12am-6am),32,17,24.148,0.709,N/A,N/A,N/A,N/A
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-02,2: Tuesday (Tu-Tu),2: Peak AM (6am-10am),240,17,24.148,0.688,4.000,19.000,23.000,31.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-02,2: Tuesday (Tu-Tu),3: Mid-Day (10am-3pm),288,18,24.148,0.764,6.000,22.000,26.000,33.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-02,2: Tuesday (Tu-Tu),4: Peak PM (3pm-7pm),268,20,24.148,0.832,10.000,26.000,28.000,33.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-02,2: Tuesday (Tu-Tu),5: Late PM (7pm-12am),183,20,24.148,0.812,11.000,25.000,27.000,35.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-02,3: Wednesday (W-W),0: All Day (12am-12am),1098,19,24.148,0.792,9.000,24.000,28.000,35.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-02,3: Wednesday (W-W),1: Early AM (12am-6am),55,19,24.148,0.789,7.000,27.000,27.000,37.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-02,3: Wednesday (W-W),2: Peak AM (6am-10am),201,18,24.148,0.749,10.000,21.000,25.000,34.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-02,3: Wednesday (W-W),3: Mid-Day (10am-3pm),377,19,24.148,0.789,8.000,23.000,29.000,36.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-02,3: Wednesday (W-W),4: Peak PM (3pm-7pm),317,20,24.148,0.817,9.000,26.000,28.000,35.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-02,3: Wednesday (W-W),5: Late PM (7pm-12am),149,19,24.148,0.807,9.000,23.000,29.000,37.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-02,4: Thursday (Th-Th),0: All Day (12am-12am),1056,19,24.148,0.797,7.000,24.000,27.000,33.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-02,4: Thursday (Th-Th),1: Early AM (12am-6am),22,20,24.148,0.810,N/A,N/A,N/A,N/A
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-02,4: Thursday (Th-Th),2: Peak AM (6am-10am),183,19,24.148,0.776,8.000,22.000,25.000,32.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-02,4: Thursday (Th-Th),3: Mid-Day (10am-3pm),322,20,24.148,0.810,9.000,24.000,27.000,33.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-02,4: Thursday (Th-Th),4: Peak PM (3pm-7pm),357,19,24.148,0.795,7.000,24.000,28.000,33.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-02,4: Thursday (Th-Th),5: Late PM (7pm-12am),171,19,24.148,0.797,6.000,24.000,27.000,34.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-02,5: Friday (F-F),0: All Day (12am-12am),1041,19,24.148,0.790,8.000,24.000,28.000,34.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-02,5: Friday (F-F),1: Early AM (12am-6am),25,24,24.148,0.998,N/A,N/A,N/A,N/A
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-02,5: Friday (F-F),2: Peak AM (6am-10am),196,17,24.148,0.719,5.000,20.000,22.000,29.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-02,5: Friday (F-F),3: Mid-Day (10am-3pm),320,20,24.148,0.823,9.000,24.000,28.000,35.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-02,5: Friday (F-F),4: Peak PM (3pm-7pm),288,19,24.148,0.788,6.000,25.000,30.000,35.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-02,5: Friday (F-F),5: Late PM (7pm-12am),213,19,24.148,0.781,8.000,26.000,29.000,34.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-02,6: Saturday (Sa-Sa),0: All Day (12am-12am),752,18,24.148,0.760,7.000,23.000,27.000,34.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-02,6: Saturday (Sa-Sa),1: Early AM (12am-6am),34,16,24.148,0.663,2.000,22.000,23.000,24.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-02,6: Saturday (Sa-Sa),2: Peak AM (6am-10am),88,20,24.148,0.838,7.000,27.000,31.000,38.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-02,6: Saturday (Sa-Sa),3: Mid-Day (10am-3pm),247,18,24.148,0.759,7.000,24.000,26.000,33.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-02,6: Saturday (Sa-Sa),4: Peak PM (3pm-7pm),213,17,24.148,0.723,8.000,22.000,24.000,31.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-02,6: Saturday (Sa-Sa),5: Late PM (7pm-12am),169,19,24.148,0.785,7.000,23.000,29.000,37.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-02,7: Sunday (Su-Su),0: All Day (12am-12am),579,19,24.148,0.773,7.000,23.000,28.000,33.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-02,7: Sunday (Su-Su),1: Early AM (12am-6am),32,19,24.148,0.774,N/A,N/A,N/A,N/A
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-02,7: Sunday (Su-Su),2: Peak AM (6am-10am),76,18,24.148,0.733,4.000,21.000,22.000,31.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-02,7: Sunday (Su-Su),3: Mid-Day (10am-3pm),246,20,24.148,0.829,8.000,26.000,30.000,34.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-02,7: Sunday (Su-Su),4: Peak PM (3pm-7pm),156,17,24.148,0.712,6.000,22.000,25.000,31.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-02,7: Sunday (Su-Su),5: Late PM (7pm-12am),69,18,24.148,0.758,3.000,21.000,26.000,30.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-03,0: All Days (M-Su),0: All Day (12am-12am),1046,19,25.391,0.751,9.000,24.000,28.000,34.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-03,0: All Days (M-Su),1: Early AM (12am-6am),38,19,25.391,0.753,6.000,24.000,27.000,35.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-03,0: All Days (M-Su),2: Peak AM (6am-10am),177,18,25.391,0.716,9.000,22.000,26.000,33.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-03,0: All Days (M-Su),3: Mid-Day (10am-3pm),331,19,25.391,0.744,7.000,24.000,28.000,35.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-03,0: All Days (M-Su),4: Peak PM (3pm-7pm),324,20,25.391,0.775,9.000,25.000,29.000,34.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-03,0: All Days (M-Su),5: Late PM (7pm-12am),176,19,25.391,0.756,9.000,23.000,27.000,33.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-03,1: Monday (M-M),0: All Day (12am-12am),1105,19,25.391,0.737,7.000,23.000,28.000,34.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-03,1: Monday (M-M),1: Early AM (12am-6am),42,17,25.391,0.656,6.000,24.000,27.000,27.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-03,1: Monday (M-M),2: Peak AM (6am-10am),182,19,25.391,0.730,10.000,21.000,25.000,31.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-03,1: Monday (M-M),3: Mid-Day (10am-3pm),351,18,25.391,0.692,4.000,22.000,27.000,34.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-03,1: Monday (M-M),4: Peak PM (3pm-7pm),351,20,25.391,0.796,9.000,25.000,30.000,36.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-03,1: Monday (M-M),5: Late PM (7pm-12am),178,19,25.391,0.736,10.000,23.000,27.000,32.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-03,2: Tuesday (Tu-Tu),0: All Day (12am-12am),1197,19,25.391,0.768,9.000,24.000,28.000,35.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-03,2: Tuesday (Tu-Tu),1: Early AM (12am-6am),64,18,25.391,0.720,9.000,21.000,32.000,35.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-03,2: Tuesday (Tu-Tu),2: Peak AM (6am-10am),230,18,25.391,0.722,9.000,22.000,27.000,33.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-03,2: Tuesday (Tu-Tu),3: Mid-Day (10am-3pm),351,20,25.391,0.773,10.000,24.000,28.000,33.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-03,2: Tuesday (Tu-Tu),4: Peak PM (3pm-7pm),359,20,25.391,0.786,9.000,25.000,30.000,35.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-03,2: Tuesday (Tu-Tu),5: Late PM (7pm-12am),193,20,25.391,0.794,9.000,25.000,28.000,35.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-03,3: Wednesday (W-W),0: All Day (12am-12am),1112,19,25.391,0.766,8.000,25.000,29.000,35.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-03,3: Wednesday (W-W),1: Early AM (12am-6am),35,19,25.391,0.750,N/A,N/A,N/A,N/A
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-03,3: Wednesday (W-W),2: Peak AM (6am-10am),216,17,25.391,0.663,7.000,21.000,24.000,30.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-03,3: Wednesday (W-W),3: Mid-Day (10am-3pm),407,20,25.391,0.786,9.000,25.000,30.000,36.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-03,3: Wednesday (W-W),4: Peak PM (3pm-7pm),319,21,25.391,0.819,9.000,27.000,30.000,36.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-03,3: Wednesday (W-W),5: Late PM (7pm-12am),135,19,25.391,0.749,6.000,23.000,29.000,34.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-03,4: Thursday (Th-Th),0: All Day (12am-12am),1103,20,25.391,0.782,9.000,25.000,30.000,35.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-03,4: Thursday (Th-Th),1: Early AM (12am-6am),48,19,25.391,0.737,11.000,23.000,29.000,32.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-03,4: Thursday (Th-Th),2: Peak AM (6am-10am),183,19,25.391,0.756,11.000,20.000,26.000,35.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-03,4: Thursday (Th-Th),3: Mid-Day (10am-3pm),311,20,25.391,0.796,8.000,27.000,31.000,37.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-03,4: Thursday (Th-Th),4: Peak PM (3pm-7pm),355,20,25.391,0.786,10.000,26.000,30.000,34.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-03,4: Thursday (Th-Th),5: Late PM (7pm-12am),205,20,25.391,0.788,6.000,24.000,30.000,35.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-03,5: Friday (F-F),0: All Day (12am-12am),1253,19,25.391,0.752,9.000,24.000,28.000,34.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-03,5: Friday (F-F),1: Early AM (12am-6am),24,23,25.391,0.889,N/A,N/A,N/A,N/A
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-03,5: Friday (F-F),2: Peak AM (6am-10am),241,19,25.391,0.747,9.000,24.000,29.000,38.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-03,5: Friday (F-F),3: Mid-Day (10am-3pm),364,19,25.391,0.760,8.000,25.000,30.000,35.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-03,5: Friday (F-F),4: Peak PM (3pm-7pm),408,19,25.391,0.730,8.000,23.000,27.000,33.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-03,5: Friday (F-F),5: Late PM (7pm-12am),215,20,25.391,0.770,12.000,24.000,27.000,31.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-03,6: Saturday (Sa-Sa),0: All Day (12am-12am),796,19,25.391,0.730,7.000,23.000,27.000,33.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-03,6: Saturday (Sa-Sa),1: Early AM (12am-6am),30,19,25.391,0.764,N/A,N/A,N/A,N/A
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-03,6: Saturday (Sa-Sa),2: Peak AM (6am-10am),94,19,25.391,0.731,4.000,24.000,27.000,33.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-03,6: Saturday (Sa-Sa),3: Mid-Day (10am-3pm),259,17,25.391,0.674,9.000,20.000,23.000,32.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-03,6: Saturday (Sa-Sa),4: Peak PM (3pm-7pm),242,19,25.391,0.766,7.000,24.000,29.000,35.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-03,6: Saturday (Sa-Sa),5: Late PM (7pm-12am),170,19,25.391,0.756,11.000,23.000,28.000,33.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-03,7: Sunday (Su-Su),0: All Day (12am-12am),690,18,25.391,0.715,7.000,23.000,26.000,32.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-03,7: Sunday (Su-Su),1: Early AM (12am-6am),19,24,25.391,0.944,N/A,N/A,N/A,N/A
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-03,7: Sunday (Su-Su),2: Peak AM (6am-10am),66,16,25.391,0.634,1.000,20.000,22.000,32.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-03,7: Sunday (Su-Su),3: Mid-Day (10am-3pm),244,18,25.391,0.719,6.000,22.000,26.000,31.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-03,7: Sunday (Su-Su),4: Peak PM (3pm-7pm),220,19,25.391,0.731,9.000,24.000,28.000,33.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-03,7: Sunday (Su-Su),5: Late PM (7pm-12am),141,18,25.391,0.691,4.000,22.000,25.000,31.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-04,0: All Days (M-Su),0: All Day (12am-12am),1045,19,22.659,0.837,9.000,23.000,28.000,34.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-04,0: All Days (M-Su),1: Early AM (12am-6am),36,18,22.659,0.776,9.000,22.000,25.000,28.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-04,0: All Days (M-Su),2: Peak AM (6am-10am),174,19,22.659,0.837,10.000,22.000,27.000,33.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-04,0: All Days (M-Su),3: Mid-Day (10am-3pm),328,19,22.659,0.828,8.000,23.000,27.000,33.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-04,0: All Days (M-Su),4: Peak PM (3pm-7pm),317,20,22.659,0.871,9.000,25.000,29.000,34.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-04,0: All Days (M-Su),5: Late PM (7pm-12am),189,18,22.659,0.808,7.000,23.000,28.000,33.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-04,1: Monday (M-M),0: All Day (12am-12am),1060,19,22.659,0.838,9.000,24.000,28.000,33.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-04,1: Monday (M-M),1: Early AM (12am-6am),43,18,22.659,0.795,N/A,N/A,N/A,N/A
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-04,1: Monday (M-M),2: Peak AM (6am-10am),192,18,22.659,0.813,9.000,22.000,25.000,33.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-04,1: Monday (M-M),3: Mid-Day (10am-3pm),320,19,22.659,0.834,10.000,24.000,28.000,33.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-04,1: Monday (M-M),4: Peak PM (3pm-7pm),347,20,22.659,0.873,10.000,26.000,28.000,32.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-04,1: Monday (M-M),5: Late PM (7pm-12am),158,18,22.659,0.813,9.000,26.000,29.000,32.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-04,2: Tuesday (Tu-Tu),0: All Day (12am-12am),1234,19,22.659,0.831,8.000,23.000,27.000,34.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-04,2: Tuesday (Tu-Tu),1: Early AM (12am-6am),43,16,22.659,0.722,N/A,N/A,N/A,N/A
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-04,2: Tuesday (Tu-Tu),2: Peak AM (6am-10am),201,19,22.659,0.842,10.000,24.000,27.000,33.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-04,2: Tuesday (Tu-Tu),3: Mid-Day (10am-3pm),458,19,22.659,0.823,8.000,23.000,27.000,34.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-04,2: Tuesday (Tu-Tu),4: Peak PM (3pm-7pm),361,19,22.659,0.850,8.000,24.000,29.000,34.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-04,2: Tuesday (Tu-Tu),5: Late PM (7pm-12am),171,19,22.659,0.826,3.000,23.000,26.000,34.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-04,3: Wednesday (W-W),0: All Day (12am-12am),1200,19,22.659,0.830,9.000,24.000,28.000,34.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-04,3: Wednesday (W-W),1: Early AM (12am-6am),47,16,22.659,0.715,10.000,21.000,28.000,32.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-04,3: Wednesday (W-W),2: Peak AM (6am-10am),244,19,22.659,0.840,11.000,23.000,27.000,34.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-04,3: Wednesday (W-W),3: Mid-Day (10am-3pm),354,19,22.659,0.844,9.000,24.000,28.000,34.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-04,3: Wednesday (W-W),4: Peak PM (3pm-7pm),338,20,22.659,0.877,9.000,25.000,29.000,35.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-04,3: Wednesday (W-W),5: Late PM (7pm-12am),217,17,22.659,0.751,5.000,20.000,27.000,32.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-04,4: Thursday (Th-Th),0: All Day (12am-12am),1120,19,22.659,0.843,8.000,23.000,28.000,33.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-04,4: Thursday (Th-Th),1: Early AM (12am-6am),29,17,22.659,0.749,N/A,N/A,N/A,N/A
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-04,4: Thursday (Th-Th),2: Peak AM (6am-10am),195,19,22.659,0.816,9.000,22.000,26.000,30.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-04,4: Thursday (Th-Th),3: Mid-Day (10am-3pm),314,18,22.659,0.815,7.000,23.000,26.000,31.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-04,4: Thursday (Th-Th),4: Peak PM (3pm-7pm),373,20,22.659,0.888,9.000,25.000,30.000,36.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-04,4: Thursday (Th-Th),5: Late PM (7pm-12am),209,19,22.659,0.842,5.000,24.000,28.000,34.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-04,5: Friday (F-F),0: All Day (12am-12am),1048,20,22.659,0.863,9.000,24.000,28.000,34.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-04,5: Friday (F-F),1: Early AM (12am-6am),22,22,22.659,0.953,N/A,N/A,N/A,N/A
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-04,5: Friday (F-F),2: Peak AM (6am-10am),206,20,22.659,0.870,11.000,23.000,28.000,35.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-04,5: Friday (F-F),3: Mid-Day (10am-3pm),300,19,22.659,0.839,8.000,24.000,28.000,34.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-04,5: Friday (F-F),4: Peak PM (3pm-7pm),319,20,22.659,0.900,10.000,25.000,30.000,35.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-04,5: Friday (F-F),5: Late PM (7pm-12am),202,19,22.659,0.822,9.000,25.000,28.000,31.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-04,6: Saturday (Sa-Sa),0: All Day (12am-12am),887,19,22.659,0.833,8.000,23.000,27.000,35.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-04,6: Saturday (Sa-Sa),1: Early AM (12am-6am),42,19,22.659,0.825,9.000,28.000,33.000,41.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-04,6: Saturday (Sa-Sa),2: Peak AM (6am-10am),113,20,22.659,0.862,11.000,22.000,28.000,35.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-04,6: Saturday (Sa-Sa),3: Mid-Day (10am-3pm),277,19,22.659,0.832,9.000,23.000,27.000,32.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-04,6: Saturday (Sa-Sa),4: Peak PM (3pm-7pm),240,19,22.659,0.853,9.000,24.000,28.000,35.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-04,6: Saturday (Sa-Sa),5: Late PM (7pm-12am),215,18,22.659,0.798,4.000,22.000,27.000,35.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-04,7: Sunday (Su-Su),0: All Day (12am-12am),747,18,22.659,0.812,8.000,23.000,28.000,32.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-04,7: Sunday (Su-Su),1: Early AM (12am-6am),32,16,22.659,0.727,N/A,N/A,N/A,N/A
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-04,7: Sunday (Su-Su),2: Peak AM (6am-10am),57,18,22.659,0.780,8.000,23.000,30.000,31.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-04,7: Sunday (Su-Su),3: Mid-Day (10am-3pm),287,18,22.659,0.812,7.000,23.000,28.000,32.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-04,7: Sunday (Su-Su),4: Peak PM (3pm-7pm),226,19,22.659,0.838,7.000,23.000,28.000,35.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-04,7: Sunday (Su-Su),5: Late PM (7pm-12am),144,18,22.659,0.803,10.000,21.000,26.000,30.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-05,0: All Days (M-Su),0: All Day (12am-12am),1069,19,24.180,0.794,9.000,24.000,28.000,34.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-05,0: All Days (M-Su),1: Early AM (12am-6am),46,19,24.180,0.787,9.000,23.000,29.000,35.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-05,0: All Days (M-Su),2: Peak AM (6am-10am),175,18,24.180,0.757,10.000,22.000,26.000,33.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-05,0: All Days (M-Su),3: Mid-Day (10am-3pm),322,19,24.180,0.793,9.000,24.000,28.000,34.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-05,0: All Days (M-Su),4: Peak PM (3pm-7pm),303,20,24.180,0.816,9.000,25.000,29.000,34.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-05,0: All Days (M-Su),5: Late PM (7pm-12am),222,19,24.180,0.793,9.000,24.000,28.000,33.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-05,1: Monday (M-M),0: All Day (12am-12am),1040,19,24.180,0.789,9.000,23.000,27.000,34.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-05,1: Monday (M-M),1: Early AM (12am-6am),37,19,24.180,0.777,10.000,22.000,23.000,29.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-05,1: Monday (M-M),2: Peak AM (6am-10am),172,18,24.180,0.729,7.000,21.000,24.000,33.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-05,1: Monday (M-M),3: Mid-Day (10am-3pm),319,19,24.180,0.767,9.000,23.000,28.000,34.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-05,1: Monday (M-M),4: Peak PM (3pm-7pm),307,20,24.180,0.830,10.000,25.000,29.000,35.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-05,1: Monday (M-M),5: Late PM (7pm-12am),205,20,24.180,0.814,10.000,25.000,29.000,33.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-05,2: Tuesday (Tu-Tu),0: All Day (12am-12am),1081,19,24.180,0.787,9.000,23.000,28.000,33.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-05,2: Tuesday (Tu-Tu),1: Early AM (12am-6am),59,19,24.180,0.775,13.000,20.000,26.000,31.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-05,2: Tuesday (Tu-Tu),2: Peak AM (6am-10am),215,18,24.180,0.732,8.000,21.000,24.000,31.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-05,2: Tuesday (Tu-Tu),3: Mid-Day (10am-3pm),316,19,24.180,0.787,10.000,24.000,29.000,36.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-05,2: Tuesday (Tu-Tu),4: Peak PM (3pm-7pm),296,20,24.180,0.833,10.000,27.000,30.000,34.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-05,2: Tuesday (Tu-Tu),5: Late PM (7pm-12am),195,19,24.180,0.780,11.000,23.000,27.000,33.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-05,3: Wednesday (W-W),0: All Day (12am-12am),1202,19,24.180,0.785,10.000,23.000,28.000,33.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-05,3: Wednesday (W-W),1: Early AM (12am-6am),48,17,24.180,0.720,8.000,20.000,22.000,33.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-05,3: Wednesday (W-W),2: Peak AM (6am-10am),217,19,24.180,0.775,9.000,23.000,28.000,34.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-05,3: Wednesday (W-W),3: Mid-Day (10am-3pm),371,19,24.180,0.781,10.000,23.000,26.000,32.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-05,3: Wednesday (W-W),4: Peak PM (3pm-7pm),340,19,24.180,0.794,8.000,24.000,29.000,35.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-05,3: Wednesday (W-W),5: Late PM (7pm-12am),226,19,24.180,0.805,11.000,25.000,29.000,32.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-05,4: Thursday (Th-Th),0: All Day (12am-12am),1165,19,24.180,0.798,9.000,24.000,28.000,35.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-05,4: Thursday (Th-Th),1: Early AM (12am-6am),44,19,24.180,0.781,13.000,28.000,29.000,32.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-05,4: Thursday (Th-Th),2: Peak AM (6am-10am),191,18,24.180,0.754,10.000,20.000,24.000,36.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-05,4: Thursday (Th-Th),3: Mid-Day (10am-3pm),331,20,24.180,0.817,9.000,25.000,29.000,35.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-05,4: Thursday (Th-Th),4: Peak PM (3pm-7pm),364,20,24.180,0.818,9.000,25.000,29.000,34.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-05,4: Thursday (Th-Th),5: Late PM (7pm-12am),235,19,24.180,0.780,9.000,25.000,28.000,36.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-05,5: Friday (F-F),0: All Day (12am-12am),1281,20,24.180,0.810,9.000,24.000,29.000,35.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-05,5: Friday (F-F),1: Early AM (12am-6am),48,21,24.180,0.879,13.000,36.000,36.000,36.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-05,5: Friday (F-F),2: Peak AM (6am-10am),237,17,24.180,0.722,9.000,21.000,24.000,32.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-05,5: Friday (F-F),3: Mid-Day (10am-3pm),362,20,24.180,0.832,9.000,25.000,30.000,34.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-05,5: Friday (F-F),4: Peak PM (3pm-7pm),320,21,24.180,0.871,8.000,28.000,33.000,36.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-05,5: Friday (F-F),5: Late PM (7pm-12am),314,19,24.180,0.781,10.000,23.000,26.000,34.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-05,6: Saturday (Sa-Sa),0: All Day (12am-12am),942,19,24.180,0.784,8.000,24.000,28.000,33.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-05,6: Saturday (Sa-Sa),1: Early AM (12am-6am),31,20,24.180,0.827,12.000,27.000,29.000,34.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-05,6: Saturday (Sa-Sa),2: Peak AM (6am-10am),121,18,24.180,0.757,11.000,21.000,27.000,35.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-05,6: Saturday (Sa-Sa),3: Mid-Day (10am-3pm),277,18,24.180,0.758,5.000,24.000,27.000,32.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-05,6: Saturday (Sa-Sa),4: Peak PM (3pm-7pm),271,19,24.180,0.803,7.000,26.000,29.000,33.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-05,6: Saturday (Sa-Sa),5: Late PM (7pm-12am),242,19,24.180,0.799,9.000,25.000,30.000,35.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-05,7: Sunday (Su-Su),0: All Day (12am-12am),863,19,24.180,0.801,9.000,24.000,28.000,34.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-05,7: Sunday (Su-Su),1: Early AM (12am-6am),60,19,24.180,0.770,9.000,23.000,31.000,38.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-05,7: Sunday (Su-Su),2: Peak AM (6am-10am),105,21,24.180,0.857,10.000,26.000,29.000,34.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-05,7: Sunday (Su-Su),3: Mid-Day (10am-3pm),300,20,24.180,0.813,9.000,24.000,29.000,35.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-05,7: Sunday (Su-Su),4: Peak PM (3pm-7pm),243,19,24.180,0.778,9.000,24.000,27.000,35.000
+"Jan 01, 2021 - Jun 01, 2021",All Vehicles - StL All Vehicles Volume,,Altura Street,yes,269,yes,2021-05,7: Sunday (Su-Su),5: Late PM (7pm-12am),155,19,24.180,0.791,7.000,25.000,28.000,33.000

@@ -1,0 +1,577 @@
+Data Periods,Mode of Travel,Zone ID,Zone Name,Zone Is Pass-Through,Zone Direction (degrees),Zone is Bi-Direction,Year-Month,Day Type,Day Part,Average Daily Spot Traffic (StL Volume),Avg Spot Speed (mph),Free Flow Speed (mph),Free Flow Factor,5th Speed Percentile,50th Speed Percentile,85th Speed Percentile,95th Speed Percentile
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-06,0: All Days (M-Su),0: All Day (12am-12am),3945,18,23.662,0.760,9.000,18.000,24.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-06,0: All Days (M-Su),1: Early AM (12am-6am),215,20,23.662,0.852,12.000,20.000,26.000,29.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-06,0: All Days (M-Su),2: Peak AM (6am-10am),658,18,23.662,0.753,6.000,18.000,25.000,28.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-06,0: All Days (M-Su),3: Mid-Day (10am-3pm),1098,18,23.662,0.753,8.000,18.000,24.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-06,0: All Days (M-Su),4: Peak PM (3pm-7pm),1148,18,23.662,0.743,9.000,17.000,23.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-06,0: All Days (M-Su),5: Late PM (7pm-12am),827,18,23.662,0.776,10.000,18.000,24.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-06,1: Monday (M-M),0: All Day (12am-12am),3659,18,23.662,0.766,8.000,18.000,24.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-06,1: Monday (M-M),1: Early AM (12am-6am),188,21,23.662,0.867,12.000,20.000,26.000,31.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-06,1: Monday (M-M),2: Peak AM (6am-10am),669,17,23.662,0.732,5.000,17.000,24.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-06,1: Monday (M-M),3: Mid-Day (10am-3pm),1009,18,23.662,0.757,6.000,18.000,24.000,28.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-06,1: Monday (M-M),4: Peak PM (3pm-7pm),1078,18,23.662,0.761,10.000,18.000,23.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-06,1: Monday (M-M),5: Late PM (7pm-12am),715,19,23.662,0.793,11.000,18.000,24.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-06,2: Tuesday (Tu-Tu),0: All Day (12am-12am),3887,18,23.662,0.755,8.000,18.000,24.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-06,2: Tuesday (Tu-Tu),1: Early AM (12am-6am),163,20,23.662,0.852,13.000,19.000,26.000,32.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-06,2: Tuesday (Tu-Tu),2: Peak AM (6am-10am),721,18,23.662,0.751,5.000,18.000,25.000,28.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-06,2: Tuesday (Tu-Tu),3: Mid-Day (10am-3pm),1033,18,23.662,0.752,8.000,18.000,24.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-06,2: Tuesday (Tu-Tu),4: Peak PM (3pm-7pm),1201,17,23.662,0.728,9.000,17.000,23.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-06,2: Tuesday (Tu-Tu),5: Late PM (7pm-12am),770,18,23.662,0.782,10.000,18.000,24.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-06,3: Wednesday (W-W),0: All Day (12am-12am),4132,18,23.662,0.748,9.000,17.000,24.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-06,3: Wednesday (W-W),1: Early AM (12am-6am),180,20,23.662,0.829,11.000,19.000,26.000,30.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-06,3: Wednesday (W-W),2: Peak AM (6am-10am),741,18,23.662,0.751,5.000,18.000,24.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-06,3: Wednesday (W-W),3: Mid-Day (10am-3pm),1105,18,23.662,0.740,8.000,17.000,24.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-06,3: Wednesday (W-W),4: Peak PM (3pm-7pm),1268,17,23.662,0.721,9.000,16.000,23.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-06,3: Wednesday (W-W),5: Late PM (7pm-12am),839,18,23.662,0.782,10.000,18.000,24.000,28.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-06,4: Thursday (Th-Th),0: All Day (12am-12am),4376,18,23.662,0.745,8.000,17.000,24.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-06,4: Thursday (Th-Th),1: Early AM (12am-6am),181,22,23.662,0.913,13.000,21.000,27.000,30.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-06,4: Thursday (Th-Th),2: Peak AM (6am-10am),819,17,23.662,0.731,5.000,17.000,25.000,28.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-06,4: Thursday (Th-Th),3: Mid-Day (10am-3pm),1161,17,23.662,0.733,7.000,18.000,23.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-06,4: Thursday (Th-Th),4: Peak PM (3pm-7pm),1317,17,23.662,0.723,9.000,16.000,24.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-06,4: Thursday (Th-Th),5: Late PM (7pm-12am),897,18,23.662,0.773,11.000,18.000,24.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-06,5: Friday (F-F),0: All Day (12am-12am),4472,18,23.662,0.752,7.000,18.000,24.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-06,5: Friday (F-F),1: Early AM (12am-6am),200,20,23.662,0.855,12.000,20.000,26.000,28.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-06,5: Friday (F-F),2: Peak AM (6am-10am),798,18,23.662,0.740,5.000,18.000,24.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-06,5: Friday (F-F),3: Mid-Day (10am-3pm),1238,18,23.662,0.743,6.000,18.000,24.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-06,5: Friday (F-F),4: Peak PM (3pm-7pm),1298,17,23.662,0.733,9.000,17.000,23.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-06,5: Friday (F-F),5: Late PM (7pm-12am),937,18,23.662,0.779,10.000,18.000,24.000,28.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-06,6: Saturday (Sa-Sa),0: All Day (12am-12am),3754,18,23.662,0.777,10.000,18.000,24.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-06,6: Saturday (Sa-Sa),1: Early AM (12am-6am),282,20,23.662,0.832,11.000,19.000,25.000,29.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-06,6: Saturday (Sa-Sa),2: Peak AM (6am-10am),501,19,23.662,0.808,10.000,19.000,25.000,28.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-06,6: Saturday (Sa-Sa),3: Mid-Day (10am-3pm),1133,18,23.662,0.772,10.000,18.000,24.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-06,6: Saturday (Sa-Sa),4: Peak PM (3pm-7pm),962,18,23.662,0.771,10.000,18.000,24.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-06,6: Saturday (Sa-Sa),5: Late PM (7pm-12am),875,18,23.662,0.755,9.000,17.000,24.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-06,7: Sunday (Su-Su),0: All Day (12am-12am),3100,19,23.662,0.788,10.000,18.000,24.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-06,7: Sunday (Su-Su),1: Early AM (12am-6am),320,20,23.662,0.834,11.000,20.000,25.000,29.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-06,7: Sunday (Su-Su),2: Peak AM (6am-10am),282,19,23.662,0.813,10.000,19.000,25.000,30.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-06,7: Sunday (Su-Su),3: Mid-Day (10am-3pm),954,18,23.662,0.778,10.000,18.000,24.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-06,7: Sunday (Su-Su),4: Peak PM (3pm-7pm),833,18,23.662,0.782,11.000,18.000,24.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-06,7: Sunday (Su-Su),5: Late PM (7pm-12am),710,18,23.662,0.780,11.000,18.000,24.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-07,0: All Days (M-Su),0: All Day (12am-12am),3474,18,24.396,0.744,9.000,18.000,24.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-07,0: All Days (M-Su),1: Early AM (12am-6am),215,20,24.396,0.819,12.000,19.000,26.000,29.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-07,0: All Days (M-Su),2: Peak AM (6am-10am),520,18,24.396,0.755,8.000,18.000,25.000,28.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-07,0: All Days (M-Su),3: Mid-Day (10am-3pm),948,18,24.396,0.735,9.000,18.000,24.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-07,0: All Days (M-Su),4: Peak PM (3pm-7pm),975,18,24.396,0.728,9.000,17.000,24.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-07,0: All Days (M-Su),5: Late PM (7pm-12am),815,18,24.396,0.746,10.000,18.000,23.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-07,1: Monday (M-M),0: All Day (12am-12am),3110,18,24.396,0.739,9.000,18.000,24.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-07,1: Monday (M-M),1: Early AM (12am-6am),183,21,24.396,0.854,13.000,21.000,26.000,29.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-07,1: Monday (M-M),2: Peak AM (6am-10am),506,18,24.396,0.755,9.000,18.000,24.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-07,1: Monday (M-M),3: Mid-Day (10am-3pm),905,18,24.396,0.721,7.000,17.000,24.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-07,1: Monday (M-M),4: Peak PM (3pm-7pm),912,17,24.396,0.716,8.000,17.000,23.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-07,1: Monday (M-M),5: Late PM (7pm-12am),604,18,24.396,0.754,11.000,18.000,24.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-07,2: Tuesday (Tu-Tu),0: All Day (12am-12am),3504,18,24.396,0.747,9.000,18.000,24.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-07,2: Tuesday (Tu-Tu),1: Early AM (12am-6am),189,20,24.396,0.822,11.000,20.000,26.000,28.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-07,2: Tuesday (Tu-Tu),2: Peak AM (6am-10am),584,18,24.396,0.747,7.000,18.000,25.000,28.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-07,2: Tuesday (Tu-Tu),3: Mid-Day (10am-3pm),934,18,24.396,0.751,9.000,18.000,25.000,28.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-07,2: Tuesday (Tu-Tu),4: Peak PM (3pm-7pm),993,18,24.396,0.730,10.000,17.000,24.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-07,2: Tuesday (Tu-Tu),5: Late PM (7pm-12am),805,18,24.396,0.745,9.000,18.000,24.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-07,3: Wednesday (W-W),0: All Day (12am-12am),3523,18,24.396,0.728,9.000,17.000,24.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-07,3: Wednesday (W-W),1: Early AM (12am-6am),203,21,24.396,0.844,11.000,20.000,26.000,33.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-07,3: Wednesday (W-W),2: Peak AM (6am-10am),613,18,24.396,0.733,7.000,18.000,24.000,28.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-07,3: Wednesday (W-W),3: Mid-Day (10am-3pm),899,18,24.396,0.719,8.000,17.000,24.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-07,3: Wednesday (W-W),4: Peak PM (3pm-7pm),1038,17,24.396,0.697,8.000,17.000,23.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-07,3: Wednesday (W-W),5: Late PM (7pm-12am),771,18,24.396,0.747,11.000,18.000,23.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-07,4: Thursday (Th-Th),0: All Day (12am-12am),3853,18,24.396,0.740,9.000,18.000,24.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-07,4: Thursday (Th-Th),1: Early AM (12am-6am),172,19,24.396,0.793,12.000,19.000,25.000,28.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-07,4: Thursday (Th-Th),2: Peak AM (6am-10am),651,18,24.396,0.748,7.000,19.000,24.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-07,4: Thursday (Th-Th),3: Mid-Day (10am-3pm),934,18,24.396,0.730,8.000,17.000,24.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-07,4: Thursday (Th-Th),4: Peak PM (3pm-7pm),1185,18,24.396,0.722,9.000,17.000,23.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-07,4: Thursday (Th-Th),5: Late PM (7pm-12am),911,18,24.396,0.756,10.000,18.000,24.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-07,5: Friday (F-F),0: All Day (12am-12am),4112,18,24.396,0.723,9.000,17.000,23.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-07,5: Friday (F-F),1: Early AM (12am-6am),206,21,24.396,0.840,12.000,20.000,27.000,30.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-07,5: Friday (F-F),2: Peak AM (6am-10am),633,18,24.396,0.742,7.000,18.000,25.000,28.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-07,5: Friday (F-F),3: Mid-Day (10am-3pm),1028,17,24.396,0.681,7.000,16.000,22.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-07,5: Friday (F-F),4: Peak PM (3pm-7pm),1182,18,24.396,0.723,10.000,17.000,23.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-07,5: Friday (F-F),5: Late PM (7pm-12am),1062,18,24.396,0.730,10.000,17.000,23.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-07,6: Saturday (Sa-Sa),0: All Day (12am-12am),3557,18,24.396,0.756,10.000,18.000,24.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-07,6: Saturday (Sa-Sa),1: Early AM (12am-6am),244,20,24.396,0.810,12.000,19.000,25.000,28.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-07,6: Saturday (Sa-Sa),2: Peak AM (6am-10am),436,19,24.396,0.778,10.000,19.000,25.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-07,6: Saturday (Sa-Sa),3: Mid-Day (10am-3pm),1031,18,24.396,0.748,10.000,18.000,24.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-07,6: Saturday (Sa-Sa),4: Peak PM (3pm-7pm),884,18,24.396,0.748,10.000,18.000,24.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-07,6: Saturday (Sa-Sa),5: Late PM (7pm-12am),962,18,24.396,0.750,11.000,18.000,24.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-07,7: Sunday (Su-Su),0: All Day (12am-12am),2875,19,24.396,0.769,10.000,18.000,24.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-07,7: Sunday (Su-Su),1: Early AM (12am-6am),290,19,24.396,0.795,12.000,19.000,25.000,28.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-07,7: Sunday (Su-Su),2: Peak AM (6am-10am),296,19,24.396,0.793,9.000,19.000,25.000,28.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-07,7: Sunday (Su-Su),3: Mid-Day (10am-3pm),907,19,24.396,0.779,10.000,19.000,25.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-07,7: Sunday (Su-Su),4: Peak PM (3pm-7pm),733,19,24.396,0.759,8.000,18.000,25.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-07,7: Sunday (Su-Su),5: Late PM (7pm-12am),649,18,24.396,0.745,11.000,18.000,23.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-08,0: All Days (M-Su),0: All Day (12am-12am),3787,16,19.927,0.780,7.000,15.000,20.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-08,0: All Days (M-Su),1: Early AM (12am-6am),219,18,19.927,0.916,11.000,18.000,23.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-08,0: All Days (M-Su),2: Peak AM (6am-10am),651,15,19.927,0.736,3.000,15.000,20.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-08,0: All Days (M-Su),3: Mid-Day (10am-3pm),993,15,19.927,0.770,7.000,15.000,20.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-08,0: All Days (M-Su),4: Peak PM (3pm-7pm),1135,15,19.927,0.766,8.000,15.000,20.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-08,0: All Days (M-Su),5: Late PM (7pm-12am),789,16,19.927,0.810,10.000,16.000,20.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-08,1: Monday (M-M),0: All Day (12am-12am),3457,15,19.927,0.775,7.000,15.000,20.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-08,1: Monday (M-M),1: Early AM (12am-6am),206,18,19.927,0.916,11.000,18.000,23.000,28.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-08,1: Monday (M-M),2: Peak AM (6am-10am),630,14,19.927,0.699,4.000,14.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-08,1: Monday (M-M),3: Mid-Day (10am-3pm),807,15,19.927,0.766,7.000,15.000,20.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-08,1: Monday (M-M),4: Peak PM (3pm-7pm),1072,16,19.927,0.778,9.000,15.000,19.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-08,1: Monday (M-M),5: Late PM (7pm-12am),742,16,19.927,0.806,10.000,15.000,20.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-08,2: Tuesday (Tu-Tu),0: All Day (12am-12am),3970,16,19.927,0.781,6.000,15.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-08,2: Tuesday (Tu-Tu),1: Early AM (12am-6am),196,19,19.927,0.950,12.000,18.000,24.000,28.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-08,2: Tuesday (Tu-Tu),2: Peak AM (6am-10am),769,14,19.927,0.717,2.000,15.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-08,2: Tuesday (Tu-Tu),3: Mid-Day (10am-3pm),1047,15,19.927,0.763,5.000,15.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-08,2: Tuesday (Tu-Tu),4: Peak PM (3pm-7pm),1214,16,19.927,0.783,9.000,15.000,20.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-08,2: Tuesday (Tu-Tu),5: Late PM (7pm-12am),745,16,19.927,0.821,9.000,16.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-08,3: Wednesday (W-W),0: All Day (12am-12am),3913,15,19.927,0.775,7.000,15.000,20.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-08,3: Wednesday (W-W),1: Early AM (12am-6am),172,18,19.927,0.900,11.000,17.000,23.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-08,3: Wednesday (W-W),2: Peak AM (6am-10am),758,15,19.927,0.751,3.000,15.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-08,3: Wednesday (W-W),3: Mid-Day (10am-3pm),857,15,19.927,0.767,6.000,15.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-08,3: Wednesday (W-W),4: Peak PM (3pm-7pm),1319,15,19.927,0.754,8.000,15.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-08,3: Wednesday (W-W),5: Late PM (7pm-12am),806,16,19.927,0.815,9.000,16.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-08,4: Thursday (Th-Th),0: All Day (12am-12am),3988,15,19.927,0.744,6.000,15.000,19.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-08,4: Thursday (Th-Th),1: Early AM (12am-6am),181,19,19.927,0.930,10.000,18.000,23.000,29.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-08,4: Thursday (Th-Th),2: Peak AM (6am-10am),764,14,19.927,0.711,3.000,14.000,19.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-08,4: Thursday (Th-Th),3: Mid-Day (10am-3pm),1114,15,19.927,0.732,6.000,15.000,19.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-08,4: Thursday (Th-Th),4: Peak PM (3pm-7pm),1207,14,19.927,0.716,7.000,14.000,18.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-08,4: Thursday (Th-Th),5: Late PM (7pm-12am),722,16,19.927,0.800,10.000,15.000,20.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-08,5: Friday (F-F),0: All Day (12am-12am),4522,15,19.927,0.755,6.000,15.000,20.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-08,5: Friday (F-F),1: Early AM (12am-6am),202,19,19.927,0.947,10.000,18.000,26.000,30.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-08,5: Friday (F-F),2: Peak AM (6am-10am),796,14,19.927,0.687,2.000,14.000,19.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-08,5: Friday (F-F),3: Mid-Day (10am-3pm),1089,15,19.927,0.745,6.000,15.000,19.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-08,5: Friday (F-F),4: Peak PM (3pm-7pm),1423,15,19.927,0.738,7.000,14.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-08,5: Friday (F-F),5: Late PM (7pm-12am),1013,16,19.927,0.804,10.000,15.000,20.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-08,6: Saturday (Sa-Sa),0: All Day (12am-12am),3804,16,19.927,0.818,10.000,16.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-08,6: Saturday (Sa-Sa),1: Early AM (12am-6am),270,17,19.927,0.868,11.000,17.000,22.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-08,6: Saturday (Sa-Sa),2: Peak AM (6am-10am),477,17,19.927,0.837,10.000,16.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-08,6: Saturday (Sa-Sa),3: Mid-Day (10am-3pm),1190,16,19.927,0.810,10.000,16.000,21.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-08,6: Saturday (Sa-Sa),4: Peak PM (3pm-7pm),931,16,19.927,0.816,10.000,16.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-08,6: Saturday (Sa-Sa),5: Late PM (7pm-12am),937,16,19.927,0.804,10.000,16.000,20.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-08,7: Sunday (Su-Su),0: All Day (12am-12am),2727,17,19.927,0.834,10.000,16.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-08,7: Sunday (Su-Su),1: Early AM (12am-6am),331,18,19.927,0.918,12.000,18.000,24.000,28.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-08,7: Sunday (Su-Su),2: Peak AM (6am-10am),282,17,19.927,0.846,10.000,16.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-08,7: Sunday (Su-Su),3: Mid-Day (10am-3pm),839,16,19.927,0.817,10.000,16.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-08,7: Sunday (Su-Su),4: Peak PM (3pm-7pm),693,16,19.927,0.820,11.000,16.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-08,7: Sunday (Su-Su),5: Late PM (7pm-12am),583,16,19.927,0.823,10.000,16.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-09,0: All Days (M-Su),0: All Day (12am-12am),3755,14,18.922,0.759,7.000,14.000,18.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-09,0: All Days (M-Su),1: Early AM (12am-6am),231,17,18.922,0.899,11.000,16.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-09,0: All Days (M-Su),2: Peak AM (6am-10am),669,13,18.922,0.682,3.000,14.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-09,0: All Days (M-Su),3: Mid-Day (10am-3pm),901,14,18.922,0.751,7.000,14.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-09,0: All Days (M-Su),4: Peak PM (3pm-7pm),1192,14,18.922,0.748,8.000,14.000,17.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-09,0: All Days (M-Su),5: Late PM (7pm-12am),762,15,18.922,0.811,10.000,15.000,19.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-09,1: Monday (M-M),0: All Day (12am-12am),3355,15,18.922,0.774,7.000,15.000,18.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-09,1: Monday (M-M),1: Early AM (12am-6am),200,17,18.922,0.872,9.000,16.000,20.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-09,1: Monday (M-M),2: Peak AM (6am-10am),568,13,18.922,0.701,3.000,14.000,18.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-09,1: Monday (M-M),3: Mid-Day (10am-3pm),878,14,18.922,0.758,7.000,14.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-09,1: Monday (M-M),4: Peak PM (3pm-7pm),1023,15,18.922,0.777,9.000,15.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-09,1: Monday (M-M),5: Late PM (7pm-12am),686,16,18.922,0.823,10.000,15.000,19.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-09,2: Tuesday (Tu-Tu),0: All Day (12am-12am),3928,14,18.922,0.738,6.000,14.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-09,2: Tuesday (Tu-Tu),1: Early AM (12am-6am),201,17,18.922,0.902,9.000,17.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-09,2: Tuesday (Tu-Tu),2: Peak AM (6am-10am),793,12,18.922,0.642,3.000,13.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-09,2: Tuesday (Tu-Tu),3: Mid-Day (10am-3pm),907,14,18.922,0.733,7.000,14.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-09,2: Tuesday (Tu-Tu),4: Peak PM (3pm-7pm),1314,14,18.922,0.734,9.000,14.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-09,2: Tuesday (Tu-Tu),5: Late PM (7pm-12am),712,15,18.922,0.814,10.000,15.000,19.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-09,3: Wednesday (W-W),0: All Day (12am-12am),3893,14,18.922,0.726,5.000,14.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-09,3: Wednesday (W-W),1: Early AM (12am-6am),185,18,18.922,0.943,12.000,17.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-09,3: Wednesday (W-W),2: Peak AM (6am-10am),863,12,18.922,0.625,2.000,13.000,17.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-09,3: Wednesday (W-W),3: Mid-Day (10am-3pm),783,13,18.922,0.707,4.000,13.000,17.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-09,3: Wednesday (W-W),4: Peak PM (3pm-7pm),1334,14,18.922,0.724,8.000,14.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-09,3: Wednesday (W-W),5: Late PM (7pm-12am),728,15,18.922,0.817,10.000,15.000,19.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-09,4: Thursday (Th-Th),0: All Day (12am-12am),4016,14,18.922,0.726,5.000,14.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-09,4: Thursday (Th-Th),1: Early AM (12am-6am),177,17,18.922,0.914,10.000,17.000,21.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-09,4: Thursday (Th-Th),2: Peak AM (6am-10am),866,12,18.922,0.632,2.000,13.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-09,4: Thursday (Th-Th),3: Mid-Day (10am-3pm),790,14,18.922,0.714,5.000,14.000,18.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-09,4: Thursday (Th-Th),4: Peak PM (3pm-7pm),1436,14,18.922,0.726,8.000,14.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-09,4: Thursday (Th-Th),5: Late PM (7pm-12am),746,15,18.922,0.804,10.000,15.000,18.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-09,5: Friday (F-F),0: All Day (12am-12am),4413,14,18.922,0.743,6.000,14.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-09,5: Friday (F-F),1: Early AM (12am-6am),216,17,18.922,0.910,11.000,16.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-09,5: Friday (F-F),2: Peak AM (6am-10am),835,13,18.922,0.671,3.000,13.000,17.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-09,5: Friday (F-F),3: Mid-Day (10am-3pm),948,14,18.922,0.721,5.000,14.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-09,5: Friday (F-F),4: Peak PM (3pm-7pm),1446,14,18.922,0.730,8.000,14.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-09,5: Friday (F-F),5: Late PM (7pm-12am),968,15,18.922,0.810,10.000,15.000,19.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-09,6: Saturday (Sa-Sa),0: All Day (12am-12am),3471,15,18.922,0.795,9.000,15.000,18.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-09,6: Saturday (Sa-Sa),1: Early AM (12am-6am),297,17,18.922,0.892,10.000,16.000,21.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-09,6: Saturday (Sa-Sa),2: Peak AM (6am-10am),463,15,18.922,0.811,10.000,15.000,19.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-09,6: Saturday (Sa-Sa),3: Mid-Day (10am-3pm),1020,15,18.922,0.779,9.000,15.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-09,6: Saturday (Sa-Sa),4: Peak PM (3pm-7pm),942,15,18.922,0.774,9.000,14.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-09,6: Saturday (Sa-Sa),5: Late PM (7pm-12am),750,15,18.922,0.797,9.000,15.000,18.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-09,7: Sunday (Su-Su),0: All Day (12am-12am),3119,16,18.922,0.826,10.000,15.000,19.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-09,7: Sunday (Su-Su),1: Early AM (12am-6am),327,17,18.922,0.881,11.000,16.000,20.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-09,7: Sunday (Su-Su),2: Peak AM (6am-10am),306,16,18.922,0.833,10.000,16.000,19.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-09,7: Sunday (Su-Su),3: Mid-Day (10am-3pm),942,16,18.922,0.825,10.000,15.000,19.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-09,7: Sunday (Su-Su),4: Peak PM (3pm-7pm),849,15,18.922,0.814,10.000,15.000,19.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-09,7: Sunday (Su-Su),5: Late PM (7pm-12am),694,15,18.922,0.814,10.000,15.000,19.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-10,0: All Days (M-Su),0: All Day (12am-12am),3908,14,19.657,0.728,6.000,14.000,18.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-10,0: All Days (M-Su),1: Early AM (12am-6am),234,17,19.657,0.862,11.000,16.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-10,0: All Days (M-Su),2: Peak AM (6am-10am),745,13,19.657,0.659,3.000,14.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-10,0: All Days (M-Su),3: Mid-Day (10am-3pm),967,14,19.657,0.721,6.000,14.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-10,0: All Days (M-Su),4: Peak PM (3pm-7pm),1233,14,19.657,0.719,8.000,14.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-10,0: All Days (M-Su),5: Late PM (7pm-12am),728,15,19.657,0.778,10.000,15.000,19.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-10,1: Monday (M-M),0: All Day (12am-12am),3825,14,19.657,0.710,5.000,14.000,18.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-10,1: Monday (M-M),1: Early AM (12am-6am),189,17,19.657,0.867,11.000,16.000,22.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-10,1: Monday (M-M),2: Peak AM (6am-10am),822,12,19.657,0.623,3.000,13.000,17.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-10,1: Monday (M-M),3: Mid-Day (10am-3pm),910,14,19.657,0.702,5.000,14.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-10,1: Monday (M-M),4: Peak PM (3pm-7pm),1261,14,19.657,0.714,8.000,14.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-10,1: Monday (M-M),5: Late PM (7pm-12am),644,15,19.657,0.776,9.000,15.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-10,2: Tuesday (Tu-Tu),0: All Day (12am-12am),3787,14,19.657,0.708,5.000,14.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-10,2: Tuesday (Tu-Tu),1: Early AM (12am-6am),183,17,19.657,0.860,11.000,16.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-10,2: Tuesday (Tu-Tu),2: Peak AM (6am-10am),919,12,19.657,0.633,3.000,13.000,17.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-10,2: Tuesday (Tu-Tu),3: Mid-Day (10am-3pm),918,14,19.657,0.695,5.000,14.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-10,2: Tuesday (Tu-Tu),4: Peak PM (3pm-7pm),1217,14,19.657,0.717,9.000,14.000,17.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-10,2: Tuesday (Tu-Tu),5: Late PM (7pm-12am),550,15,19.657,0.781,10.000,15.000,19.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-10,3: Wednesday (W-W),0: All Day (12am-12am),3957,14,19.657,0.709,5.000,14.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-10,3: Wednesday (W-W),1: Early AM (12am-6am),172,18,19.657,0.892,12.000,16.000,21.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-10,3: Wednesday (W-W),2: Peak AM (6am-10am),894,12,19.657,0.628,2.000,13.000,17.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-10,3: Wednesday (W-W),3: Mid-Day (10am-3pm),834,14,19.657,0.718,5.000,14.000,18.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-10,3: Wednesday (W-W),4: Peak PM (3pm-7pm),1414,14,19.657,0.698,8.000,14.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-10,3: Wednesday (W-W),5: Late PM (7pm-12am),643,15,19.657,0.786,10.000,15.000,19.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-10,4: Thursday (Th-Th),0: All Day (12am-12am),4332,14,19.657,0.707,5.000,14.000,18.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-10,4: Thursday (Th-Th),1: Early AM (12am-6am),212,17,19.657,0.874,11.000,16.000,22.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-10,4: Thursday (Th-Th),2: Peak AM (6am-10am),952,13,19.657,0.641,2.000,13.000,17.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-10,4: Thursday (Th-Th),3: Mid-Day (10am-3pm),976,14,19.657,0.700,5.000,14.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-10,4: Thursday (Th-Th),4: Peak PM (3pm-7pm),1433,14,19.657,0.695,7.000,14.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-10,4: Thursday (Th-Th),5: Late PM (7pm-12am),760,15,19.657,0.773,10.000,15.000,19.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-10,5: Friday (F-F),0: All Day (12am-12am),4762,14,19.657,0.702,5.000,14.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-10,5: Friday (F-F),1: Early AM (12am-6am),235,17,19.657,0.848,11.000,16.000,21.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-10,5: Friday (F-F),2: Peak AM (6am-10am),868,12,19.657,0.624,2.000,13.000,17.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-10,5: Friday (F-F),3: Mid-Day (10am-3pm),1087,14,19.657,0.688,4.000,14.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-10,5: Friday (F-F),4: Peak PM (3pm-7pm),1555,14,19.657,0.694,7.000,14.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-10,5: Friday (F-F),5: Late PM (7pm-12am),1017,15,19.657,0.763,10.000,15.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-10,6: Saturday (Sa-Sa),0: All Day (12am-12am),3855,15,19.657,0.777,10.000,15.000,19.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-10,6: Saturday (Sa-Sa),1: Early AM (12am-6am),295,17,19.657,0.861,11.000,16.000,20.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-10,6: Saturday (Sa-Sa),2: Peak AM (6am-10am),509,16,19.657,0.804,10.000,16.000,20.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-10,6: Saturday (Sa-Sa),3: Mid-Day (10am-3pm),1060,15,19.657,0.745,9.000,15.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-10,6: Saturday (Sa-Sa),4: Peak PM (3pm-7pm),1022,15,19.657,0.769,10.000,15.000,18.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-10,6: Saturday (Sa-Sa),5: Late PM (7pm-12am),970,15,19.657,0.782,10.000,15.000,19.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-10,7: Sunday (Su-Su),0: All Day (12am-12am),3092,16,19.657,0.789,10.000,15.000,19.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-10,7: Sunday (Su-Su),1: Early AM (12am-6am),347,17,19.657,0.851,10.000,17.000,20.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-10,7: Sunday (Su-Su),2: Peak AM (6am-10am),303,16,19.657,0.811,9.000,16.000,20.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-10,7: Sunday (Su-Su),3: Mid-Day (10am-3pm),1003,15,19.657,0.779,10.000,15.000,19.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-10,7: Sunday (Su-Su),4: Peak PM (3pm-7pm),829,15,19.657,0.769,9.000,15.000,19.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-10,7: Sunday (Su-Su),5: Late PM (7pm-12am),610,15,19.657,0.788,9.000,15.000,19.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-11,0: All Days (M-Su),0: All Day (12am-12am),3941,14,19.823,0.726,7.000,14.000,18.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-11,0: All Days (M-Su),1: Early AM (12am-6am),214,17,19.823,0.863,11.000,16.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-11,0: All Days (M-Su),2: Peak AM (6am-10am),746,13,19.823,0.678,3.000,14.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-11,0: All Days (M-Su),3: Mid-Day (10am-3pm),1048,14,19.823,0.723,7.000,14.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-11,0: All Days (M-Su),4: Peak PM (3pm-7pm),1232,14,19.823,0.705,8.000,14.000,17.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-11,0: All Days (M-Su),5: Late PM (7pm-12am),701,15,19.823,0.774,9.000,15.000,19.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-11,1: Monday (M-M),0: All Day (12am-12am),4065,14,19.823,0.710,6.000,14.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-11,1: Monday (M-M),1: Early AM (12am-6am),214,18,19.823,0.896,11.000,17.000,22.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-11,1: Monday (M-M),2: Peak AM (6am-10am),909,13,19.823,0.653,3.000,14.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-11,1: Monday (M-M),3: Mid-Day (10am-3pm),1032,14,19.823,0.704,6.000,14.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-11,1: Monday (M-M),4: Peak PM (3pm-7pm),1269,14,19.823,0.692,9.000,14.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-11,1: Monday (M-M),5: Late PM (7pm-12am),642,15,19.823,0.774,9.000,15.000,19.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-11,2: Tuesday (Tu-Tu),0: All Day (12am-12am),4069,14,19.823,0.718,6.000,14.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-11,2: Tuesday (Tu-Tu),1: Early AM (12am-6am),172,18,19.823,0.892,12.000,17.000,21.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-11,2: Tuesday (Tu-Tu),2: Peak AM (6am-10am),935,13,19.823,0.673,3.000,14.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-11,2: Tuesday (Tu-Tu),3: Mid-Day (10am-3pm),935,14,19.823,0.720,6.000,14.000,18.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-11,2: Tuesday (Tu-Tu),4: Peak PM (3pm-7pm),1407,14,19.823,0.699,8.000,14.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-11,2: Tuesday (Tu-Tu),5: Late PM (7pm-12am),619,15,19.823,0.779,10.000,15.000,19.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-11,3: Wednesday (W-W),0: All Day (12am-12am),4173,14,19.823,0.698,5.000,14.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-11,3: Wednesday (W-W),1: Early AM (12am-6am),199,18,19.823,0.895,11.000,17.000,22.000,28.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-11,3: Wednesday (W-W),2: Peak AM (6am-10am),874,13,19.823,0.642,3.000,14.000,18.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-11,3: Wednesday (W-W),3: Mid-Day (10am-3pm),985,14,19.823,0.695,5.000,14.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-11,3: Wednesday (W-W),4: Peak PM (3pm-7pm),1432,13,19.823,0.673,7.000,13.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-11,3: Wednesday (W-W),5: Late PM (7pm-12am),683,15,19.823,0.771,8.000,15.000,19.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-11,4: Thursday (Th-Th),0: All Day (12am-12am),3832,14,19.823,0.703,5.000,14.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-11,4: Thursday (Th-Th),1: Early AM (12am-6am),187,17,19.823,0.861,10.000,16.000,21.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-11,4: Thursday (Th-Th),2: Peak AM (6am-10am),880,13,19.823,0.643,3.000,14.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-11,4: Thursday (Th-Th),3: Mid-Day (10am-3pm),1034,14,19.823,0.716,6.000,15.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-11,4: Thursday (Th-Th),4: Peak PM (3pm-7pm),1159,14,19.823,0.684,7.000,14.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-11,4: Thursday (Th-Th),5: Late PM (7pm-12am),573,15,19.823,0.762,9.000,15.000,19.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-11,5: Friday (F-F),0: All Day (12am-12am),4373,14,19.823,0.725,7.000,14.000,18.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-11,5: Friday (F-F),1: Early AM (12am-6am),215,16,19.823,0.832,11.000,16.000,21.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-11,5: Friday (F-F),2: Peak AM (6am-10am),712,13,19.823,0.669,2.000,14.000,18.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-11,5: Friday (F-F),3: Mid-Day (10am-3pm),1142,14,19.823,0.722,7.000,14.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-11,5: Friday (F-F),4: Peak PM (3pm-7pm),1381,14,19.823,0.709,8.000,14.000,17.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-11,5: Friday (F-F),5: Late PM (7pm-12am),923,15,19.823,0.772,10.000,15.000,18.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-11,6: Saturday (Sa-Sa),0: All Day (12am-12am),3794,15,19.823,0.764,9.000,15.000,19.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-11,6: Saturday (Sa-Sa),1: Early AM (12am-6am),228,17,19.823,0.857,10.000,16.000,22.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-11,6: Saturday (Sa-Sa),2: Peak AM (6am-10am),487,16,19.823,0.804,9.000,16.000,20.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-11,6: Saturday (Sa-Sa),3: Mid-Day (10am-3pm),1162,15,19.823,0.740,9.000,15.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-11,6: Saturday (Sa-Sa),4: Peak PM (3pm-7pm),1023,15,19.823,0.745,9.000,15.000,18.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-11,6: Saturday (Sa-Sa),5: Late PM (7pm-12am),894,15,19.823,0.772,10.000,15.000,19.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-11,7: Sunday (Su-Su),0: All Day (12am-12am),3250,15,19.823,0.777,9.000,15.000,19.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-11,7: Sunday (Su-Su),1: Early AM (12am-6am),294,16,19.823,0.827,10.000,16.000,20.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-11,7: Sunday (Su-Su),2: Peak AM (6am-10am),360,16,19.823,0.794,9.000,16.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-11,7: Sunday (Su-Su),3: Mid-Day (10am-3pm),1065,15,19.823,0.759,9.000,15.000,19.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-11,7: Sunday (Su-Su),4: Peak PM (3pm-7pm),920,15,19.823,0.764,9.000,15.000,19.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-11,7: Sunday (Su-Su),5: Late PM (7pm-12am),612,16,19.823,0.793,9.000,15.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-12,0: All Days (M-Su),0: All Day (12am-12am),3596,15,20.440,0.719,7.000,15.000,18.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-12,0: All Days (M-Su),1: Early AM (12am-6am),227,17,20.440,0.849,10.000,17.000,22.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-12,0: All Days (M-Su),2: Peak AM (6am-10am),578,14,20.440,0.675,3.000,14.000,18.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-12,0: All Days (M-Su),3: Mid-Day (10am-3pm),985,15,20.440,0.711,7.000,15.000,18.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-12,0: All Days (M-Su),4: Peak PM (3pm-7pm),1149,14,20.440,0.699,8.000,14.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-12,0: All Days (M-Su),5: Late PM (7pm-12am),657,15,20.440,0.757,10.000,15.000,19.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-12,1: Monday (M-M),0: All Day (12am-12am),3256,15,20.440,0.713,7.000,14.000,18.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-12,1: Monday (M-M),1: Early AM (12am-6am),201,18,20.440,0.874,11.000,17.000,23.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-12,1: Monday (M-M),2: Peak AM (6am-10am),578,13,20.440,0.637,3.000,14.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-12,1: Monday (M-M),3: Mid-Day (10am-3pm),813,15,20.440,0.714,7.000,15.000,19.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-12,1: Monday (M-M),4: Peak PM (3pm-7pm),1074,14,20.440,0.699,8.000,14.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-12,1: Monday (M-M),5: Late PM (7pm-12am),591,15,20.440,0.754,10.000,15.000,19.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-12,2: Tuesday (Tu-Tu),0: All Day (12am-12am),3655,15,20.440,0.714,7.000,15.000,18.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-12,2: Tuesday (Tu-Tu),1: Early AM (12am-6am),194,17,20.440,0.837,9.000,17.000,22.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-12,2: Tuesday (Tu-Tu),2: Peak AM (6am-10am),681,14,20.440,0.664,4.000,14.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-12,2: Tuesday (Tu-Tu),3: Mid-Day (10am-3pm),922,14,20.440,0.706,8.000,15.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-12,2: Tuesday (Tu-Tu),4: Peak PM (3pm-7pm),1252,14,20.440,0.706,9.000,14.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-12,2: Tuesday (Tu-Tu),5: Late PM (7pm-12am),606,16,20.440,0.762,10.000,15.000,19.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-12,3: Wednesday (W-W),0: All Day (12am-12am),3745,14,20.440,0.687,6.000,14.000,18.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-12,3: Wednesday (W-W),1: Early AM (12am-6am),147,18,20.440,0.896,11.000,17.000,26.000,28.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-12,3: Wednesday (W-W),2: Peak AM (6am-10am),716,13,20.440,0.615,3.000,14.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-12,3: Wednesday (W-W),3: Mid-Day (10am-3pm),949,14,20.440,0.685,6.000,14.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-12,3: Wednesday (W-W),4: Peak PM (3pm-7pm),1273,14,20.440,0.672,8.000,14.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-12,3: Wednesday (W-W),5: Late PM (7pm-12am),660,15,20.440,0.750,10.000,15.000,19.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-12,4: Thursday (Th-Th),0: All Day (12am-12am),3697,14,20.440,0.704,6.000,14.000,18.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-12,4: Thursday (Th-Th),1: Early AM (12am-6am),206,17,20.440,0.843,10.000,17.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-12,4: Thursday (Th-Th),2: Peak AM (6am-10am),667,13,20.440,0.655,3.000,14.000,18.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-12,4: Thursday (Th-Th),3: Mid-Day (10am-3pm),919,14,20.440,0.704,6.000,14.000,19.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-12,4: Thursday (Th-Th),4: Peak PM (3pm-7pm),1274,14,20.440,0.687,8.000,14.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-12,4: Thursday (Th-Th),5: Late PM (7pm-12am),631,15,20.440,0.746,10.000,15.000,19.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-12,5: Friday (F-F),0: All Day (12am-12am),4193,14,20.440,0.705,7.000,14.000,18.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-12,5: Friday (F-F),1: Early AM (12am-6am),195,17,20.440,0.850,10.000,17.000,22.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-12,5: Friday (F-F),2: Peak AM (6am-10am),704,13,20.440,0.644,3.000,14.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-12,5: Friday (F-F),3: Mid-Day (10am-3pm),1121,14,20.440,0.699,7.000,15.000,18.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-12,5: Friday (F-F),4: Peak PM (3pm-7pm),1365,14,20.440,0.689,8.000,14.000,17.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-12,5: Friday (F-F),5: Late PM (7pm-12am),808,15,20.440,0.756,10.000,15.000,19.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-12,6: Saturday (Sa-Sa),0: All Day (12am-12am),3733,15,20.440,0.747,9.000,15.000,19.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-12,6: Saturday (Sa-Sa),1: Early AM (12am-6am),311,17,20.440,0.849,11.000,17.000,21.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-12,6: Saturday (Sa-Sa),2: Peak AM (6am-10am),446,16,20.440,0.785,10.000,16.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-12,6: Saturday (Sa-Sa),3: Mid-Day (10am-3pm),1113,15,20.440,0.723,9.000,15.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-12,6: Saturday (Sa-Sa),4: Peak PM (3pm-7pm),1060,15,20.440,0.726,9.000,15.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-12,6: Saturday (Sa-Sa),5: Late PM (7pm-12am),804,15,20.440,0.747,9.000,15.000,19.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-12,7: Sunday (Su-Su),0: All Day (12am-12am),2884,15,20.440,0.756,9.000,15.000,19.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-12,7: Sunday (Su-Su),1: Early AM (12am-6am),303,17,20.440,0.829,10.000,16.000,21.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-12,7: Sunday (Su-Su),2: Peak AM (6am-10am),320,16,20.440,0.794,10.000,16.000,20.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-12,7: Sunday (Su-Su),3: Mid-Day (10am-3pm),990,15,20.440,0.736,9.000,15.000,18.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-12,7: Sunday (Su-Su),4: Peak PM (3pm-7pm),799,15,20.440,0.718,9.000,14.000,18.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2023-12,7: Sunday (Su-Su),5: Late PM (7pm-12am),473,16,20.440,0.787,11.000,16.000,19.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-01,0: All Days (M-Su),0: All Day (12am-12am),3750,14,18.982,0.763,7.000,14.000,18.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-01,0: All Days (M-Su),1: Early AM (12am-6am),224,17,18.982,0.908,10.000,17.000,21.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-01,0: All Days (M-Su),2: Peak AM (6am-10am),660,13,18.982,0.697,3.000,14.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-01,0: All Days (M-Su),3: Mid-Day (10am-3pm),1013,14,18.982,0.750,6.000,14.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-01,0: All Days (M-Su),4: Peak PM (3pm-7pm),1192,14,18.982,0.746,8.000,14.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-01,0: All Days (M-Su),5: Late PM (7pm-12am),662,16,18.982,0.826,10.000,15.000,19.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-01,1: Monday (M-M),0: All Day (12am-12am),3502,15,18.982,0.770,6.000,15.000,18.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-01,1: Monday (M-M),1: Early AM (12am-6am),238,17,18.982,0.922,12.000,17.000,21.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-01,1: Monday (M-M),2: Peak AM (6am-10am),600,13,18.982,0.681,3.000,14.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-01,1: Monday (M-M),3: Mid-Day (10am-3pm),952,14,18.982,0.757,6.000,15.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-01,1: Monday (M-M),4: Peak PM (3pm-7pm),1110,15,18.982,0.766,9.000,14.000,18.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-01,1: Monday (M-M),5: Late PM (7pm-12am),603,16,18.982,0.824,10.000,15.000,19.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-01,2: Tuesday (Tu-Tu),0: All Day (12am-12am),3880,14,18.982,0.743,5.000,14.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-01,2: Tuesday (Tu-Tu),1: Early AM (12am-6am),184,18,18.982,0.927,11.000,17.000,22.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-01,2: Tuesday (Tu-Tu),2: Peak AM (6am-10am),783,13,18.982,0.666,2.000,14.000,17.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-01,2: Tuesday (Tu-Tu),3: Mid-Day (10am-3pm),970,14,18.982,0.725,5.000,14.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-01,2: Tuesday (Tu-Tu),4: Peak PM (3pm-7pm),1293,14,18.982,0.740,9.000,14.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-01,2: Tuesday (Tu-Tu),5: Late PM (7pm-12am),649,16,18.982,0.820,8.000,15.000,19.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-01,3: Wednesday (W-W),0: All Day (12am-12am),3680,14,18.982,0.737,5.000,14.000,18.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-01,3: Wednesday (W-W),1: Early AM (12am-6am),193,17,18.982,0.918,8.000,17.000,22.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-01,3: Wednesday (W-W),2: Peak AM (6am-10am),802,13,18.982,0.670,3.000,14.000,17.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-01,3: Wednesday (W-W),3: Mid-Day (10am-3pm),948,14,18.982,0.728,5.000,14.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-01,3: Wednesday (W-W),4: Peak PM (3pm-7pm),1175,14,18.982,0.720,8.000,14.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-01,3: Wednesday (W-W),5: Late PM (7pm-12am),563,16,18.982,0.820,10.000,15.000,19.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-01,4: Thursday (Th-Th),0: All Day (12am-12am),4048,14,18.982,0.747,6.000,14.000,18.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-01,4: Thursday (Th-Th),1: Early AM (12am-6am),171,17,18.982,0.913,11.000,17.000,22.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-01,4: Thursday (Th-Th),2: Peak AM (6am-10am),823,13,18.982,0.690,3.000,14.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-01,4: Thursday (Th-Th),3: Mid-Day (10am-3pm),1001,14,18.982,0.735,6.000,14.000,18.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-01,4: Thursday (Th-Th),4: Peak PM (3pm-7pm),1361,14,18.982,0.725,8.000,14.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-01,4: Thursday (Th-Th),5: Late PM (7pm-12am),692,16,18.982,0.835,10.000,16.000,19.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-01,5: Friday (F-F),0: All Day (12am-12am),4671,14,18.982,0.746,6.000,14.000,18.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-01,5: Friday (F-F),1: Early AM (12am-6am),235,17,18.982,0.913,11.000,17.000,21.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-01,5: Friday (F-F),2: Peak AM (6am-10am),867,13,18.982,0.668,3.000,13.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-01,5: Friday (F-F),3: Mid-Day (10am-3pm),1117,14,18.982,0.732,5.000,14.000,18.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-01,5: Friday (F-F),4: Peak PM (3pm-7pm),1580,14,18.982,0.722,8.000,14.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-01,5: Friday (F-F),5: Late PM (7pm-12am),872,16,18.982,0.840,10.000,16.000,19.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-01,6: Saturday (Sa-Sa),0: All Day (12am-12am),3501,15,18.982,0.802,9.000,15.000,19.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-01,6: Saturday (Sa-Sa),1: Early AM (12am-6am),254,17,18.982,0.887,10.000,16.000,21.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-01,6: Saturday (Sa-Sa),2: Peak AM (6am-10am),411,15,18.982,0.810,8.000,15.000,19.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-01,6: Saturday (Sa-Sa),3: Mid-Day (10am-3pm),1166,15,18.982,0.784,9.000,15.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-01,6: Saturday (Sa-Sa),4: Peak PM (3pm-7pm),913,15,18.982,0.795,10.000,15.000,18.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-01,6: Saturday (Sa-Sa),5: Late PM (7pm-12am),757,15,18.982,0.806,9.000,15.000,19.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-01,7: Sunday (Su-Su),0: All Day (12am-12am),3015,15,18.982,0.813,9.000,15.000,19.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-01,7: Sunday (Su-Su),1: Early AM (12am-6am),304,17,18.982,0.885,9.000,16.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-01,7: Sunday (Su-Su),2: Peak AM (6am-10am),283,16,18.982,0.858,9.000,16.000,20.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-01,7: Sunday (Su-Su),3: Mid-Day (10am-3pm),978,15,18.982,0.790,9.000,15.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-01,7: Sunday (Su-Su),4: Peak PM (3pm-7pm),909,15,18.982,0.785,9.000,15.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-01,7: Sunday (Su-Su),5: Late PM (7pm-12am),540,16,18.982,0.837,10.000,16.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-02,0: All Days (M-Su),0: All Day (12am-12am),4117,14,19.926,0.715,6.000,14.000,18.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-02,0: All Days (M-Su),1: Early AM (12am-6am),212,17,19.926,0.865,11.000,16.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-02,0: All Days (M-Su),2: Peak AM (6am-10am),762,13,19.926,0.648,3.000,14.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-02,0: All Days (M-Su),3: Mid-Day (10am-3pm),1118,14,19.926,0.710,6.000,14.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-02,0: All Days (M-Su),4: Peak PM (3pm-7pm),1300,14,19.926,0.696,8.000,14.000,17.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-02,0: All Days (M-Su),5: Late PM (7pm-12am),725,16,19.926,0.783,10.000,15.000,19.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-02,1: Monday (M-M),0: All Day (12am-12am),3620,14,19.926,0.715,5.000,14.000,18.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-02,1: Monday (M-M),1: Early AM (12am-6am),158,17,19.926,0.869,6.000,17.000,22.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-02,1: Monday (M-M),2: Peak AM (6am-10am),730,13,19.926,0.642,2.000,14.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-02,1: Monday (M-M),3: Mid-Day (10am-3pm),973,14,19.926,0.707,5.000,14.000,18.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-02,1: Monday (M-M),4: Peak PM (3pm-7pm),1219,14,19.926,0.710,9.000,14.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-02,1: Monday (M-M),5: Late PM (7pm-12am),539,16,19.926,0.793,9.000,15.000,20.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-02,2: Tuesday (Tu-Tu),0: All Day (12am-12am),4159,14,19.926,0.706,6.000,14.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-02,2: Tuesday (Tu-Tu),1: Early AM (12am-6am),177,18,19.926,0.884,12.000,17.000,22.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-02,2: Tuesday (Tu-Tu),2: Peak AM (6am-10am),900,13,19.926,0.628,3.000,13.000,17.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-02,2: Tuesday (Tu-Tu),3: Mid-Day (10am-3pm),1054,14,19.926,0.691,6.000,14.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-02,2: Tuesday (Tu-Tu),4: Peak PM (3pm-7pm),1348,14,19.926,0.702,9.000,14.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-02,2: Tuesday (Tu-Tu),5: Late PM (7pm-12am),680,16,19.926,0.795,11.000,15.000,19.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-02,3: Wednesday (W-W),0: All Day (12am-12am),4610,14,19.926,0.694,5.000,14.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-02,3: Wednesday (W-W),1: Early AM (12am-6am),195,18,19.926,0.896,12.000,17.000,22.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-02,3: Wednesday (W-W),2: Peak AM (6am-10am),921,12,19.926,0.605,2.000,13.000,17.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-02,3: Wednesday (W-W),3: Mid-Day (10am-3pm),1147,14,19.926,0.692,5.000,14.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-02,3: Wednesday (W-W),4: Peak PM (3pm-7pm),1519,13,19.926,0.668,6.000,13.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-02,3: Wednesday (W-W),5: Late PM (7pm-12am),828,16,19.926,0.794,11.000,15.000,19.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-02,4: Thursday (Th-Th),0: All Day (12am-12am),4155,14,19.926,0.693,5.000,14.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-02,4: Thursday (Th-Th),1: Early AM (12am-6am),224,18,19.926,0.894,11.000,17.000,22.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-02,4: Thursday (Th-Th),2: Peak AM (6am-10am),948,13,19.926,0.629,2.000,13.000,17.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-02,4: Thursday (Th-Th),3: Mid-Day (10am-3pm),1071,14,19.926,0.701,6.000,14.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-02,4: Thursday (Th-Th),4: Peak PM (3pm-7pm),1324,13,19.926,0.663,6.000,13.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-02,4: Thursday (Th-Th),5: Late PM (7pm-12am),589,15,19.926,0.777,10.000,15.000,19.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-02,5: Friday (F-F),0: All Day (12am-12am),5075,14,19.926,0.691,5.000,14.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-02,5: Friday (F-F),1: Early AM (12am-6am),192,17,19.926,0.865,12.000,17.000,21.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-02,5: Friday (F-F),2: Peak AM (6am-10am),993,12,19.926,0.613,2.000,13.000,17.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-02,5: Friday (F-F),3: Mid-Day (10am-3pm),1201,14,19.926,0.678,5.000,14.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-02,5: Friday (F-F),4: Peak PM (3pm-7pm),1699,13,19.926,0.676,7.000,14.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-02,5: Friday (F-F),5: Late PM (7pm-12am),989,15,19.926,0.777,11.000,15.000,19.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-02,6: Saturday (Sa-Sa),0: All Day (12am-12am),4087,15,19.926,0.757,9.000,15.000,19.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-02,6: Saturday (Sa-Sa),1: Early AM (12am-6am),272,16,19.926,0.822,9.000,16.000,20.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-02,6: Saturday (Sa-Sa),2: Peak AM (6am-10am),466,15,19.926,0.774,9.000,15.000,19.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-02,6: Saturday (Sa-Sa),3: Mid-Day (10am-3pm),1334,15,19.926,0.744,9.000,15.000,18.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-02,6: Saturday (Sa-Sa),4: Peak PM (3pm-7pm),1110,15,19.926,0.744,9.000,15.000,18.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-02,6: Saturday (Sa-Sa),5: Late PM (7pm-12am),905,15,19.926,0.766,10.000,15.000,19.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-02,7: Sunday (Su-Su),0: All Day (12am-12am),3105,15,19.926,0.770,10.000,15.000,19.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-02,7: Sunday (Su-Su),1: Early AM (12am-6am),265,17,19.926,0.848,11.000,16.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-02,7: Sunday (Su-Su),2: Peak AM (6am-10am),329,16,19.926,0.800,11.000,16.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-02,7: Sunday (Su-Su),3: Mid-Day (10am-3pm),1058,15,19.926,0.751,9.000,15.000,19.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-02,7: Sunday (Su-Su),4: Peak PM (3pm-7pm),871,15,19.926,0.747,9.000,15.000,18.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-02,7: Sunday (Su-Su),5: Late PM (7pm-12am),582,16,19.926,0.790,10.000,15.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-03,0: All Days (M-Su),0: All Day (12am-12am),4066,14,19.819,0.731,7.000,14.000,18.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-03,0: All Days (M-Su),1: Early AM (12am-6am),218,17,19.819,0.869,11.000,17.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-03,0: All Days (M-Su),2: Peak AM (6am-10am),681,13,19.819,0.681,3.000,14.000,18.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-03,0: All Days (M-Su),3: Mid-Day (10am-3pm),1126,14,19.819,0.720,7.000,14.000,18.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-03,0: All Days (M-Su),4: Peak PM (3pm-7pm),1267,14,19.819,0.719,9.000,14.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-03,0: All Days (M-Su),5: Late PM (7pm-12am),773,15,19.819,0.771,10.000,15.000,19.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-03,1: Monday (M-M),0: All Day (12am-12am),3851,14,19.819,0.719,6.000,14.000,18.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-03,1: Monday (M-M),1: Early AM (12am-6am),180,18,19.819,0.926,10.000,18.000,24.000,28.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-03,1: Monday (M-M),2: Peak AM (6am-10am),797,13,19.819,0.639,3.000,14.000,17.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-03,1: Monday (M-M),3: Mid-Day (10am-3pm),969,14,19.819,0.708,5.000,14.000,18.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-03,1: Monday (M-M),4: Peak PM (3pm-7pm),1242,14,19.819,0.712,8.000,14.000,17.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-03,1: Monday (M-M),5: Late PM (7pm-12am),663,16,19.819,0.786,10.000,15.000,19.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-03,2: Tuesday (Tu-Tu),0: All Day (12am-12am),4040,14,19.819,0.716,6.000,14.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-03,2: Tuesday (Tu-Tu),1: Early AM (12am-6am),185,17,19.819,0.868,11.000,17.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-03,2: Tuesday (Tu-Tu),2: Peak AM (6am-10am),786,13,19.819,0.663,4.000,14.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-03,2: Tuesday (Tu-Tu),3: Mid-Day (10am-3pm),1091,14,19.819,0.694,6.000,14.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-03,2: Tuesday (Tu-Tu),4: Peak PM (3pm-7pm),1286,14,19.819,0.713,9.000,14.000,17.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-03,2: Tuesday (Tu-Tu),5: Late PM (7pm-12am),692,15,19.819,0.774,9.000,15.000,19.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-03,3: Wednesday (W-W),0: All Day (12am-12am),4062,14,19.819,0.716,6.000,14.000,18.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-03,3: Wednesday (W-W),1: Early AM (12am-6am),175,17,19.819,0.882,12.000,17.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-03,3: Wednesday (W-W),2: Peak AM (6am-10am),760,13,19.819,0.656,3.000,14.000,18.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-03,3: Wednesday (W-W),3: Mid-Day (10am-3pm),1080,14,19.819,0.704,5.000,14.000,18.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-03,3: Wednesday (W-W),4: Peak PM (3pm-7pm),1381,14,19.819,0.699,8.000,14.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-03,3: Wednesday (W-W),5: Late PM (7pm-12am),666,16,19.819,0.791,11.000,15.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-03,4: Thursday (Th-Th),0: All Day (12am-12am),4277,14,19.819,0.713,6.000,14.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-03,4: Thursday (Th-Th),1: Early AM (12am-6am),177,18,19.819,0.913,12.000,18.000,22.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-03,4: Thursday (Th-Th),2: Peak AM (6am-10am),859,13,19.819,0.662,3.000,14.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-03,4: Thursday (Th-Th),3: Mid-Day (10am-3pm),1049,14,19.819,0.716,6.000,14.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-03,4: Thursday (Th-Th),4: Peak PM (3pm-7pm),1439,14,19.819,0.697,8.000,14.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-03,4: Thursday (Th-Th),5: Late PM (7pm-12am),753,15,19.819,0.749,10.000,15.000,18.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-03,5: Friday (F-F),0: All Day (12am-12am),4862,14,19.819,0.714,7.000,14.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-03,5: Friday (F-F),1: Early AM (12am-6am),199,17,19.819,0.859,11.000,16.000,22.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-03,5: Friday (F-F),2: Peak AM (6am-10am),848,13,19.819,0.650,3.000,14.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-03,5: Friday (F-F),3: Mid-Day (10am-3pm),1193,14,19.819,0.694,6.000,14.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-03,5: Friday (F-F),4: Peak PM (3pm-7pm),1583,14,19.819,0.712,9.000,14.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-03,5: Friday (F-F),5: Late PM (7pm-12am),1039,15,19.819,0.768,10.000,15.000,19.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-03,6: Saturday (Sa-Sa),0: All Day (12am-12am),4058,15,19.819,0.763,9.000,15.000,18.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-03,6: Saturday (Sa-Sa),1: Early AM (12am-6am),313,17,19.819,0.834,10.000,16.000,20.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-03,6: Saturday (Sa-Sa),2: Peak AM (6am-10am),468,16,19.819,0.795,10.000,16.000,19.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-03,6: Saturday (Sa-Sa),3: Mid-Day (10am-3pm),1218,15,19.819,0.744,9.000,15.000,18.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-03,6: Saturday (Sa-Sa),4: Peak PM (3pm-7pm),1111,15,19.819,0.743,10.000,14.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-03,6: Saturday (Sa-Sa),5: Late PM (7pm-12am),949,15,19.819,0.769,10.000,15.000,19.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-03,7: Sunday (Su-Su),0: All Day (12am-12am),3306,15,19.819,0.779,10.000,15.000,19.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-03,7: Sunday (Su-Su),1: Early AM (12am-6am),269,17,19.819,0.856,10.000,16.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-03,7: Sunday (Su-Su),2: Peak AM (6am-10am),348,16,19.819,0.802,10.000,16.000,19.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-03,7: Sunday (Su-Su),3: Mid-Day (10am-3pm),1221,15,19.819,0.764,9.000,15.000,19.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-03,7: Sunday (Su-Su),4: Peak PM (3pm-7pm),883,15,19.819,0.771,10.000,15.000,19.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-03,7: Sunday (Su-Su),5: Late PM (7pm-12am),585,15,19.819,0.771,9.000,15.000,19.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-04,0: All Days (M-Su),0: All Day (12am-12am),4128,14,18.532,0.767,6.000,14.000,18.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-04,0: All Days (M-Su),1: Early AM (12am-6am),210,17,18.532,0.915,10.000,16.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-04,0: All Days (M-Su),2: Peak AM (6am-10am),752,13,18.532,0.702,3.000,14.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-04,0: All Days (M-Su),3: Mid-Day (10am-3pm),1133,14,18.532,0.755,6.000,14.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-04,0: All Days (M-Su),4: Peak PM (3pm-7pm),1265,14,18.532,0.756,8.000,14.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-04,0: All Days (M-Su),5: Late PM (7pm-12am),768,15,18.532,0.828,10.000,15.000,19.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-04,1: Monday (M-M),0: All Day (12am-12am),3852,14,18.532,0.757,6.000,14.000,18.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-04,1: Monday (M-M),1: Early AM (12am-6am),164,17,18.532,0.927,10.000,16.000,21.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-04,1: Monday (M-M),2: Peak AM (6am-10am),765,13,18.532,0.685,3.000,13.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-04,1: Monday (M-M),3: Mid-Day (10am-3pm),1026,14,18.532,0.766,7.000,14.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-04,1: Monday (M-M),4: Peak PM (3pm-7pm),1219,14,18.532,0.735,7.000,14.000,17.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-04,1: Monday (M-M),5: Late PM (7pm-12am),678,15,18.532,0.824,10.000,15.000,19.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-04,2: Tuesday (Tu-Tu),0: All Day (12am-12am),4065,14,18.532,0.741,5.000,14.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-04,2: Tuesday (Tu-Tu),1: Early AM (12am-6am),183,17,18.532,0.911,11.000,17.000,21.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-04,2: Tuesday (Tu-Tu),2: Peak AM (6am-10am),900,13,18.532,0.677,3.000,13.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-04,2: Tuesday (Tu-Tu),3: Mid-Day (10am-3pm),1150,13,18.532,0.725,5.000,14.000,17.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-04,2: Tuesday (Tu-Tu),4: Peak PM (3pm-7pm),1226,14,18.532,0.737,7.000,14.000,17.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-04,2: Tuesday (Tu-Tu),5: Late PM (7pm-12am),606,15,18.532,0.824,10.000,15.000,19.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-04,3: Wednesday (W-W),0: All Day (12am-12am),4331,14,18.532,0.758,6.000,14.000,18.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-04,3: Wednesday (W-W),1: Early AM (12am-6am),173,17,18.532,0.924,9.000,17.000,21.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-04,3: Wednesday (W-W),2: Peak AM (6am-10am),854,13,18.532,0.690,3.000,14.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-04,3: Wednesday (W-W),3: Mid-Day (10am-3pm),1110,14,18.532,0.754,6.000,14.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-04,3: Wednesday (W-W),4: Peak PM (3pm-7pm),1428,14,18.532,0.741,7.000,14.000,17.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-04,3: Wednesday (W-W),5: Late PM (7pm-12am),766,15,18.532,0.835,10.000,15.000,19.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-04,4: Thursday (Th-Th),0: All Day (12am-12am),4535,14,18.532,0.744,5.000,14.000,18.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-04,4: Thursday (Th-Th),1: Early AM (12am-6am),215,17,18.532,0.935,10.000,16.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-04,4: Thursday (Th-Th),2: Peak AM (6am-10am),973,12,18.532,0.654,2.000,13.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-04,4: Thursday (Th-Th),3: Mid-Day (10am-3pm),1119,13,18.532,0.726,5.000,14.000,17.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-04,4: Thursday (Th-Th),4: Peak PM (3pm-7pm),1457,14,18.532,0.743,7.000,14.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-04,4: Thursday (Th-Th),5: Late PM (7pm-12am),770,15,18.532,0.834,10.000,15.000,19.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-04,5: Friday (F-F),0: All Day (12am-12am),4832,14,18.532,0.748,5.000,14.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-04,5: Friday (F-F),1: Early AM (12am-6am),199,17,18.532,0.919,11.000,16.000,21.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-04,5: Friday (F-F),2: Peak AM (6am-10am),873,12,18.532,0.653,2.000,13.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-04,5: Friday (F-F),3: Mid-Day (10am-3pm),1190,13,18.532,0.728,4.000,14.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-04,5: Friday (F-F),4: Peak PM (3pm-7pm),1589,14,18.532,0.750,8.000,14.000,18.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-04,5: Friday (F-F),5: Late PM (7pm-12am),981,15,18.532,0.817,10.000,15.000,18.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-04,6: Saturday (Sa-Sa),0: All Day (12am-12am),4114,15,18.532,0.806,9.000,15.000,18.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-04,6: Saturday (Sa-Sa),1: Early AM (12am-6am),269,16,18.532,0.889,10.000,16.000,20.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-04,6: Saturday (Sa-Sa),2: Peak AM (6am-10am),534,16,18.532,0.849,10.000,15.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-04,6: Saturday (Sa-Sa),3: Mid-Day (10am-3pm),1284,14,18.532,0.770,8.000,14.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-04,6: Saturday (Sa-Sa),4: Peak PM (3pm-7pm),1084,15,18.532,0.798,9.000,15.000,18.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-04,6: Saturday (Sa-Sa),5: Late PM (7pm-12am),943,15,18.532,0.818,10.000,15.000,19.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-04,7: Sunday (Su-Su),0: All Day (12am-12am),3251,16,18.532,0.838,9.000,15.000,19.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-04,7: Sunday (Su-Su),1: Early AM (12am-6am),281,17,18.532,0.914,11.000,16.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-04,7: Sunday (Su-Su),2: Peak AM (6am-10am),323,16,18.532,0.869,10.000,16.000,20.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-04,7: Sunday (Su-Su),3: Mid-Day (10am-3pm),1077,15,18.532,0.818,9.000,15.000,19.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-04,7: Sunday (Su-Su),4: Peak PM (3pm-7pm),873,15,18.532,0.818,10.000,15.000,19.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-04,7: Sunday (Su-Su),5: Late PM (7pm-12am),696,16,18.532,0.849,10.000,16.000,19.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-05,0: All Days (M-Su),0: All Day (12am-12am),4165,14,19.538,0.728,6.000,14.000,18.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-05,0: All Days (M-Su),1: Early AM (12am-6am),205,17,19.538,0.882,11.000,17.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-05,0: All Days (M-Su),2: Peak AM (6am-10am),768,13,19.538,0.663,3.000,14.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-05,0: All Days (M-Su),3: Mid-Day (10am-3pm),1075,14,19.538,0.720,6.000,14.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-05,0: All Days (M-Su),4: Peak PM (3pm-7pm),1312,14,19.538,0.715,7.000,14.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-05,0: All Days (M-Su),5: Late PM (7pm-12am),804,15,19.538,0.784,10.000,15.000,19.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-05,1: Monday (M-M),0: All Day (12am-12am),3807,14,19.538,0.731,6.000,14.000,18.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-05,1: Monday (M-M),1: Early AM (12am-6am),191,17,19.538,0.873,10.000,17.000,21.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-05,1: Monday (M-M),2: Peak AM (6am-10am),716,13,19.538,0.678,3.000,14.000,18.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-05,1: Monday (M-M),3: Mid-Day (10am-3pm),1043,14,19.538,0.728,5.000,14.000,18.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-05,1: Monday (M-M),4: Peak PM (3pm-7pm),1177,14,19.538,0.703,7.000,14.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-05,1: Monday (M-M),5: Late PM (7pm-12am),680,16,19.538,0.800,8.000,15.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-05,2: Tuesday (Tu-Tu),0: All Day (12am-12am),4335,14,19.538,0.722,6.000,14.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-05,2: Tuesday (Tu-Tu),1: Early AM (12am-6am),212,18,19.538,0.896,10.000,17.000,22.000,28.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-05,2: Tuesday (Tu-Tu),2: Peak AM (6am-10am),921,13,19.538,0.654,3.000,13.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-05,2: Tuesday (Tu-Tu),3: Mid-Day (10am-3pm),1052,14,19.538,0.698,6.000,14.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-05,2: Tuesday (Tu-Tu),4: Peak PM (3pm-7pm),1379,14,19.538,0.729,9.000,14.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-05,2: Tuesday (Tu-Tu),5: Late PM (7pm-12am),771,15,19.538,0.776,9.000,15.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-05,3: Wednesday (W-W),0: All Day (12am-12am),4555,14,19.538,0.700,5.000,14.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-05,3: Wednesday (W-W),1: Early AM (12am-6am),169,18,19.538,0.905,10.000,17.000,21.000,28.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-05,3: Wednesday (W-W),2: Peak AM (6am-10am),905,12,19.538,0.613,3.000,13.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-05,3: Wednesday (W-W),3: Mid-Day (10am-3pm),1051,13,19.538,0.686,5.000,14.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-05,3: Wednesday (W-W),4: Peak PM (3pm-7pm),1587,13,19.538,0.686,7.000,13.000,17.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-05,3: Wednesday (W-W),5: Late PM (7pm-12am),842,16,19.538,0.797,10.000,15.000,19.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-05,4: Thursday (Th-Th),0: All Day (12am-12am),4339,14,19.538,0.703,5.000,14.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-05,4: Thursday (Th-Th),1: Early AM (12am-6am),184,17,19.538,0.893,11.000,17.000,21.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-05,4: Thursday (Th-Th),2: Peak AM (6am-10am),891,12,19.538,0.638,2.000,13.000,17.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-05,4: Thursday (Th-Th),3: Mid-Day (10am-3pm),946,14,19.538,0.692,4.000,14.000,17.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-05,4: Thursday (Th-Th),4: Peak PM (3pm-7pm),1543,13,19.538,0.686,7.000,14.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-05,4: Thursday (Th-Th),5: Late PM (7pm-12am),776,15,19.538,0.782,9.000,15.000,19.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-05,5: Friday (F-F),0: All Day (12am-12am),4563,14,19.538,0.703,5.000,14.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-05,5: Friday (F-F),1: Early AM (12am-6am),199,18,19.538,0.902,12.000,16.000,21.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-05,5: Friday (F-F),2: Peak AM (6am-10am),893,12,19.538,0.607,2.000,13.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-05,5: Friday (F-F),3: Mid-Day (10am-3pm),1197,13,19.538,0.690,5.000,14.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-05,5: Friday (F-F),4: Peak PM (3pm-7pm),1436,14,19.538,0.704,8.000,14.000,17.000,19.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-05,5: Friday (F-F),5: Late PM (7pm-12am),839,15,19.538,0.775,10.000,15.000,18.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-05,6: Saturday (Sa-Sa),0: All Day (12am-12am),3817,15,19.538,0.785,9.000,15.000,19.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-05,6: Saturday (Sa-Sa),1: Early AM (12am-6am),208,17,19.538,0.866,12.000,16.000,20.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-05,6: Saturday (Sa-Sa),2: Peak AM (6am-10am),448,15,19.538,0.790,10.000,15.000,19.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-05,6: Saturday (Sa-Sa),3: Mid-Day (10am-3pm),1186,15,19.538,0.777,9.000,15.000,19.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-05,6: Saturday (Sa-Sa),4: Peak PM (3pm-7pm),1057,15,19.538,0.776,9.000,15.000,19.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-05,6: Saturday (Sa-Sa),5: Late PM (7pm-12am),918,15,19.538,0.783,9.000,15.000,19.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-05,7: Sunday (Su-Su),0: All Day (12am-12am),3497,15,19.538,0.790,10.000,15.000,19.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-05,7: Sunday (Su-Su),1: Early AM (12am-6am),290,17,19.538,0.851,10.000,16.000,20.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-05,7: Sunday (Su-Su),2: Peak AM (6am-10am),503,16,19.538,0.813,10.000,16.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-05,7: Sunday (Su-Su),3: Mid-Day (10am-3pm),1061,15,19.538,0.778,9.000,15.000,19.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-05,7: Sunday (Su-Su),4: Peak PM (3pm-7pm),851,15,19.538,0.783,10.000,15.000,19.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,Euclid Avenue,yes,208,yes,2024-05,7: Sunday (Su-Su),5: Late PM (7pm-12am),793,15,19.538,0.779,10.000,15.000,19.000,21.000

@@ -1,0 +1,49 @@
+Data Periods,Mode of Travel,Zone ID,Zone Name,Zone Is Pass-Through,Zone Direction (degrees),Zone is Bi-Direction,Year-Month,Day Type,Day Part,Average Daily Spot Traffic (StL Volume),Lower 95 Prediction Range,Upper 95 Prediction Range
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Buchanan Street,yes,102,yes,2021-06,0: All Days (M-Su),0: All Day (12am-12am),281,100,500
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Buchanan Street,yes,102,yes,2021-07,0: All Days (M-Su),0: All Day (12am-12am),277,100,500
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Buchanan Street,yes,102,yes,2021-08,0: All Days (M-Su),0: All Day (12am-12am),304,200,600
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Buchanan Street,yes,102,yes,2021-09,0: All Days (M-Su),0: All Day (12am-12am),311,200,600
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Buchanan Street,yes,102,yes,2021-10,0: All Days (M-Su),0: All Day (12am-12am),312,200,600
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Buchanan Street,yes,102,yes,2021-11,0: All Days (M-Su),0: All Day (12am-12am),295,200,600
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Buchanan Street,yes,102,yes,2021-12,0: All Days (M-Su),0: All Day (12am-12am),261,100,500
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Buchanan Street,yes,102,yes,2022-01,0: All Days (M-Su),0: All Day (12am-12am),623,400,1100
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Buchanan Street,yes,102,yes,2022-02,0: All Days (M-Su),0: All Day (12am-12am),304,200,600
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Buchanan Street,yes,102,yes,2022-03,0: All Days (M-Su),0: All Day (12am-12am),341,200,600
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Buchanan Street,yes,102,yes,2022-04,0: All Days (M-Su),0: All Day (12am-12am),321,200,600
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Buchanan Street,yes,102,yes,2022-05,0: All Days (M-Su),0: All Day (12am-12am),319,200,600
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Buchanan Street (1),yes,102,yes,2021-06,0: All Days (M-Su),0: All Day (12am-12am),342,200,600
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Buchanan Street (1),yes,102,yes,2021-07,0: All Days (M-Su),0: All Day (12am-12am),320,200,600
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Buchanan Street (1),yes,102,yes,2021-08,0: All Days (M-Su),0: All Day (12am-12am),337,200,600
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Buchanan Street (1),yes,102,yes,2021-09,0: All Days (M-Su),0: All Day (12am-12am),367,200,700
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Buchanan Street (1),yes,102,yes,2021-10,0: All Days (M-Su),0: All Day (12am-12am),373,200,700
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Buchanan Street (1),yes,102,yes,2021-11,0: All Days (M-Su),0: All Day (12am-12am),343,200,600
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Buchanan Street (1),yes,102,yes,2021-12,0: All Days (M-Su),0: All Day (12am-12am),320,200,600
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Buchanan Street (1),yes,102,yes,2022-01,0: All Days (M-Su),0: All Day (12am-12am),688,400,1200
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Buchanan Street (1),yes,102,yes,2022-02,0: All Days (M-Su),0: All Day (12am-12am),355,200,700
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Buchanan Street (1),yes,102,yes,2022-03,0: All Days (M-Su),0: All Day (12am-12am),382,200,700
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Buchanan Street (1),yes,102,yes,2022-04,0: All Days (M-Su),0: All Day (12am-12am),374,200,700
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Buchanan Street (1),yes,102,yes,2022-05,0: All Days (M-Su),0: All Day (12am-12am),378,200,700
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Nolden Street,yes,12,yes,2021-06,0: All Days (M-Su),0: All Day (12am-12am),411,200,800
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Nolden Street,yes,12,yes,2021-07,0: All Days (M-Su),0: All Day (12am-12am),406,200,700
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Nolden Street,yes,12,yes,2021-08,0: All Days (M-Su),0: All Day (12am-12am),441,300,800
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Nolden Street,yes,12,yes,2021-09,0: All Days (M-Su),0: All Day (12am-12am),457,300,800
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Nolden Street,yes,12,yes,2021-10,0: All Days (M-Su),0: All Day (12am-12am),495,300,900
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Nolden Street,yes,12,yes,2021-11,0: All Days (M-Su),0: All Day (12am-12am),457,300,800
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Nolden Street,yes,12,yes,2021-12,0: All Days (M-Su),0: All Day (12am-12am),393,200,700
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Nolden Street,yes,12,yes,2022-01,0: All Days (M-Su),0: All Day (12am-12am),463,300,800
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Nolden Street,yes,12,yes,2022-02,0: All Days (M-Su),0: All Day (12am-12am),397,200,700
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Nolden Street,yes,12,yes,2022-03,0: All Days (M-Su),0: All Day (12am-12am),426,200,800
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Nolden Street,yes,12,yes,2022-04,0: All Days (M-Su),0: All Day (12am-12am),393,200,700
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Nolden Street,yes,12,yes,2022-05,0: All Days (M-Su),0: All Day (12am-12am),384,200,700
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Nolden Street (1),yes,12,yes,2021-06,0: All Days (M-Su),0: All Day (12am-12am),286,100,500
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Nolden Street (1),yes,12,yes,2021-07,0: All Days (M-Su),0: All Day (12am-12am),294,200,600
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Nolden Street (1),yes,12,yes,2021-08,0: All Days (M-Su),0: All Day (12am-12am),319,200,600
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Nolden Street (1),yes,12,yes,2021-09,0: All Days (M-Su),0: All Day (12am-12am),348,200,700
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Nolden Street (1),yes,12,yes,2021-10,0: All Days (M-Su),0: All Day (12am-12am),359,200,700
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Nolden Street (1),yes,12,yes,2021-11,0: All Days (M-Su),0: All Day (12am-12am),346,200,600
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Nolden Street (1),yes,12,yes,2021-12,0: All Days (M-Su),0: All Day (12am-12am),296,200,600
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Nolden Street (1),yes,12,yes,2022-01,0: All Days (M-Su),0: All Day (12am-12am),314,200,600
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Nolden Street (1),yes,12,yes,2022-02,0: All Days (M-Su),0: All Day (12am-12am),320,200,600
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Nolden Street (1),yes,12,yes,2022-03,0: All Days (M-Su),0: All Day (12am-12am),324,200,600
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Nolden Street (1),yes,12,yes,2022-04,0: All Days (M-Su),0: All Day (12am-12am),294,200,600
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Nolden Street (1),yes,12,yes,2022-05,0: All Days (M-Su),0: All Day (12am-12am),297,200,600

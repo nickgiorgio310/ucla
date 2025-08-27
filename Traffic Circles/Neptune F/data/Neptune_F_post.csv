@@ -1,0 +1,865 @@
+Data Periods,Mode of Travel,Zone ID,Zone Name,Zone Is Pass-Through,Zone Direction (degrees),Zone is Bi-Direction,Year-Month,Day Type,Day Part,Average Daily Spot Traffic (StL Volume),Avg Spot Speed (mph),Free Flow Speed (mph),Free Flow Factor,5th Speed Percentile,15th Speed Percentile,85th Speed Percentile,95th Speed Percentile
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-06,0: All Days (M-Su),0: All Day (12am-12am),574,15,19.962,0.748,7.000,10.000,20.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-06,0: All Days (M-Su),1: Early AM (12am-6am),39,17,19.962,0.830,9.000,11.000,21.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-06,0: All Days (M-Su),2: Peak AM (6am-10am),85,15,19.962,0.771,6.000,9.000,21.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-06,0: All Days (M-Su),3: Mid-Day (10am-3pm),162,15,19.962,0.741,7.000,10.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-06,0: All Days (M-Su),4: Peak PM (3pm-7pm),164,15,19.962,0.738,7.000,9.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-06,0: All Days (M-Su),5: Late PM (7pm-12am),123,15,19.962,0.730,7.000,9.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-06,1: Weekday (M-Th),0: All Day (12am-12am),585,15,19.962,0.741,7.000,10.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-06,1: Weekday (M-Th),1: Early AM (12am-6am),37,17,19.962,0.835,11.000,12.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-06,1: Weekday (M-Th),2: Peak AM (6am-10am),94,15,19.962,0.772,7.000,10.000,20.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-06,1: Weekday (M-Th),3: Mid-Day (10am-3pm),168,15,19.962,0.734,7.000,10.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-06,1: Weekday (M-Th),4: Peak PM (3pm-7pm),168,14,19.962,0.724,7.000,9.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-06,1: Weekday (M-Th),5: Late PM (7pm-12am),119,14,19.962,0.722,6.000,9.000,19.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-06,2: Weekend (Sa-Su),0: All Day (12am-12am),549,15,19.962,0.760,7.000,10.000,20.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-06,2: Weekend (Sa-Su),1: Early AM (12am-6am),43,16,19.962,0.812,7.000,10.000,21.000,28.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-06,2: Weekend (Sa-Su),2: Peak AM (6am-10am),57,15,19.962,0.756,7.000,11.000,20.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-06,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),149,15,19.962,0.739,7.000,10.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-06,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),159,15,19.962,0.765,7.000,10.000,20.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-06,2: Weekend (Sa-Su),5: Late PM (7pm-12am),142,15,19.962,0.760,7.000,10.000,19.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-07,0: All Days (M-Su),0: All Day (12am-12am),574,15,22.867,0.653,7.000,10.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-07,0: All Days (M-Su),1: Early AM (12am-6am),38,16,22.867,0.693,8.000,10.000,20.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-07,0: All Days (M-Su),2: Peak AM (6am-10am),73,15,22.867,0.665,6.000,10.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-07,0: All Days (M-Su),3: Mid-Day (10am-3pm),170,15,22.867,0.656,7.000,10.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-07,0: All Days (M-Su),4: Peak PM (3pm-7pm),150,15,22.867,0.643,7.000,10.000,19.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-07,0: All Days (M-Su),5: Late PM (7pm-12am),143,15,22.867,0.645,7.000,9.000,19.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-07,1: Weekday (M-Th),0: All Day (12am-12am),576,15,22.867,0.663,7.000,10.000,19.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-07,1: Weekday (M-Th),1: Early AM (12am-6am),35,16,22.867,0.719,8.000,10.000,21.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-07,1: Weekday (M-Th),2: Peak AM (6am-10am),82,15,22.867,0.670,8.000,11.000,19.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-07,1: Weekday (M-Th),3: Mid-Day (10am-3pm),164,15,22.867,0.668,6.000,10.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-07,1: Weekday (M-Th),4: Peak PM (3pm-7pm),153,15,22.867,0.645,7.000,10.000,20.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-07,1: Weekday (M-Th),5: Late PM (7pm-12am),142,15,22.867,0.659,6.000,9.000,19.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-07,2: Weekend (Sa-Su),0: All Day (12am-12am),538,15,22.867,0.637,6.000,9.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-07,2: Weekend (Sa-Su),1: Early AM (12am-6am),47,15,22.867,0.650,9.000,10.000,19.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-07,2: Weekend (Sa-Su),2: Peak AM (6am-10am),52,15,22.867,0.650,5.000,9.000,20.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-07,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),177,14,22.867,0.633,7.000,9.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-07,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),135,15,22.867,0.651,6.000,10.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-07,2: Weekend (Sa-Su),5: Late PM (7pm-12am),127,14,22.867,0.618,5.000,9.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-08,0: All Days (M-Su),0: All Day (12am-12am),542,15,19.998,0.743,7.000,10.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-08,0: All Days (M-Su),1: Early AM (12am-6am),36,15,19.998,0.758,8.000,10.000,20.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-08,0: All Days (M-Su),2: Peak AM (6am-10am),88,15,19.998,0.746,7.000,9.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-08,0: All Days (M-Su),3: Mid-Day (10am-3pm),154,15,19.998,0.755,7.000,10.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-08,0: All Days (M-Su),4: Peak PM (3pm-7pm),148,14,19.998,0.723,6.000,9.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-08,0: All Days (M-Su),5: Late PM (7pm-12am),116,15,19.998,0.743,7.000,10.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-08,1: Weekday (M-Th),0: All Day (12am-12am),535,15,19.998,0.738,6.000,10.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-08,1: Weekday (M-Th),1: Early AM (12am-6am),32,15,19.998,0.756,8.000,10.000,20.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-08,1: Weekday (M-Th),2: Peak AM (6am-10am),100,15,19.998,0.738,6.000,9.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-08,1: Weekday (M-Th),3: Mid-Day (10am-3pm),146,15,19.998,0.752,6.000,10.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-08,1: Weekday (M-Th),4: Peak PM (3pm-7pm),148,15,19.998,0.727,6.000,9.000,19.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-08,1: Weekday (M-Th),5: Late PM (7pm-12am),110,15,19.998,0.729,7.000,9.000,19.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-08,2: Weekend (Sa-Su),0: All Day (12am-12am),506,15,19.998,0.745,8.000,10.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-08,2: Weekend (Sa-Su),1: Early AM (12am-6am),39,14,19.998,0.717,8.000,9.000,18.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-08,2: Weekend (Sa-Su),2: Peak AM (6am-10am),53,14,19.998,0.713,7.000,9.000,19.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-08,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),166,15,19.998,0.762,8.000,10.000,20.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-08,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),136,15,19.998,0.726,7.000,10.000,19.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-08,2: Weekend (Sa-Su),5: Late PM (7pm-12am),112,15,19.998,0.768,8.000,11.000,20.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-09,0: All Days (M-Su),0: All Day (12am-12am),565,15,20.359,0.719,7.000,9.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-09,0: All Days (M-Su),1: Early AM (12am-6am),42,15,20.359,0.751,7.000,10.000,20.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-09,0: All Days (M-Su),2: Peak AM (6am-10am),110,15,20.359,0.725,5.000,9.000,19.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-09,0: All Days (M-Su),3: Mid-Day (10am-3pm),149,15,20.359,0.722,7.000,10.000,19.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-09,0: All Days (M-Su),4: Peak PM (3pm-7pm),150,14,20.359,0.710,6.000,9.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-09,0: All Days (M-Su),5: Late PM (7pm-12am),114,14,20.359,0.712,7.000,9.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-09,1: Weekday (M-Th),0: All Day (12am-12am),570,15,20.359,0.716,6.000,9.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-09,1: Weekday (M-Th),1: Early AM (12am-6am),39,16,20.359,0.772,8.000,10.000,21.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-09,1: Weekday (M-Th),2: Peak AM (6am-10am),134,14,20.359,0.708,5.000,8.000,19.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-09,1: Weekday (M-Th),3: Mid-Day (10am-3pm),140,15,20.359,0.714,6.000,10.000,19.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-09,1: Weekday (M-Th),4: Peak PM (3pm-7pm),155,15,20.359,0.715,6.000,9.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-09,1: Weekday (M-Th),5: Late PM (7pm-12am),102,14,20.359,0.708,7.000,10.000,19.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-09,2: Weekend (Sa-Su),0: All Day (12am-12am),540,15,20.359,0.717,7.000,10.000,19.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-09,2: Weekend (Sa-Su),1: Early AM (12am-6am),44,15,20.359,0.713,7.000,10.000,20.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-09,2: Weekend (Sa-Su),2: Peak AM (6am-10am),55,15,20.359,0.737,8.000,10.000,20.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-09,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),169,15,20.359,0.727,7.000,10.000,19.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-09,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),151,14,20.359,0.698,7.000,9.000,19.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-09,2: Weekend (Sa-Su),5: Late PM (7pm-12am),120,15,20.359,0.718,7.000,10.000,20.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-10,0: All Days (M-Su),0: All Day (12am-12am),559,15,19.627,0.766,7.000,10.000,20.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-10,0: All Days (M-Su),1: Early AM (12am-6am),37,16,19.627,0.827,8.000,12.000,21.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-10,0: All Days (M-Su),2: Peak AM (6am-10am),110,15,19.627,0.760,6.000,9.000,20.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-10,0: All Days (M-Su),3: Mid-Day (10am-3pm),153,15,19.627,0.773,7.000,10.000,20.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-10,0: All Days (M-Su),4: Peak PM (3pm-7pm),158,15,19.627,0.756,7.000,10.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-10,0: All Days (M-Su),5: Late PM (7pm-12am),101,15,19.627,0.753,6.000,10.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-10,1: Weekday (M-Th),0: All Day (12am-12am),567,15,19.627,0.757,7.000,9.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-10,1: Weekday (M-Th),1: Early AM (12am-6am),30,17,19.627,0.849,7.000,11.000,22.000,28.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-10,1: Weekday (M-Th),2: Peak AM (6am-10am),139,15,19.627,0.752,6.000,9.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-10,1: Weekday (M-Th),3: Mid-Day (10am-3pm),145,15,19.627,0.760,7.000,10.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-10,1: Weekday (M-Th),4: Peak PM (3pm-7pm),164,15,19.627,0.742,7.000,9.000,19.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-10,1: Weekday (M-Th),5: Late PM (7pm-12am),89,15,19.627,0.753,6.000,10.000,20.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-10,2: Weekend (Sa-Su),0: All Day (12am-12am),515,15,19.627,0.781,7.000,10.000,20.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-10,2: Weekend (Sa-Su),1: Early AM (12am-6am),50,16,19.627,0.807,8.000,12.000,20.000,29.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-10,2: Weekend (Sa-Su),2: Peak AM (6am-10am),52,15,19.627,0.790,7.000,10.000,21.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-10,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),164,15,19.627,0.786,7.000,10.000,20.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-10,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),145,15,19.627,0.767,7.000,10.000,20.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-10,2: Weekend (Sa-Su),5: Late PM (7pm-12am),104,15,19.627,0.774,7.000,10.000,19.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-11,0: All Days (M-Su),0: All Day (12am-12am),544,15,23.297,0.651,7.000,10.000,20.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-11,0: All Days (M-Su),1: Early AM (12am-6am),28,16,23.297,0.676,6.000,10.000,20.000,31.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-11,0: All Days (M-Su),2: Peak AM (6am-10am),106,15,23.297,0.659,6.000,9.000,21.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-11,0: All Days (M-Su),3: Mid-Day (10am-3pm),159,15,23.297,0.646,7.000,10.000,20.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-11,0: All Days (M-Su),4: Peak PM (3pm-7pm),152,15,23.297,0.653,7.000,10.000,20.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-11,0: All Days (M-Su),5: Late PM (7pm-12am),99,15,23.297,0.641,7.000,10.000,19.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-11,1: Weekday (M-Th),0: All Day (12am-12am),553,15,23.297,0.656,7.000,10.000,20.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-11,1: Weekday (M-Th),1: Early AM (12am-6am),26,17,23.297,0.709,9.000,13.000,21.000,34.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-11,1: Weekday (M-Th),2: Peak AM (6am-10am),127,16,23.297,0.666,6.000,9.000,21.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-11,1: Weekday (M-Th),3: Mid-Day (10am-3pm),160,15,23.297,0.644,7.000,9.000,20.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-11,1: Weekday (M-Th),4: Peak PM (3pm-7pm),150,15,23.297,0.660,7.000,10.000,20.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-11,1: Weekday (M-Th),5: Late PM (7pm-12am),90,15,23.297,0.643,7.000,10.000,19.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-11,2: Weekend (Sa-Su),0: All Day (12am-12am),509,15,23.297,0.639,7.000,9.000,19.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-11,2: Weekend (Sa-Su),1: Early AM (12am-6am),32,14,23.297,0.622,6.000,6.000,19.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-11,2: Weekend (Sa-Su),2: Peak AM (6am-10am),57,15,23.297,0.635,6.000,9.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-11,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),162,15,23.297,0.643,6.000,10.000,19.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-11,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),146,15,23.297,0.641,8.000,10.000,19.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-11,2: Weekend (Sa-Su),5: Late PM (7pm-12am),112,15,23.297,0.635,7.000,10.000,19.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-12,0: All Days (M-Su),0: All Day (12am-12am),501,15,24.697,0.601,7.000,9.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-12,0: All Days (M-Su),1: Early AM (12am-6am),31,17,24.697,0.674,7.000,11.000,20.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-12,0: All Days (M-Su),2: Peak AM (6am-10am),80,15,24.697,0.607,6.000,9.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-12,0: All Days (M-Su),3: Mid-Day (10am-3pm),158,15,24.697,0.606,7.000,10.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-12,0: All Days (M-Su),4: Peak PM (3pm-7pm),136,14,24.697,0.574,6.000,9.000,19.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-12,0: All Days (M-Su),5: Late PM (7pm-12am),96,15,24.697,0.605,7.000,10.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-12,1: Weekday (M-Th),0: All Day (12am-12am),494,15,24.697,0.597,6.000,9.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-12,1: Weekday (M-Th),1: Early AM (12am-6am),30,16,24.697,0.646,4.000,8.000,21.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-12,1: Weekday (M-Th),2: Peak AM (6am-10am),92,15,24.697,0.617,6.000,9.000,20.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-12,1: Weekday (M-Th),3: Mid-Day (10am-3pm),146,15,24.697,0.594,6.000,9.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-12,1: Weekday (M-Th),4: Peak PM (3pm-7pm),140,14,24.697,0.576,6.000,9.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-12,1: Weekday (M-Th),5: Late PM (7pm-12am),87,15,24.697,0.600,7.000,10.000,19.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-12,2: Weekend (Sa-Su),0: All Day (12am-12am),473,15,24.697,0.600,7.000,9.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-12,2: Weekend (Sa-Su),1: Early AM (12am-6am),33,17,24.697,0.700,7.000,12.000,24.000,30.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-12,2: Weekend (Sa-Su),2: Peak AM (6am-10am),51,15,24.697,0.597,8.000,10.000,19.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-12,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),174,15,24.697,0.611,7.000,10.000,20.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-12,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),115,14,24.697,0.558,6.000,8.000,18.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2023-12,2: Weekend (Sa-Su),5: Late PM (7pm-12am),99,15,24.697,0.597,7.000,10.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2024-01,0: All Days (M-Su),0: All Day (12am-12am),527,15,19.195,0.771,6.000,9.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2024-01,0: All Days (M-Su),1: Early AM (12am-6am),28,16,19.195,0.818,7.000,10.000,20.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2024-01,0: All Days (M-Su),2: Peak AM (6am-10am),97,15,19.195,0.773,6.000,9.000,20.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2024-01,0: All Days (M-Su),3: Mid-Day (10am-3pm),155,15,19.195,0.777,6.000,10.000,20.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2024-01,0: All Days (M-Su),4: Peak PM (3pm-7pm),158,14,19.195,0.751,6.000,9.000,19.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2024-01,0: All Days (M-Su),5: Late PM (7pm-12am),88,15,19.195,0.778,7.000,10.000,20.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2024-01,1: Weekday (M-Th),0: All Day (12am-12am),547,15,19.195,0.768,6.000,9.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2024-01,1: Weekday (M-Th),1: Early AM (12am-6am),27,16,19.195,0.816,6.000,9.000,21.000,31.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2024-01,1: Weekday (M-Th),2: Peak AM (6am-10am),112,15,19.195,0.770,6.000,9.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2024-01,1: Weekday (M-Th),3: Mid-Day (10am-3pm),161,15,19.195,0.776,6.000,10.000,20.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2024-01,1: Weekday (M-Th),4: Peak PM (3pm-7pm),162,14,19.195,0.754,6.000,9.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2024-01,1: Weekday (M-Th),5: Late PM (7pm-12am),85,15,19.195,0.760,7.000,9.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2024-01,2: Weekend (Sa-Su),0: All Day (12am-12am),441,15,19.195,0.786,7.000,10.000,20.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2024-01,2: Weekend (Sa-Su),1: Early AM (12am-6am),32,16,19.195,0.830,8.000,11.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2024-01,2: Weekend (Sa-Su),2: Peak AM (6am-10am),47,15,19.195,0.790,3.000,8.000,21.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2024-01,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),130,15,19.195,0.789,6.000,9.000,20.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2024-01,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),139,14,19.195,0.748,6.000,10.000,18.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2024-01,2: Weekend (Sa-Su),5: Late PM (7pm-12am),92,16,19.195,0.820,8.000,10.000,21.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2024-02,0: All Days (M-Su),0: All Day (12am-12am),586,15,18.687,0.789,6.000,9.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2024-02,0: All Days (M-Su),1: Early AM (12am-6am),27,15,18.687,0.825,7.000,10.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2024-02,0: All Days (M-Su),2: Peak AM (6am-10am),114,15,18.687,0.814,6.000,9.000,20.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2024-02,0: All Days (M-Su),3: Mid-Day (10am-3pm),166,15,18.687,0.799,7.000,10.000,19.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2024-02,0: All Days (M-Su),4: Peak PM (3pm-7pm),175,14,18.687,0.768,6.000,9.000,19.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2024-02,0: All Days (M-Su),5: Late PM (7pm-12am),103,14,18.687,0.770,6.000,9.000,19.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2024-02,1: Weekday (M-Th),0: All Day (12am-12am),608,15,18.687,0.790,7.000,9.000,19.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2024-02,1: Weekday (M-Th),1: Early AM (12am-6am),26,16,18.687,0.856,8.000,11.000,23.000,28.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2024-02,1: Weekday (M-Th),2: Peak AM (6am-10am),137,15,18.687,0.808,6.000,9.000,19.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2024-02,1: Weekday (M-Th),3: Mid-Day (10am-3pm),161,15,18.687,0.793,7.000,10.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2024-02,1: Weekday (M-Th),4: Peak PM (3pm-7pm),186,14,18.687,0.773,6.000,9.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2024-02,1: Weekday (M-Th),5: Late PM (7pm-12am),97,14,18.687,0.774,7.000,10.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2024-02,2: Weekend (Sa-Su),0: All Day (12am-12am),492,15,18.687,0.785,7.000,9.000,19.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2024-02,2: Weekend (Sa-Su),1: Early AM (12am-6am),31,15,18.687,0.815,6.000,10.000,21.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2024-02,2: Weekend (Sa-Su),2: Peak AM (6am-10am),52,16,18.687,0.854,8.000,9.000,20.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2024-02,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),164,15,18.687,0.800,7.000,10.000,19.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2024-02,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),144,14,18.687,0.750,6.000,9.000,19.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2024-02,2: Weekend (Sa-Su),5: Late PM (7pm-12am),101,14,18.687,0.764,7.000,9.000,19.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2024-03,0: All Days (M-Su),0: All Day (12am-12am),573,15,18.328,0.804,6.000,9.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2024-03,0: All Days (M-Su),1: Early AM (12am-6am),29,16,18.328,0.851,7.000,10.000,20.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2024-03,0: All Days (M-Su),2: Peak AM (6am-10am),102,15,18.328,0.809,5.000,9.000,20.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2024-03,0: All Days (M-Su),3: Mid-Day (10am-3pm),165,15,18.328,0.806,6.000,9.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2024-03,0: All Days (M-Su),4: Peak PM (3pm-7pm),163,15,18.328,0.794,7.000,9.000,19.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2024-03,0: All Days (M-Su),5: Late PM (7pm-12am),113,15,18.328,0.798,6.000,9.000,20.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2024-03,1: Weekday (M-Th),0: All Day (12am-12am),589,15,18.328,0.798,6.000,9.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2024-03,1: Weekday (M-Th),1: Early AM (12am-6am),25,16,18.328,0.856,4.000,11.000,20.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2024-03,1: Weekday (M-Th),2: Peak AM (6am-10am),125,15,18.328,0.808,5.000,9.000,20.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2024-03,1: Weekday (M-Th),3: Mid-Day (10am-3pm),167,15,18.328,0.808,7.000,10.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2024-03,1: Weekday (M-Th),4: Peak PM (3pm-7pm),166,14,18.328,0.778,7.000,9.000,18.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2024-03,1: Weekday (M-Th),5: Late PM (7pm-12am),106,14,18.328,0.790,6.000,9.000,19.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2024-03,2: Weekend (Sa-Su),0: All Day (12am-12am),490,15,18.328,0.809,7.000,9.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2024-03,2: Weekend (Sa-Su),1: Early AM (12am-6am),34,16,18.328,0.846,7.000,10.000,20.000,28.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2024-03,2: Weekend (Sa-Su),2: Peak AM (6am-10am),51,15,18.328,0.804,6.000,9.000,20.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2024-03,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),165,15,18.328,0.807,6.000,9.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2024-03,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),139,15,18.328,0.805,7.000,10.000,19.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2024-03,2: Weekend (Sa-Su),5: Late PM (7pm-12am),100,15,18.328,0.810,6.000,9.000,20.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2024-04,0: All Days (M-Su),0: All Day (12am-12am),557,15,17.198,0.857,6.000,9.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2024-04,0: All Days (M-Su),1: Early AM (12am-6am),27,15,17.198,0.872,3.000,9.000,21.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2024-04,0: All Days (M-Su),2: Peak AM (6am-10am),93,15,17.198,0.877,7.000,10.000,20.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2024-04,0: All Days (M-Su),3: Mid-Day (10am-3pm),155,15,17.198,0.864,7.000,10.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2024-04,0: All Days (M-Su),4: Peak PM (3pm-7pm),168,15,17.198,0.844,6.000,9.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2024-04,0: All Days (M-Su),5: Late PM (7pm-12am),114,15,17.198,0.849,6.000,9.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2024-04,1: Weekday (M-Th),0: All Day (12am-12am),556,15,17.198,0.856,6.000,9.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2024-04,1: Weekday (M-Th),1: Early AM (12am-6am),18,14,17.198,0.833,4.000,6.000,20.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2024-04,1: Weekday (M-Th),2: Peak AM (6am-10am),110,15,17.198,0.872,7.000,10.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2024-04,1: Weekday (M-Th),3: Mid-Day (10am-3pm),161,15,17.198,0.864,7.000,9.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2024-04,1: Weekday (M-Th),4: Peak PM (3pm-7pm),160,14,17.198,0.837,6.000,9.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2024-04,1: Weekday (M-Th),5: Late PM (7pm-12am),107,15,17.198,0.861,7.000,10.000,19.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2024-04,2: Weekend (Sa-Su),0: All Day (12am-12am),522,15,17.198,0.852,6.000,9.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2024-04,2: Weekend (Sa-Su),1: Early AM (12am-6am),41,16,17.198,0.906,2.000,10.000,21.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2024-04,2: Weekend (Sa-Su),2: Peak AM (6am-10am),48,15,17.198,0.884,7.000,10.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2024-04,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),150,15,17.198,0.867,7.000,10.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2024-04,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),158,15,17.198,0.844,6.000,9.000,19.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2024-04,2: Weekend (Sa-Su),5: Late PM (7pm-12am),125,14,17.198,0.812,6.000,9.000,19.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2024-05,0: All Days (M-Su),0: All Day (12am-12am),584,14,18.776,0.771,6.000,9.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2024-05,0: All Days (M-Su),1: Early AM (12am-6am),26,15,18.776,0.783,6.000,10.000,20.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2024-05,0: All Days (M-Su),2: Peak AM (6am-10am),108,15,18.776,0.797,6.000,10.000,19.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2024-05,0: All Days (M-Su),3: Mid-Day (10am-3pm),164,14,18.776,0.752,6.000,9.000,19.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2024-05,0: All Days (M-Su),4: Peak PM (3pm-7pm),171,14,18.776,0.757,6.000,9.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2024-05,0: All Days (M-Su),5: Late PM (7pm-12am),114,15,18.776,0.791,7.000,10.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2024-05,1: Weekday (M-Th),0: All Day (12am-12am),612,14,18.776,0.771,6.000,9.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2024-05,1: Weekday (M-Th),1: Early AM (12am-6am),25,14,18.776,0.753,5.000,9.000,21.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2024-05,1: Weekday (M-Th),2: Peak AM (6am-10am),122,15,18.776,0.804,5.000,9.000,20.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2024-05,1: Weekday (M-Th),3: Mid-Day (10am-3pm),166,14,18.776,0.753,6.000,9.000,19.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2024-05,1: Weekday (M-Th),4: Peak PM (3pm-7pm),189,14,18.776,0.752,5.000,9.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2024-05,1: Weekday (M-Th),5: Late PM (7pm-12am),110,15,18.776,0.798,7.000,10.000,20.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2024-05,2: Weekend (Sa-Su),0: All Day (12am-12am),495,15,18.776,0.782,6.000,10.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2024-05,2: Weekend (Sa-Su),1: Early AM (12am-6am),33,15,18.776,0.817,10.000,11.000,20.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2024-05,2: Weekend (Sa-Su),2: Peak AM (6am-10am),64,15,18.776,0.791,8.000,11.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2024-05,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),150,14,18.776,0.748,6.000,9.000,18.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2024-05,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),131,15,18.776,0.779,6.000,9.000,20.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue,yes,356,yes,2024-05,2: Weekend (Sa-Su),5: Late PM (7pm-12am),116,15,18.776,0.815,7.000,10.000,19.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-06,0: All Days (M-Su),0: All Day (12am-12am),455,17,26.558,0.634,8.000,12.000,22.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-06,0: All Days (M-Su),1: Early AM (12am-6am),25,18,26.558,0.682,13.000,14.000,23.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-06,0: All Days (M-Su),2: Peak AM (6am-10am),60,17,26.558,0.640,9.000,12.000,23.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-06,0: All Days (M-Su),3: Mid-Day (10am-3pm),135,17,26.558,0.637,8.000,12.000,22.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-06,0: All Days (M-Su),4: Peak PM (3pm-7pm),131,17,26.558,0.637,8.000,11.000,22.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-06,0: All Days (M-Su),5: Late PM (7pm-12am),104,16,26.558,0.613,8.000,11.000,22.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-06,1: Weekday (M-Th),0: All Day (12am-12am),480,17,26.558,0.633,8.000,11.000,22.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-06,1: Weekday (M-Th),1: Early AM (12am-6am),23,18,26.558,0.672,3.000,14.000,22.000,29.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-06,1: Weekday (M-Th),2: Peak AM (6am-10am),68,16,26.558,0.616,8.000,11.000,22.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-06,1: Weekday (M-Th),3: Mid-Day (10am-3pm),144,17,26.558,0.638,7.000,12.000,22.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-06,1: Weekday (M-Th),4: Peak PM (3pm-7pm),136,17,26.558,0.648,8.000,12.000,23.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-06,1: Weekday (M-Th),5: Late PM (7pm-12am),108,16,26.558,0.609,8.000,11.000,21.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-06,2: Weekend (Sa-Su),0: All Day (12am-12am),415,17,26.558,0.634,9.000,12.000,22.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-06,2: Weekend (Sa-Su),1: Early AM (12am-6am),28,19,26.558,0.704,13.000,13.000,25.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-06,2: Weekend (Sa-Su),2: Peak AM (6am-10am),35,17,26.558,0.636,10.000,12.000,21.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-06,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),116,17,26.558,0.649,9.000,12.000,22.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-06,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),126,16,26.558,0.614,8.000,11.000,22.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-06,2: Weekend (Sa-Su),5: Late PM (7pm-12am),109,17,26.558,0.622,7.000,11.000,23.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-07,0: All Days (M-Su),0: All Day (12am-12am),456,17,30.727,0.546,7.000,11.000,22.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-07,0: All Days (M-Su),1: Early AM (12am-6am),29,18,30.727,0.582,7.000,12.000,22.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-07,0: All Days (M-Su),2: Peak AM (6am-10am),51,16,30.727,0.530,5.000,10.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-07,0: All Days (M-Su),3: Mid-Day (10am-3pm),133,17,30.727,0.544,7.000,11.000,22.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-07,0: All Days (M-Su),4: Peak PM (3pm-7pm),120,17,30.727,0.546,7.000,11.000,22.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-07,0: All Days (M-Su),5: Late PM (7pm-12am),122,17,30.727,0.546,7.000,11.000,21.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-07,1: Weekday (M-Th),0: All Day (12am-12am),463,17,30.727,0.546,7.000,11.000,22.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-07,1: Weekday (M-Th),1: Early AM (12am-6am),25,17,30.727,0.565,8.000,12.000,22.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-07,1: Weekday (M-Th),2: Peak AM (6am-10am),55,16,30.727,0.534,5.000,10.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-07,1: Weekday (M-Th),3: Mid-Day (10am-3pm),136,17,30.727,0.548,8.000,11.000,22.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-07,1: Weekday (M-Th),4: Peak PM (3pm-7pm),124,17,30.727,0.548,7.000,11.000,22.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-07,1: Weekday (M-Th),5: Late PM (7pm-12am),123,17,30.727,0.544,6.000,11.000,22.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-07,2: Weekend (Sa-Su),0: All Day (12am-12am),401,17,30.727,0.540,7.000,11.000,22.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-07,2: Weekend (Sa-Su),1: Early AM (12am-6am),35,17,30.727,0.560,7.000,12.000,22.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-07,2: Weekend (Sa-Su),2: Peak AM (6am-10am),38,16,30.727,0.510,5.000,12.000,21.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-07,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),123,17,30.727,0.540,7.000,11.000,22.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-07,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),107,17,30.727,0.545,7.000,11.000,22.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-07,2: Weekend (Sa-Su),5: Late PM (7pm-12am),98,17,30.727,0.538,7.000,12.000,22.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-08,0: All Days (M-Su),0: All Day (12am-12am),434,16,22.957,0.713,7.000,11.000,22.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-08,0: All Days (M-Su),1: Early AM (12am-6am),25,17,22.957,0.719,9.000,12.000,22.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-08,0: All Days (M-Su),2: Peak AM (6am-10am),67,16,22.957,0.711,7.000,11.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-08,0: All Days (M-Su),3: Mid-Day (10am-3pm),130,17,22.957,0.726,7.000,11.000,22.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-08,0: All Days (M-Su),4: Peak PM (3pm-7pm),121,16,22.957,0.714,7.000,11.000,22.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-08,0: All Days (M-Su),5: Late PM (7pm-12am),90,16,22.957,0.690,7.000,11.000,21.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-08,1: Weekday (M-Th),0: All Day (12am-12am),435,16,22.957,0.704,7.000,11.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-08,1: Weekday (M-Th),1: Early AM (12am-6am),21,16,22.957,0.698,4.000,11.000,21.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-08,1: Weekday (M-Th),2: Peak AM (6am-10am),78,16,22.957,0.688,6.000,10.000,21.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-08,1: Weekday (M-Th),3: Mid-Day (10am-3pm),124,17,22.957,0.723,6.000,11.000,22.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-08,1: Weekday (M-Th),4: Peak PM (3pm-7pm),123,16,22.957,0.711,7.000,11.000,22.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-08,1: Weekday (M-Th),5: Late PM (7pm-12am),89,16,22.957,0.683,7.000,11.000,20.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-08,2: Weekend (Sa-Su),0: All Day (12am-12am),400,17,22.957,0.726,8.000,12.000,22.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-08,2: Weekend (Sa-Su),1: Early AM (12am-6am),30,17,22.957,0.735,11.000,12.000,21.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-08,2: Weekend (Sa-Su),2: Peak AM (6am-10am),37,17,22.957,0.727,11.000,13.000,21.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-08,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),143,17,22.957,0.736,9.000,12.000,22.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-08,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),110,16,22.957,0.718,7.000,11.000,22.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-08,2: Weekend (Sa-Su),5: Late PM (7pm-12am),80,16,22.957,0.717,9.000,12.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-09,0: All Days (M-Su),0: All Day (12am-12am),438,16,21.275,0.773,7.000,11.000,22.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-09,0: All Days (M-Su),1: Early AM (12am-6am),29,16,21.275,0.739,7.000,10.000,19.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-09,0: All Days (M-Su),2: Peak AM (6am-10am),76,16,21.275,0.743,5.000,10.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-09,0: All Days (M-Su),3: Mid-Day (10am-3pm),122,17,21.275,0.798,7.000,12.000,22.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-09,0: All Days (M-Su),4: Peak PM (3pm-7pm),121,17,21.275,0.787,8.000,12.000,22.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-09,0: All Days (M-Su),5: Late PM (7pm-12am),90,16,21.275,0.757,7.000,11.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-09,1: Weekday (M-Th),0: All Day (12am-12am),455,16,21.275,0.762,7.000,11.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-09,1: Weekday (M-Th),1: Early AM (12am-6am),27,16,21.275,0.732,10.000,11.000,19.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-09,1: Weekday (M-Th),2: Peak AM (6am-10am),96,15,21.275,0.727,4.000,10.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-09,1: Weekday (M-Th),3: Mid-Day (10am-3pm),119,17,21.275,0.780,6.000,12.000,22.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-09,1: Weekday (M-Th),4: Peak PM (3pm-7pm),130,17,21.275,0.785,8.000,12.000,22.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-09,1: Weekday (M-Th),5: Late PM (7pm-12am),83,16,21.275,0.750,7.000,10.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-09,2: Weekend (Sa-Su),0: All Day (12am-12am),407,17,21.275,0.784,7.000,11.000,22.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-09,2: Weekend (Sa-Su),1: Early AM (12am-6am),30,16,21.275,0.771,7.000,9.000,19.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-09,2: Weekend (Sa-Su),2: Peak AM (6am-10am),35,16,21.275,0.771,3.000,13.000,20.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-09,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),128,17,21.275,0.814,7.000,12.000,23.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-09,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),121,17,21.275,0.781,7.000,11.000,23.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-09,2: Weekend (Sa-Su),5: Late PM (7pm-12am),93,16,21.275,0.757,9.000,11.000,21.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-10,0: All Days (M-Su),0: All Day (12am-12am),428,17,21.431,0.771,7.000,11.000,22.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-10,0: All Days (M-Su),1: Early AM (12am-6am),24,18,21.431,0.826,9.000,12.000,24.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-10,0: All Days (M-Su),2: Peak AM (6am-10am),79,16,21.431,0.769,7.000,10.000,22.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-10,0: All Days (M-Su),3: Mid-Day (10am-3pm),122,17,21.431,0.790,7.000,11.000,22.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-10,0: All Days (M-Su),4: Peak PM (3pm-7pm),119,16,21.431,0.760,7.000,11.000,21.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-10,0: All Days (M-Su),5: Late PM (7pm-12am),84,16,21.431,0.748,6.000,11.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-10,1: Weekday (M-Th),0: All Day (12am-12am),436,16,21.431,0.759,6.000,10.000,22.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-10,1: Weekday (M-Th),1: Early AM (12am-6am),20,17,21.431,0.798,4.000,9.000,23.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-10,1: Weekday (M-Th),2: Peak AM (6am-10am),101,16,21.431,0.765,7.000,10.000,22.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-10,1: Weekday (M-Th),3: Mid-Day (10am-3pm),116,17,21.431,0.770,7.000,10.000,22.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-10,1: Weekday (M-Th),4: Peak PM (3pm-7pm),129,16,21.431,0.754,7.000,11.000,21.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-10,1: Weekday (M-Th),5: Late PM (7pm-12am),71,16,21.431,0.732,5.000,10.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-10,2: Weekend (Sa-Su),0: All Day (12am-12am),390,17,21.431,0.797,8.000,11.000,22.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-10,2: Weekend (Sa-Su),1: Early AM (12am-6am),32,18,21.431,0.843,10.000,12.000,24.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-10,2: Weekend (Sa-Su),2: Peak AM (6am-10am),37,17,21.431,0.813,6.000,11.000,22.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-10,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),128,18,21.431,0.820,9.000,12.000,23.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-10,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),96,17,21.431,0.776,9.000,11.000,22.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-10,2: Weekend (Sa-Su),5: Late PM (7pm-12am),98,16,21.431,0.768,7.000,12.000,22.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-11,0: All Days (M-Su),0: All Day (12am-12am),424,16,21.219,0.772,6.000,11.000,22.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-11,0: All Days (M-Su),1: Early AM (12am-6am),23,17,21.219,0.788,9.000,13.000,20.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-11,0: All Days (M-Su),2: Peak AM (6am-10am),79,16,21.219,0.760,6.000,10.000,22.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-11,0: All Days (M-Su),3: Mid-Day (10am-3pm),130,17,21.219,0.782,7.000,11.000,22.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-11,0: All Days (M-Su),4: Peak PM (3pm-7pm),114,16,21.219,0.768,7.000,11.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-11,0: All Days (M-Su),5: Late PM (7pm-12am),77,16,21.219,0.766,6.000,11.000,21.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-11,1: Weekday (M-Th),0: All Day (12am-12am),444,16,21.219,0.774,7.000,11.000,22.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-11,1: Weekday (M-Th),1: Early AM (12am-6am),20,17,21.219,0.816,10.000,13.000,20.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-11,1: Weekday (M-Th),2: Peak AM (6am-10am),93,16,21.219,0.753,6.000,9.000,23.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-11,1: Weekday (M-Th),3: Mid-Day (10am-3pm),138,17,21.219,0.784,7.000,11.000,22.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-11,1: Weekday (M-Th),4: Peak PM (3pm-7pm),122,16,21.219,0.774,7.000,11.000,21.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-11,1: Weekday (M-Th),5: Late PM (7pm-12am),73,16,21.219,0.767,6.000,10.000,21.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-11,2: Weekend (Sa-Su),0: All Day (12am-12am),384,16,21.219,0.773,7.000,11.000,22.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-11,2: Weekend (Sa-Su),1: Early AM (12am-6am),29,16,21.219,0.765,6.000,13.000,19.000,29.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-11,2: Weekend (Sa-Su),2: Peak AM (6am-10am),47,17,21.219,0.781,9.000,11.000,21.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-11,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),121,16,21.219,0.773,6.000,11.000,22.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-11,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),100,16,21.219,0.771,7.000,11.000,22.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-11,2: Weekend (Sa-Su),5: Late PM (7pm-12am),88,16,21.219,0.775,8.000,12.000,22.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-12,0: All Days (M-Su),0: All Day (12am-12am),385,16,23.334,0.702,6.000,11.000,22.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-12,0: All Days (M-Su),1: Early AM (12am-6am),22,17,23.334,0.734,4.000,11.000,21.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-12,0: All Days (M-Su),2: Peak AM (6am-10am),57,17,23.334,0.711,6.000,11.000,21.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-12,0: All Days (M-Su),3: Mid-Day (10am-3pm),126,17,23.334,0.710,7.000,11.000,22.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-12,0: All Days (M-Su),4: Peak PM (3pm-7pm),109,16,23.334,0.681,6.000,10.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-12,0: All Days (M-Su),5: Late PM (7pm-12am),70,16,23.334,0.701,6.000,11.000,22.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-12,1: Weekday (M-Th),0: All Day (12am-12am),365,16,23.334,0.700,6.000,11.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-12,1: Weekday (M-Th),1: Early AM (12am-6am),20,16,23.334,0.707,6.000,11.000,23.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-12,1: Weekday (M-Th),2: Peak AM (6am-10am),65,17,23.334,0.718,6.000,11.000,21.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-12,1: Weekday (M-Th),3: Mid-Day (10am-3pm),112,16,23.334,0.706,6.000,11.000,21.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-12,1: Weekday (M-Th),4: Peak PM (3pm-7pm),107,16,23.334,0.680,5.000,10.000,21.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-12,1: Weekday (M-Th),5: Late PM (7pm-12am),60,16,23.334,0.705,6.000,11.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-12,2: Weekend (Sa-Su),0: All Day (12am-12am),378,16,23.334,0.704,7.000,11.000,22.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-12,2: Weekend (Sa-Su),1: Early AM (12am-6am),26,17,23.334,0.749,4.000,9.000,22.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-12,2: Weekend (Sa-Su),2: Peak AM (6am-10am),38,17,23.334,0.724,8.000,11.000,22.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-12,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),142,17,23.334,0.718,8.000,11.000,22.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-12,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),96,16,23.334,0.681,6.000,10.000,21.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2023-12,2: Weekend (Sa-Su),5: Late PM (7pm-12am),76,16,23.334,0.680,7.000,10.000,22.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2024-01,0: All Days (M-Su),0: All Day (12am-12am),404,16,23.796,0.682,6.000,11.000,21.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2024-01,0: All Days (M-Su),1: Early AM (12am-6am),20,16,23.796,0.672,4.000,11.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2024-01,0: All Days (M-Su),2: Peak AM (6am-10am),68,16,23.796,0.666,5.000,10.000,21.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2024-01,0: All Days (M-Su),3: Mid-Day (10am-3pm),129,16,23.796,0.678,5.000,10.000,22.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2024-01,0: All Days (M-Su),4: Peak PM (3pm-7pm),122,16,23.796,0.682,7.000,11.000,21.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2024-01,0: All Days (M-Su),5: Late PM (7pm-12am),65,17,23.796,0.709,8.000,12.000,21.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2024-01,1: Weekday (M-Th),0: All Day (12am-12am),421,16,23.796,0.678,6.000,11.000,21.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2024-01,1: Weekday (M-Th),1: Early AM (12am-6am),19,17,23.796,0.694,7.000,11.000,24.000,31.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2024-01,1: Weekday (M-Th),2: Peak AM (6am-10am),80,16,23.796,0.657,5.000,9.000,21.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2024-01,1: Weekday (M-Th),3: Mid-Day (10am-3pm),137,16,23.796,0.677,5.000,10.000,22.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2024-01,1: Weekday (M-Th),4: Peak PM (3pm-7pm),124,16,23.796,0.678,8.000,11.000,21.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2024-01,1: Weekday (M-Th),5: Late PM (7pm-12am),62,17,23.796,0.698,7.000,11.000,21.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2024-01,2: Weekend (Sa-Su),0: All Day (12am-12am),335,16,23.796,0.687,6.000,11.000,22.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2024-01,2: Weekend (Sa-Su),1: Early AM (12am-6am),24,15,23.796,0.629,4.000,10.000,19.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2024-01,2: Weekend (Sa-Su),2: Peak AM (6am-10am),33,16,23.796,0.684,5.000,10.000,21.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2024-01,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),99,16,23.796,0.664,4.000,10.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2024-01,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),106,16,23.796,0.687,6.000,11.000,22.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2024-01,2: Weekend (Sa-Su),5: Late PM (7pm-12am),72,18,23.796,0.741,10.000,12.000,22.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2024-02,0: All Days (M-Su),0: All Day (12am-12am),442,16,20.846,0.777,6.000,11.000,21.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2024-02,0: All Days (M-Su),1: Early AM (12am-6am),19,16,20.846,0.785,3.000,11.000,23.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2024-02,0: All Days (M-Su),2: Peak AM (6am-10am),83,16,20.846,0.788,6.000,11.000,22.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2024-02,0: All Days (M-Su),3: Mid-Day (10am-3pm),132,16,20.846,0.786,6.000,11.000,22.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2024-02,0: All Days (M-Su),4: Peak PM (3pm-7pm),133,16,20.846,0.761,7.000,11.000,21.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2024-02,0: All Days (M-Su),5: Late PM (7pm-12am),74,16,20.846,0.779,6.000,11.000,22.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2024-02,1: Weekday (M-Th),0: All Day (12am-12am),452,16,20.846,0.770,7.000,11.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2024-02,1: Weekday (M-Th),1: Early AM (12am-6am),18,17,20.846,0.811,9.000,13.000,23.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2024-02,1: Weekday (M-Th),2: Peak AM (6am-10am),98,16,20.846,0.785,7.000,11.000,22.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2024-02,1: Weekday (M-Th),3: Mid-Day (10am-3pm),129,16,20.846,0.764,7.000,11.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2024-02,1: Weekday (M-Th),4: Peak PM (3pm-7pm),140,16,20.846,0.762,7.000,10.000,21.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2024-02,1: Weekday (M-Th),5: Late PM (7pm-12am),68,16,20.846,0.764,5.000,10.000,22.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2024-02,2: Weekend (Sa-Su),0: All Day (12am-12am),382,17,20.846,0.793,6.000,11.000,22.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2024-02,2: Weekend (Sa-Su),1: Early AM (12am-6am),23,16,20.846,0.785,3.000,11.000,23.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2024-02,2: Weekend (Sa-Su),2: Peak AM (6am-10am),43,17,20.846,0.802,4.000,9.000,22.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2024-02,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),127,17,20.846,0.815,6.000,12.000,22.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2024-02,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),113,16,20.846,0.763,7.000,11.000,21.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2024-02,2: Weekend (Sa-Su),5: Late PM (7pm-12am),77,17,20.846,0.797,7.000,11.000,22.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2024-03,0: All Days (M-Su),0: All Day (12am-12am),437,16,19.848,0.804,6.000,11.000,21.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2024-03,0: All Days (M-Su),1: Early AM (12am-6am),18,16,19.848,0.787,7.000,12.000,21.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2024-03,0: All Days (M-Su),2: Peak AM (6am-10am),71,16,19.848,0.784,6.000,10.000,21.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2024-03,0: All Days (M-Su),3: Mid-Day (10am-3pm),127,16,19.848,0.818,5.000,11.000,22.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2024-03,0: All Days (M-Su),4: Peak PM (3pm-7pm),131,16,19.848,0.803,6.000,10.000,21.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2024-03,0: All Days (M-Su),5: Late PM (7pm-12am),89,16,19.848,0.806,7.000,11.000,21.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2024-03,1: Weekday (M-Th),0: All Day (12am-12am),441,16,19.848,0.801,6.000,10.000,21.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2024-03,1: Weekday (M-Th),1: Early AM (12am-6am),14,16,19.848,0.831,13.000,14.000,20.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2024-03,1: Weekday (M-Th),2: Peak AM (6am-10am),84,16,19.848,0.787,6.000,10.000,21.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2024-03,1: Weekday (M-Th),3: Mid-Day (10am-3pm),131,16,19.848,0.813,6.000,11.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2024-03,1: Weekday (M-Th),4: Peak PM (3pm-7pm),131,16,19.848,0.796,6.000,10.000,21.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2024-03,1: Weekday (M-Th),5: Late PM (7pm-12am),80,16,19.848,0.795,7.000,10.000,20.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2024-03,2: Weekend (Sa-Su),0: All Day (12am-12am),394,16,19.848,0.821,6.000,11.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2024-03,2: Weekend (Sa-Su),1: Early AM (12am-6am),23,16,19.848,0.783,8.000,11.000,21.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2024-03,2: Weekend (Sa-Su),2: Peak AM (6am-10am),40,16,19.848,0.804,7.000,11.000,22.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2024-03,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),122,17,19.848,0.841,5.000,11.000,22.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2024-03,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),121,16,19.848,0.812,5.000,10.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2024-03,2: Weekend (Sa-Su),5: Late PM (7pm-12am),88,16,19.848,0.826,7.000,11.000,21.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2024-04,0: All Days (M-Su),0: All Day (12am-12am),460,16,19.939,0.810,6.000,11.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2024-04,0: All Days (M-Su),1: Early AM (12am-6am),21,16,19.939,0.822,3.000,8.000,25.000,31.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2024-04,0: All Days (M-Su),2: Peak AM (6am-10am),75,16,19.939,0.799,6.000,11.000,21.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2024-04,0: All Days (M-Su),3: Mid-Day (10am-3pm),128,16,19.939,0.815,6.000,11.000,22.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2024-04,0: All Days (M-Su),4: Peak PM (3pm-7pm),140,16,19.939,0.812,6.000,11.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2024-04,0: All Days (M-Su),5: Late PM (7pm-12am),97,16,19.939,0.804,6.000,11.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2024-04,1: Weekday (M-Th),0: All Day (12am-12am),457,16,19.939,0.805,6.000,11.000,21.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2024-04,1: Weekday (M-Th),1: Early AM (12am-6am),12,16,19.939,0.802,3.000,3.000,29.000,34.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2024-04,1: Weekday (M-Th),2: Peak AM (6am-10am),87,16,19.939,0.786,5.000,10.000,21.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2024-04,1: Weekday (M-Th),3: Mid-Day (10am-3pm),130,16,19.939,0.801,6.000,10.000,21.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2024-04,1: Weekday (M-Th),4: Peak PM (3pm-7pm),138,16,19.939,0.817,6.000,11.000,22.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2024-04,1: Weekday (M-Th),5: Late PM (7pm-12am),90,16,19.939,0.812,8.000,11.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2024-04,2: Weekend (Sa-Su),0: All Day (12am-12am),441,16,19.939,0.816,6.000,11.000,22.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2024-04,2: Weekend (Sa-Su),1: Early AM (12am-6am),34,18,19.939,0.880,6.000,11.000,23.000,33.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2024-04,2: Weekend (Sa-Su),2: Peak AM (6am-10am),41,16,19.939,0.812,7.000,11.000,22.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2024-04,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),129,17,19.939,0.836,8.000,12.000,22.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2024-04,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),130,16,19.939,0.795,5.000,11.000,21.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2024-04,2: Weekend (Sa-Su),5: Late PM (7pm-12am),108,16,19.939,0.797,4.000,10.000,21.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2024-05,0: All Days (M-Su),0: All Day (12am-12am),452,16,19.775,0.815,6.000,11.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2024-05,0: All Days (M-Su),1: Early AM (12am-6am),19,16,19.775,0.787,3.000,7.000,22.000,28.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2024-05,0: All Days (M-Su),2: Peak AM (6am-10am),83,16,19.775,0.806,6.000,10.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2024-05,0: All Days (M-Su),3: Mid-Day (10am-3pm),132,16,19.775,0.812,6.000,10.000,22.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2024-05,0: All Days (M-Su),4: Peak PM (3pm-7pm),126,16,19.775,0.819,6.000,11.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2024-05,0: All Days (M-Su),5: Late PM (7pm-12am),91,16,19.775,0.829,8.000,12.000,22.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2024-05,1: Weekday (M-Th),0: All Day (12am-12am),462,16,19.775,0.821,6.000,11.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2024-05,1: Weekday (M-Th),1: Early AM (12am-6am),18,15,19.775,0.758,3.000,7.000,20.000,28.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2024-05,1: Weekday (M-Th),2: Peak AM (6am-10am),91,16,19.775,0.809,6.000,10.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2024-05,1: Weekday (M-Th),3: Mid-Day (10am-3pm),131,16,19.775,0.828,6.000,10.000,22.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2024-05,1: Weekday (M-Th),4: Peak PM (3pm-7pm),135,16,19.775,0.821,6.000,11.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2024-05,1: Weekday (M-Th),5: Late PM (7pm-12am),87,17,19.775,0.837,8.000,12.000,22.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2024-05,2: Weekend (Sa-Su),0: All Day (12am-12am),397,16,19.775,0.819,7.000,11.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2024-05,2: Weekend (Sa-Su),1: Early AM (12am-6am),26,17,19.775,0.842,3.000,12.000,22.000,30.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2024-05,2: Weekend (Sa-Su),2: Peak AM (6am-10am),53,17,19.775,0.844,8.000,12.000,22.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2024-05,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),121,16,19.775,0.790,6.000,10.000,21.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2024-05,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),107,16,19.775,0.824,5.000,10.000,22.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,North Neptune Avenue (1),yes,356,yes,2024-05,2: Weekend (Sa-Su),5: Late PM (7pm-12am),89,16,19.775,0.828,8.000,11.000,21.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-06,0: All Days (M-Su),0: All Day (12am-12am),821,16,23.834,0.691,8.000,10.000,22.000,28.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-06,0: All Days (M-Su),1: Early AM (12am-6am),34,16,23.834,0.670,2.000,10.000,24.000,32.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-06,0: All Days (M-Su),2: Peak AM (6am-10am),131,17,23.834,0.707,7.000,11.000,22.000,28.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-06,0: All Days (M-Su),3: Mid-Day (10am-3pm),237,17,23.834,0.702,8.000,10.000,22.000,29.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-06,0: All Days (M-Su),4: Peak PM (3pm-7pm),267,16,23.834,0.690,8.000,10.000,22.000,28.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-06,0: All Days (M-Su),5: Late PM (7pm-12am),152,16,23.834,0.668,8.000,10.000,21.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-06,1: Weekday (M-Th),0: All Day (12am-12am),861,16,23.834,0.690,8.000,10.000,22.000,28.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-06,1: Weekday (M-Th),1: Early AM (12am-6am),31,17,23.834,0.700,9.000,11.000,26.000,32.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-06,1: Weekday (M-Th),2: Peak AM (6am-10am),155,17,23.834,0.710,7.000,11.000,23.000,29.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-06,1: Weekday (M-Th),3: Mid-Day (10am-3pm),241,16,23.834,0.688,8.000,10.000,22.000,29.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-06,1: Weekday (M-Th),4: Peak PM (3pm-7pm),285,17,23.834,0.693,8.000,11.000,22.000,28.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-06,1: Weekday (M-Th),5: Late PM (7pm-12am),148,16,23.834,0.663,8.000,10.000,22.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-06,2: Weekend (Sa-Su),0: All Day (12am-12am),700,16,23.834,0.684,7.000,10.000,22.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-06,2: Weekend (Sa-Su),1: Early AM (12am-6am),42,15,23.834,0.618,2.000,10.000,19.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-06,2: Weekend (Sa-Su),2: Peak AM (6am-10am),61,17,23.834,0.693,3.000,8.000,21.000,28.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-06,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),218,17,23.834,0.724,8.000,10.000,23.000,28.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-06,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),207,16,23.834,0.672,7.000,10.000,21.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-06,2: Weekend (Sa-Su),5: Late PM (7pm-12am),171,16,23.834,0.662,8.000,10.000,21.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-07,0: All Days (M-Su),0: All Day (12am-12am),738,16,21.092,0.778,8.000,11.000,22.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-07,0: All Days (M-Su),1: Early AM (12am-6am),23,17,21.092,0.788,6.000,12.000,25.000,37.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-07,0: All Days (M-Su),2: Peak AM (6am-10am),109,17,21.092,0.799,8.000,11.000,22.000,29.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-07,0: All Days (M-Su),3: Mid-Day (10am-3pm),223,17,21.092,0.793,9.000,11.000,22.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-07,0: All Days (M-Su),4: Peak PM (3pm-7pm),229,16,21.092,0.763,8.000,10.000,22.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-07,0: All Days (M-Su),5: Late PM (7pm-12am),153,16,21.092,0.763,7.000,10.000,22.000,29.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-07,1: Weekday (M-Th),0: All Day (12am-12am),749,17,21.092,0.790,9.000,11.000,22.000,28.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-07,1: Weekday (M-Th),1: Early AM (12am-6am),18,17,21.092,0.787,5.000,14.000,21.000,37.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-07,1: Weekday (M-Th),2: Peak AM (6am-10am),130,17,21.092,0.820,8.000,12.000,22.000,29.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-07,1: Weekday (M-Th),3: Mid-Day (10am-3pm),222,17,21.092,0.810,9.000,11.000,22.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-07,1: Weekday (M-Th),4: Peak PM (3pm-7pm),232,16,21.092,0.770,9.000,10.000,22.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-07,1: Weekday (M-Th),5: Late PM (7pm-12am),146,16,21.092,0.767,7.000,10.000,22.000,30.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-07,2: Weekend (Sa-Su),0: All Day (12am-12am),655,16,21.092,0.756,7.000,10.000,22.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-07,2: Weekend (Sa-Su),1: Early AM (12am-6am),33,16,21.092,0.762,6.000,11.000,25.000,30.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-07,2: Weekend (Sa-Su),2: Peak AM (6am-10am),66,15,21.092,0.729,9.000,11.000,20.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-07,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),210,16,21.092,0.768,7.000,10.000,22.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-07,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),205,16,21.092,0.746,7.000,10.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-07,2: Weekend (Sa-Su),5: Late PM (7pm-12am),140,16,21.092,0.764,7.000,10.000,22.000,29.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-08,0: All Days (M-Su),0: All Day (12am-12am),786,16,20.841,0.781,8.000,10.000,22.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-08,0: All Days (M-Su),1: Early AM (12am-6am),27,17,20.841,0.830,10.000,11.000,25.000,29.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-08,0: All Days (M-Su),2: Peak AM (6am-10am),132,16,20.841,0.781,7.000,10.000,22.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-08,0: All Days (M-Su),3: Mid-Day (10am-3pm),226,17,20.841,0.797,9.000,11.000,22.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-08,0: All Days (M-Su),4: Peak PM (3pm-7pm),252,16,20.841,0.787,8.000,10.000,22.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-08,0: All Days (M-Su),5: Late PM (7pm-12am),148,15,20.841,0.737,8.000,10.000,20.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-08,1: Weekday (M-Th),0: All Day (12am-12am),805,16,20.841,0.782,8.000,10.000,22.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-08,1: Weekday (M-Th),1: Early AM (12am-6am),23,18,20.841,0.872,10.000,13.000,24.000,29.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-08,1: Weekday (M-Th),2: Peak AM (6am-10am),151,16,20.841,0.781,7.000,10.000,22.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-08,1: Weekday (M-Th),3: Mid-Day (10am-3pm),223,17,20.841,0.799,9.000,11.000,22.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-08,1: Weekday (M-Th),4: Peak PM (3pm-7pm),263,16,20.841,0.782,8.000,10.000,21.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-08,1: Weekday (M-Th),5: Late PM (7pm-12am),144,15,20.841,0.740,8.000,10.000,21.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-08,2: Weekend (Sa-Su),0: All Day (12am-12am),674,16,20.841,0.772,8.000,10.000,22.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-08,2: Weekend (Sa-Su),1: Early AM (12am-6am),38,16,20.841,0.759,7.000,10.000,27.000,35.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-08,2: Weekend (Sa-Su),2: Peak AM (6am-10am),77,16,20.841,0.759,7.000,10.000,22.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-08,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),216,16,20.841,0.776,7.000,10.000,22.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-08,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),205,17,20.841,0.800,8.000,10.000,22.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-08,2: Weekend (Sa-Su),5: Late PM (7pm-12am),138,15,20.841,0.733,9.000,10.000,19.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-09,0: All Days (M-Su),0: All Day (12am-12am),821,16,20.313,0.797,8.000,10.000,21.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-09,0: All Days (M-Su),1: Early AM (12am-6am),24,15,20.313,0.759,9.000,10.000,22.000,30.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-09,0: All Days (M-Su),2: Peak AM (6am-10am),155,16,20.313,0.807,7.000,10.000,22.000,28.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-09,0: All Days (M-Su),3: Mid-Day (10am-3pm),233,16,20.313,0.801,9.000,11.000,22.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-09,0: All Days (M-Su),4: Peak PM (3pm-7pm),275,16,20.313,0.802,8.000,10.000,22.000,28.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-09,0: All Days (M-Su),5: Late PM (7pm-12am),134,16,20.313,0.774,8.000,10.000,21.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-09,1: Weekday (M-Th),0: All Day (12am-12am),838,16,20.313,0.798,8.000,11.000,21.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-09,1: Weekday (M-Th),1: Early AM (12am-6am),20,15,20.313,0.720,9.000,12.000,21.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-09,1: Weekday (M-Th),2: Peak AM (6am-10am),192,16,20.313,0.800,7.000,10.000,22.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-09,1: Weekday (M-Th),3: Mid-Day (10am-3pm),216,16,20.313,0.805,9.000,11.000,22.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-09,1: Weekday (M-Th),4: Peak PM (3pm-7pm),292,16,20.313,0.798,8.000,10.000,22.000,28.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-09,1: Weekday (M-Th),5: Late PM (7pm-12am),118,16,20.313,0.791,8.000,11.000,21.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-09,2: Weekend (Sa-Su),0: All Day (12am-12am),723,16,20.313,0.793,9.000,11.000,21.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-09,2: Weekend (Sa-Su),1: Early AM (12am-6am),31,16,20.313,0.784,7.000,10.000,23.000,30.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-09,2: Weekend (Sa-Su),2: Peak AM (6am-10am),81,17,20.313,0.835,9.000,11.000,22.000,29.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-09,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),256,16,20.313,0.778,9.000,10.000,21.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-09,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),216,16,20.313,0.810,9.000,11.000,22.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-09,2: Weekend (Sa-Su),5: Late PM (7pm-12am),139,16,20.313,0.774,9.000,11.000,22.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-10,0: All Days (M-Su),0: All Day (12am-12am),817,16,20.710,0.779,8.000,10.000,22.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-10,0: All Days (M-Su),1: Early AM (12am-6am),28,17,20.710,0.817,11.000,13.000,22.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-10,0: All Days (M-Su),2: Peak AM (6am-10am),161,16,20.710,0.793,7.000,10.000,22.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-10,0: All Days (M-Su),3: Mid-Day (10am-3pm),225,16,20.710,0.791,8.000,10.000,22.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-10,0: All Days (M-Su),4: Peak PM (3pm-7pm),280,16,20.710,0.774,7.000,10.000,22.000,28.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-10,0: All Days (M-Su),5: Late PM (7pm-12am),123,15,20.710,0.744,8.000,10.000,21.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-10,1: Weekday (M-Th),0: All Day (12am-12am),856,16,20.710,0.780,8.000,10.000,22.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-10,1: Weekday (M-Th),1: Early AM (12am-6am),20,18,20.710,0.888,13.000,14.000,22.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-10,1: Weekday (M-Th),2: Peak AM (6am-10am),202,16,20.710,0.792,7.000,10.000,22.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-10,1: Weekday (M-Th),3: Mid-Day (10am-3pm),223,16,20.710,0.790,9.000,10.000,22.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-10,1: Weekday (M-Th),4: Peak PM (3pm-7pm),301,16,20.710,0.774,8.000,10.000,22.000,28.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-10,1: Weekday (M-Th),5: Late PM (7pm-12am),110,15,20.710,0.737,8.000,10.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-10,2: Weekend (Sa-Su),0: All Day (12am-12am),676,16,20.710,0.783,7.000,10.000,21.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-10,2: Weekend (Sa-Su),1: Early AM (12am-6am),44,16,20.710,0.758,10.000,11.000,19.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-10,2: Weekend (Sa-Su),2: Peak AM (6am-10am),62,17,20.710,0.815,9.000,14.000,21.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-10,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),229,17,20.710,0.800,8.000,11.000,22.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-10,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),210,16,20.710,0.780,7.000,10.000,22.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-10,2: Weekend (Sa-Su),5: Late PM (7pm-12am),131,16,20.710,0.755,5.000,10.000,21.000,28.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-11,0: All Days (M-Su),0: All Day (12am-12am),803,16,23.457,0.692,8.000,10.000,22.000,28.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-11,0: All Days (M-Su),1: Early AM (12am-6am),26,18,23.457,0.750,9.000,10.000,24.000,29.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-11,0: All Days (M-Su),2: Peak AM (6am-10am),149,17,23.457,0.706,7.000,10.000,22.000,29.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-11,0: All Days (M-Su),3: Mid-Day (10am-3pm),243,16,23.457,0.698,8.000,11.000,22.000,28.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-11,0: All Days (M-Su),4: Peak PM (3pm-7pm),262,16,23.457,0.682,8.000,10.000,21.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-11,0: All Days (M-Su),5: Late PM (7pm-12am),122,16,23.457,0.674,8.000,10.000,22.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-11,1: Weekday (M-Th),0: All Day (12am-12am),833,16,23.457,0.693,8.000,10.000,22.000,28.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-11,1: Weekday (M-Th),1: Early AM (12am-6am),23,18,23.457,0.783,5.000,11.000,26.000,32.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-11,1: Weekday (M-Th),2: Peak AM (6am-10am),179,17,23.457,0.706,7.000,10.000,23.000,29.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-11,1: Weekday (M-Th),3: Mid-Day (10am-3pm),248,16,23.457,0.698,8.000,11.000,22.000,28.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-11,1: Weekday (M-Th),4: Peak PM (3pm-7pm),274,16,23.457,0.678,8.000,10.000,21.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-11,1: Weekday (M-Th),5: Late PM (7pm-12am),109,16,23.457,0.676,7.000,10.000,22.000,29.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-11,2: Weekend (Sa-Su),0: All Day (12am-12am),708,16,23.457,0.692,8.000,11.000,22.000,28.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-11,2: Weekend (Sa-Su),1: Early AM (12am-6am),38,17,23.457,0.715,9.000,10.000,23.000,29.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-11,2: Weekend (Sa-Su),2: Peak AM (6am-10am),73,17,23.457,0.732,7.000,11.000,23.000,33.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-11,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),255,16,23.457,0.701,8.000,11.000,22.000,29.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-11,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),207,16,23.457,0.689,8.000,11.000,21.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-11,2: Weekend (Sa-Su),5: Late PM (7pm-12am),135,15,23.457,0.651,7.000,10.000,22.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-12,0: All Days (M-Su),0: All Day (12am-12am),721,16,20.627,0.777,8.000,10.000,21.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-12,0: All Days (M-Su),1: Early AM (12am-6am),27,17,20.627,0.801,8.000,10.000,21.000,32.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-12,0: All Days (M-Su),2: Peak AM (6am-10am),114,16,20.627,0.794,7.000,10.000,22.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-12,0: All Days (M-Su),3: Mid-Day (10am-3pm),228,16,20.627,0.786,8.000,10.000,22.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-12,0: All Days (M-Su),4: Peak PM (3pm-7pm),243,16,20.627,0.770,8.000,10.000,21.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-12,0: All Days (M-Su),5: Late PM (7pm-12am),109,16,20.627,0.752,7.000,10.000,20.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-12,1: Weekday (M-Th),0: All Day (12am-12am),719,16,20.627,0.772,8.000,10.000,21.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-12,1: Weekday (M-Th),1: Early AM (12am-6am),25,16,20.627,0.773,8.000,11.000,20.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-12,1: Weekday (M-Th),2: Peak AM (6am-10am),130,16,20.627,0.787,7.000,10.000,21.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-12,1: Weekday (M-Th),3: Mid-Day (10am-3pm),218,16,20.627,0.792,8.000,10.000,22.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-12,1: Weekday (M-Th),4: Peak PM (3pm-7pm),254,16,20.627,0.758,8.000,10.000,21.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-12,1: Weekday (M-Th),5: Late PM (7pm-12am),92,15,20.627,0.742,7.000,10.000,20.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-12,2: Weekend (Sa-Su),0: All Day (12am-12am),674,16,20.627,0.779,9.000,10.000,21.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-12,2: Weekend (Sa-Su),1: Early AM (12am-6am),31,18,20.627,0.861,10.000,11.000,25.000,37.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-12,2: Weekend (Sa-Su),2: Peak AM (6am-10am),74,17,20.627,0.801,9.000,11.000,22.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-12,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),247,16,20.627,0.778,9.000,10.000,21.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-12,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),200,16,20.627,0.785,9.000,10.000,21.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2023-12,2: Weekend (Sa-Su),5: Late PM (7pm-12am),123,15,20.627,0.738,8.000,10.000,20.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2024-01,0: All Days (M-Su),0: All Day (12am-12am),762,16,20.645,0.772,7.000,10.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2024-01,0: All Days (M-Su),1: Early AM (12am-6am),27,17,20.645,0.819,6.000,12.000,21.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2024-01,0: All Days (M-Su),2: Peak AM (6am-10am),134,16,20.645,0.790,6.000,10.000,22.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2024-01,0: All Days (M-Su),3: Mid-Day (10am-3pm),226,16,20.645,0.779,8.000,11.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2024-01,0: All Days (M-Su),4: Peak PM (3pm-7pm),267,16,20.645,0.755,7.000,10.000,21.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2024-01,0: All Days (M-Su),5: Late PM (7pm-12am),108,16,20.645,0.763,8.000,11.000,21.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2024-01,1: Weekday (M-Th),0: All Day (12am-12am),788,16,20.645,0.769,7.000,10.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2024-01,1: Weekday (M-Th),1: Early AM (12am-6am),27,17,20.645,0.811,6.000,11.000,21.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2024-01,1: Weekday (M-Th),2: Peak AM (6am-10am),153,16,20.645,0.794,7.000,10.000,22.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2024-01,1: Weekday (M-Th),3: Mid-Day (10am-3pm),227,16,20.645,0.781,8.000,11.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2024-01,1: Weekday (M-Th),4: Peak PM (3pm-7pm),280,15,20.645,0.746,7.000,10.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2024-01,1: Weekday (M-Th),5: Late PM (7pm-12am),101,16,20.645,0.752,9.000,10.000,20.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2024-01,2: Weekend (Sa-Su),0: All Day (12am-12am),614,16,20.645,0.782,8.000,11.000,21.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2024-01,2: Weekend (Sa-Su),1: Early AM (12am-6am),28,16,20.645,0.773,3.000,10.000,23.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2024-01,2: Weekend (Sa-Su),2: Peak AM (6am-10am),71,16,20.645,0.786,5.000,11.000,22.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2024-01,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),206,16,20.645,0.778,8.000,11.000,21.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2024-01,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),201,16,20.645,0.785,9.000,11.000,21.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2024-01,2: Weekend (Sa-Su),5: Late PM (7pm-12am),108,16,20.645,0.786,8.000,11.000,21.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2024-02,0: All Days (M-Su),0: All Day (12am-12am),829,15,23.266,0.663,7.000,10.000,20.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2024-02,0: All Days (M-Su),1: Early AM (12am-6am),23,16,23.266,0.686,2.000,9.000,25.000,35.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2024-02,0: All Days (M-Su),2: Peak AM (6am-10am),160,16,23.266,0.677,8.000,11.000,20.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2024-02,0: All Days (M-Su),3: Mid-Day (10am-3pm),242,15,23.266,0.664,8.000,11.000,20.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2024-02,0: All Days (M-Su),4: Peak PM (3pm-7pm),297,15,23.266,0.660,7.000,10.000,20.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2024-02,0: All Days (M-Su),5: Late PM (7pm-12am),107,15,23.266,0.647,7.000,10.000,20.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2024-02,1: Weekday (M-Th),0: All Day (12am-12am),863,15,23.266,0.656,7.000,10.000,20.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2024-02,1: Weekday (M-Th),1: Early AM (12am-6am),24,15,23.266,0.663,5.000,10.000,26.000,50.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2024-02,1: Weekday (M-Th),2: Peak AM (6am-10am),189,16,23.266,0.677,7.000,10.000,21.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2024-02,1: Weekday (M-Th),3: Mid-Day (10am-3pm),247,15,23.266,0.659,8.000,11.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2024-02,1: Weekday (M-Th),4: Peak PM (3pm-7pm),307,15,23.266,0.645,7.000,10.000,20.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2024-02,1: Weekday (M-Th),5: Late PM (7pm-12am),96,15,23.266,0.642,7.000,10.000,20.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2024-02,2: Weekend (Sa-Su),0: All Day (12am-12am),674,16,23.266,0.674,8.000,11.000,20.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2024-02,2: Weekend (Sa-Su),1: Early AM (12am-6am),23,16,23.266,0.681,1.000,8.000,21.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2024-02,2: Weekend (Sa-Su),2: Peak AM (6am-10am),71,16,23.266,0.676,9.000,12.000,20.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2024-02,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),238,16,23.266,0.679,8.000,11.000,21.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2024-02,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),219,16,23.266,0.679,9.000,11.000,20.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2024-02,2: Weekend (Sa-Su),5: Late PM (7pm-12am),123,15,23.266,0.653,8.000,10.000,20.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2024-03,0: All Days (M-Su),0: All Day (12am-12am),806,15,21.484,0.717,8.000,11.000,20.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2024-03,0: All Days (M-Su),1: Early AM (12am-6am),24,16,21.484,0.764,10.000,13.000,21.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2024-03,0: All Days (M-Su),2: Peak AM (6am-10am),142,15,21.484,0.716,7.000,10.000,20.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2024-03,0: All Days (M-Su),3: Mid-Day (10am-3pm),230,15,21.484,0.718,8.000,11.000,20.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2024-03,0: All Days (M-Su),4: Peak PM (3pm-7pm),279,16,21.484,0.722,8.000,11.000,20.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2024-03,0: All Days (M-Su),5: Late PM (7pm-12am),130,15,21.484,0.699,8.000,10.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2024-03,1: Weekday (M-Th),0: All Day (12am-12am),849,15,21.484,0.718,8.000,11.000,20.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2024-03,1: Weekday (M-Th),1: Early AM (12am-6am),22,17,21.484,0.782,13.000,14.000,23.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2024-03,1: Weekday (M-Th),2: Peak AM (6am-10am),174,15,21.484,0.716,7.000,10.000,20.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2024-03,1: Weekday (M-Th),3: Mid-Day (10am-3pm),232,16,21.484,0.725,9.000,11.000,20.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2024-03,1: Weekday (M-Th),4: Peak PM (3pm-7pm),301,15,21.484,0.719,8.000,11.000,20.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2024-03,1: Weekday (M-Th),5: Late PM (7pm-12am),120,15,21.484,0.696,8.000,10.000,19.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2024-03,2: Weekend (Sa-Su),0: All Day (12am-12am),649,15,21.484,0.719,8.000,11.000,20.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2024-03,2: Weekend (Sa-Su),1: Early AM (12am-6am),27,15,21.484,0.718,5.000,10.000,18.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2024-03,2: Weekend (Sa-Su),2: Peak AM (6am-10am),63,15,21.484,0.682,5.000,11.000,19.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2024-03,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),219,15,21.484,0.710,7.000,11.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2024-03,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),202,16,21.484,0.734,9.000,11.000,20.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2024-03,2: Weekend (Sa-Su),5: Late PM (7pm-12am),137,16,21.484,0.727,9.000,11.000,20.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2024-04,0: All Days (M-Su),0: All Day (12am-12am),780,15,22.539,0.683,7.000,10.000,20.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2024-04,0: All Days (M-Su),1: Early AM (12am-6am),22,16,22.539,0.694,3.000,10.000,22.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2024-04,0: All Days (M-Su),2: Peak AM (6am-10am),141,15,22.539,0.685,6.000,10.000,20.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2024-04,0: All Days (M-Su),3: Mid-Day (10am-3pm),225,16,22.539,0.701,8.000,11.000,20.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2024-04,0: All Days (M-Su),4: Peak PM (3pm-7pm),268,15,22.539,0.676,7.000,10.000,20.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2024-04,0: All Days (M-Su),5: Late PM (7pm-12am),125,15,22.539,0.665,8.000,10.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2024-04,1: Weekday (M-Th),0: All Day (12am-12am),804,15,22.539,0.682,7.000,10.000,20.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2024-04,1: Weekday (M-Th),1: Early AM (12am-6am),19,15,22.539,0.662,3.000,5.000,21.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2024-04,1: Weekday (M-Th),2: Peak AM (6am-10am),168,15,22.539,0.688,6.000,10.000,20.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2024-04,1: Weekday (M-Th),3: Mid-Day (10am-3pm),220,16,22.539,0.702,8.000,11.000,20.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2024-04,1: Weekday (M-Th),4: Peak PM (3pm-7pm),281,15,22.539,0.674,7.000,10.000,20.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2024-04,1: Weekday (M-Th),5: Late PM (7pm-12am),116,15,22.539,0.660,7.000,10.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2024-04,2: Weekend (Sa-Su),0: All Day (12am-12am),635,15,22.539,0.683,8.000,10.000,20.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2024-04,2: Weekend (Sa-Su),1: Early AM (12am-6am),31,17,22.539,0.751,3.000,12.000,22.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2024-04,2: Weekend (Sa-Su),2: Peak AM (6am-10am),62,16,22.539,0.710,8.000,12.000,19.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2024-04,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),220,15,22.539,0.686,7.000,10.000,20.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2024-04,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),193,15,22.539,0.668,8.000,11.000,19.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2024-04,2: Weekend (Sa-Su),5: Late PM (7pm-12am),129,15,22.539,0.671,9.000,10.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2024-05,0: All Days (M-Su),0: All Day (12am-12am),808,15,20.300,0.757,7.000,10.000,20.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2024-05,0: All Days (M-Su),1: Early AM (12am-6am),25,15,20.300,0.715,4.000,9.000,19.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2024-05,0: All Days (M-Su),2: Peak AM (6am-10am),149,15,20.300,0.756,7.000,10.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2024-05,0: All Days (M-Su),3: Mid-Day (10am-3pm),232,16,20.300,0.770,8.000,11.000,20.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2024-05,0: All Days (M-Su),4: Peak PM (3pm-7pm),269,15,20.300,0.756,7.000,10.000,20.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2024-05,0: All Days (M-Su),5: Late PM (7pm-12am),133,15,20.300,0.744,8.000,10.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2024-05,1: Weekday (M-Th),0: All Day (12am-12am),849,15,20.300,0.756,7.000,10.000,20.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2024-05,1: Weekday (M-Th),1: Early AM (12am-6am),21,15,20.300,0.747,5.000,8.000,20.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2024-05,1: Weekday (M-Th),2: Peak AM (6am-10am),174,15,20.300,0.751,7.000,10.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2024-05,1: Weekday (M-Th),3: Mid-Day (10am-3pm),237,16,20.300,0.775,8.000,11.000,20.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2024-05,1: Weekday (M-Th),4: Peak PM (3pm-7pm),288,15,20.300,0.753,7.000,10.000,20.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2024-05,1: Weekday (M-Th),5: Late PM (7pm-12am),128,15,20.300,0.735,8.000,10.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2024-05,2: Weekend (Sa-Su),0: All Day (12am-12am),660,15,20.300,0.758,8.000,11.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2024-05,2: Weekend (Sa-Su),1: Early AM (12am-6am),31,14,20.300,0.684,4.000,9.000,16.000,17.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2024-05,2: Weekend (Sa-Su),2: Peak AM (6am-10am),70,15,20.300,0.763,9.000,11.000,19.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2024-05,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),221,15,20.300,0.758,9.000,11.000,19.000,22.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2024-05,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),196,16,20.300,0.775,8.000,11.000,20.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street,yes,266,yes,2024-05,2: Weekend (Sa-Su),5: Late PM (7pm-12am),142,15,20.300,0.745,7.000,10.000,20.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-06,0: All Days (M-Su),0: All Day (12am-12am),835,16,19.479,0.822,8.000,10.000,21.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-06,0: All Days (M-Su),1: Early AM (12am-6am),37,15,19.479,0.779,8.000,10.000,19.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-06,0: All Days (M-Su),2: Peak AM (6am-10am),133,16,19.479,0.824,7.000,10.000,22.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-06,0: All Days (M-Su),3: Mid-Day (10am-3pm),235,16,19.479,0.830,9.000,10.000,21.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-06,0: All Days (M-Su),4: Peak PM (3pm-7pm),277,16,19.479,0.834,8.000,10.000,22.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-06,0: All Days (M-Su),5: Late PM (7pm-12am),152,16,19.479,0.798,7.000,10.000,20.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-06,1: Weekday (M-Th),0: All Day (12am-12am),879,16,19.479,0.822,8.000,10.000,21.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-06,1: Weekday (M-Th),1: Early AM (12am-6am),34,14,19.479,0.743,8.000,10.000,18.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-06,1: Weekday (M-Th),2: Peak AM (6am-10am),152,16,19.479,0.825,7.000,10.000,22.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-06,1: Weekday (M-Th),3: Mid-Day (10am-3pm),244,16,19.479,0.831,9.000,10.000,21.000,28.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-06,1: Weekday (M-Th),4: Peak PM (3pm-7pm),299,16,19.479,0.830,8.000,11.000,21.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-06,1: Weekday (M-Th),5: Late PM (7pm-12am),150,16,19.479,0.806,8.000,10.000,21.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-06,2: Weekend (Sa-Su),0: All Day (12am-12am),709,16,19.479,0.813,7.000,10.000,21.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-06,2: Weekend (Sa-Su),1: Early AM (12am-6am),41,16,19.479,0.819,8.000,10.000,20.000,28.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-06,2: Weekend (Sa-Su),2: Peak AM (6am-10am),70,16,19.479,0.801,4.000,10.000,21.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-06,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),213,16,19.479,0.813,9.000,10.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-06,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),220,16,19.479,0.811,7.000,10.000,21.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-06,2: Weekend (Sa-Su),5: Late PM (7pm-12am),165,16,19.479,0.821,7.000,10.000,21.000,28.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-07,0: All Days (M-Su),0: All Day (12am-12am),756,16,26.772,0.599,8.000,11.000,21.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-07,0: All Days (M-Su),1: Early AM (12am-6am),30,15,26.772,0.562,7.000,11.000,19.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-07,0: All Days (M-Su),2: Peak AM (6am-10am),105,16,26.772,0.606,7.000,10.000,21.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-07,0: All Days (M-Su),3: Mid-Day (10am-3pm),227,16,26.772,0.603,8.000,11.000,21.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-07,0: All Days (M-Su),4: Peak PM (3pm-7pm),234,16,26.772,0.609,8.000,11.000,21.000,28.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-07,0: All Days (M-Su),5: Late PM (7pm-12am),159,15,26.772,0.578,8.000,10.000,20.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-07,1: Weekday (M-Th),0: All Day (12am-12am),763,16,26.772,0.601,8.000,11.000,21.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-07,1: Weekday (M-Th),1: Early AM (12am-6am),25,14,26.772,0.536,7.000,8.000,16.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-07,1: Weekday (M-Th),2: Peak AM (6am-10am),124,16,26.772,0.609,7.000,10.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-07,1: Weekday (M-Th),3: Mid-Day (10am-3pm),226,16,26.772,0.611,9.000,11.000,21.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-07,1: Weekday (M-Th),4: Peak PM (3pm-7pm),240,16,26.772,0.603,9.000,11.000,21.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-07,1: Weekday (M-Th),5: Late PM (7pm-12am),148,16,26.772,0.586,8.000,10.000,21.000,28.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-07,2: Weekend (Sa-Su),0: All Day (12am-12am),687,16,26.772,0.597,8.000,11.000,21.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-07,2: Weekend (Sa-Su),1: Early AM (12am-6am),40,16,26.772,0.601,8.000,12.000,18.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-07,2: Weekend (Sa-Su),2: Peak AM (6am-10am),65,16,26.772,0.599,8.000,10.000,21.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-07,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),217,16,26.772,0.602,8.000,11.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-07,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),207,17,26.772,0.623,9.000,12.000,23.000,28.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-07,2: Weekend (Sa-Su),5: Late PM (7pm-12am),159,15,26.772,0.557,6.000,10.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-08,0: All Days (M-Su),0: All Day (12am-12am),777,16,20.928,0.770,8.000,11.000,21.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-08,0: All Days (M-Su),1: Early AM (12am-6am),28,16,20.928,0.745,6.000,9.000,19.000,33.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-08,0: All Days (M-Su),2: Peak AM (6am-10am),132,16,20.928,0.742,6.000,10.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-08,0: All Days (M-Su),3: Mid-Day (10am-3pm),207,17,20.928,0.795,9.000,11.000,21.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-08,0: All Days (M-Su),4: Peak PM (3pm-7pm),257,16,20.928,0.781,8.000,11.000,22.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-08,0: All Days (M-Su),5: Late PM (7pm-12am),153,16,20.928,0.744,8.000,10.000,21.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-08,1: Weekday (M-Th),0: All Day (12am-12am),793,16,20.928,0.767,8.000,11.000,21.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-08,1: Weekday (M-Th),1: Early AM (12am-6am),26,15,20.928,0.727,7.000,10.000,17.000,33.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-08,1: Weekday (M-Th),2: Peak AM (6am-10am),151,15,20.928,0.727,6.000,10.000,20.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-08,1: Weekday (M-Th),3: Mid-Day (10am-3pm),201,17,20.928,0.809,9.000,12.000,22.000,28.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-08,1: Weekday (M-Th),4: Peak PM (3pm-7pm),266,16,20.928,0.780,8.000,11.000,22.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-08,1: Weekday (M-Th),5: Late PM (7pm-12am),148,15,20.928,0.733,8.000,10.000,20.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-08,2: Weekend (Sa-Su),0: All Day (12am-12am),670,16,20.928,0.770,8.000,11.000,21.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-08,2: Weekend (Sa-Su),1: Early AM (12am-6am),35,16,20.928,0.754,7.000,9.000,25.000,31.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-08,2: Weekend (Sa-Su),2: Peak AM (6am-10am),78,17,20.928,0.801,9.000,12.000,22.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-08,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),205,16,20.928,0.767,9.000,11.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-08,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),211,16,20.928,0.770,8.000,11.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-08,2: Weekend (Sa-Su),5: Late PM (7pm-12am),141,16,20.928,0.762,9.000,11.000,21.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-09,0: All Days (M-Su),0: All Day (12am-12am),803,16,19.629,0.806,8.000,10.000,21.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-09,0: All Days (M-Su),1: Early AM (12am-6am),27,13,19.629,0.675,8.000,9.000,16.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-09,0: All Days (M-Su),2: Peak AM (6am-10am),147,16,19.629,0.808,7.000,10.000,21.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-09,0: All Days (M-Su),3: Mid-Day (10am-3pm),223,16,19.629,0.829,8.000,11.000,21.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-09,0: All Days (M-Su),4: Peak PM (3pm-7pm),269,16,19.629,0.810,7.000,10.000,21.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-09,0: All Days (M-Su),5: Late PM (7pm-12am),138,15,19.629,0.786,7.000,10.000,20.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-09,1: Weekday (M-Th),0: All Day (12am-12am),805,16,19.629,0.802,7.000,10.000,21.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-09,1: Weekday (M-Th),1: Early AM (12am-6am),20,13,19.629,0.679,9.000,12.000,20.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-09,1: Weekday (M-Th),2: Peak AM (6am-10am),180,15,19.629,0.789,7.000,10.000,21.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-09,1: Weekday (M-Th),3: Mid-Day (10am-3pm),206,16,19.629,0.819,8.000,10.000,21.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-09,1: Weekday (M-Th),4: Peak PM (3pm-7pm),280,16,19.629,0.816,8.000,11.000,21.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-09,1: Weekday (M-Th),5: Late PM (7pm-12am),120,15,19.629,0.781,6.000,10.000,20.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-09,2: Weekend (Sa-Su),0: All Day (12am-12am),730,16,19.629,0.820,8.000,10.000,21.000,28.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-09,2: Weekend (Sa-Su),1: Early AM (12am-6am),34,14,19.629,0.703,8.000,9.000,15.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-09,2: Weekend (Sa-Su),2: Peak AM (6am-10am),73,17,19.629,0.882,9.000,12.000,22.000,33.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-09,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),247,17,19.629,0.847,8.000,11.000,22.000,28.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-09,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),222,16,19.629,0.803,7.000,10.000,21.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-09,2: Weekend (Sa-Su),5: Late PM (7pm-12am),154,16,19.629,0.799,7.000,10.000,21.000,28.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-10,0: All Days (M-Su),0: All Day (12am-12am),773,16,21.006,0.761,8.000,10.000,21.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-10,0: All Days (M-Su),1: Early AM (12am-6am),26,16,21.006,0.738,9.000,11.000,20.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-10,0: All Days (M-Su),2: Peak AM (6am-10am),151,16,21.006,0.741,8.000,10.000,21.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-10,0: All Days (M-Su),3: Mid-Day (10am-3pm),211,16,21.006,0.771,9.000,11.000,21.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-10,0: All Days (M-Su),4: Peak PM (3pm-7pm),267,16,21.006,0.783,8.000,11.000,21.000,28.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-10,0: All Days (M-Su),5: Late PM (7pm-12am),119,15,21.006,0.726,8.000,10.000,20.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-10,1: Weekday (M-Th),0: All Day (12am-12am),818,16,21.006,0.761,8.000,11.000,21.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-10,1: Weekday (M-Th),1: Early AM (12am-6am),22,17,21.006,0.804,7.000,12.000,22.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-10,1: Weekday (M-Th),2: Peak AM (6am-10am),190,16,21.006,0.739,8.000,10.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-10,1: Weekday (M-Th),3: Mid-Day (10am-3pm),209,16,21.006,0.773,8.000,11.000,21.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-10,1: Weekday (M-Th),4: Peak PM (3pm-7pm),292,16,21.006,0.773,8.000,11.000,21.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-10,1: Weekday (M-Th),5: Late PM (7pm-12am),105,15,21.006,0.737,9.000,11.000,20.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-10,2: Weekend (Sa-Su),0: All Day (12am-12am),652,16,21.006,0.765,8.000,11.000,21.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-10,2: Weekend (Sa-Su),1: Early AM (12am-6am),39,14,21.006,0.665,9.000,10.000,19.000,21.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-10,2: Weekend (Sa-Su),2: Peak AM (6am-10am),60,16,21.006,0.768,7.000,11.000,21.000,28.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-10,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),221,16,21.006,0.769,8.000,11.000,21.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-10,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),200,17,21.006,0.809,7.000,11.000,23.000,31.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-10,2: Weekend (Sa-Su),5: Late PM (7pm-12am),132,15,21.006,0.721,9.000,10.000,19.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-11,0: All Days (M-Su),0: All Day (12am-12am),776,16,20.942,0.756,8.000,10.000,21.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-11,0: All Days (M-Su),1: Early AM (12am-6am),22,15,20.942,0.731,6.000,9.000,21.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-11,0: All Days (M-Su),2: Peak AM (6am-10am),144,16,20.942,0.753,7.000,10.000,21.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-11,0: All Days (M-Su),3: Mid-Day (10am-3pm),233,16,20.942,0.767,8.000,10.000,21.000,28.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-11,0: All Days (M-Su),4: Peak PM (3pm-7pm),257,16,20.942,0.758,8.000,10.000,21.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-11,0: All Days (M-Su),5: Late PM (7pm-12am),120,16,20.942,0.741,8.000,10.000,21.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-11,1: Weekday (M-Th),0: All Day (12am-12am),797,16,20.942,0.757,8.000,10.000,21.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-11,1: Weekday (M-Th),1: Early AM (12am-6am),18,15,20.942,0.695,6.000,9.000,19.000,20.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-11,1: Weekday (M-Th),2: Peak AM (6am-10am),170,16,20.942,0.750,7.000,10.000,21.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-11,1: Weekday (M-Th),3: Mid-Day (10am-3pm),235,16,20.942,0.765,8.000,10.000,21.000,28.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-11,1: Weekday (M-Th),4: Peak PM (3pm-7pm),272,16,20.942,0.758,8.000,10.000,21.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-11,1: Weekday (M-Th),5: Late PM (7pm-12am),102,16,20.942,0.763,8.000,11.000,21.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-11,2: Weekend (Sa-Su),0: All Day (12am-12am),689,16,20.942,0.757,8.000,10.000,21.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-11,2: Weekend (Sa-Su),1: Early AM (12am-6am),29,17,20.942,0.812,10.000,12.000,23.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-11,2: Weekend (Sa-Su),2: Peak AM (6am-10am),78,15,20.942,0.732,8.000,10.000,21.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-11,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),253,16,20.942,0.768,8.000,11.000,21.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-11,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),190,16,20.942,0.774,9.000,11.000,21.000,28.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-11,2: Weekend (Sa-Su),5: Late PM (7pm-12am),138,15,20.942,0.716,7.000,9.000,20.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-12,0: All Days (M-Su),0: All Day (12am-12am),719,16,22.255,0.722,8.000,10.000,21.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-12,0: All Days (M-Su),1: Early AM (12am-6am),28,16,22.255,0.715,8.000,10.000,22.000,28.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-12,0: All Days (M-Su),2: Peak AM (6am-10am),115,16,22.255,0.724,7.000,10.000,21.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-12,0: All Days (M-Su),3: Mid-Day (10am-3pm),216,16,22.255,0.733,8.000,11.000,21.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-12,0: All Days (M-Su),4: Peak PM (3pm-7pm),244,16,22.255,0.715,8.000,10.000,21.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-12,0: All Days (M-Su),5: Late PM (7pm-12am),116,16,22.255,0.717,7.000,10.000,21.000,28.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-12,1: Weekday (M-Th),0: All Day (12am-12am),741,16,22.255,0.720,8.000,10.000,21.000,28.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-12,1: Weekday (M-Th),1: Early AM (12am-6am),25,16,22.255,0.707,8.000,9.000,22.000,30.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-12,1: Weekday (M-Th),2: Peak AM (6am-10am),142,16,22.255,0.714,6.000,10.000,21.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-12,1: Weekday (M-Th),3: Mid-Day (10am-3pm),211,16,22.255,0.724,9.000,11.000,21.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-12,1: Weekday (M-Th),4: Peak PM (3pm-7pm),260,16,22.255,0.724,8.000,11.000,21.000,28.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-12,1: Weekday (M-Th),5: Late PM (7pm-12am),103,16,22.255,0.712,7.000,10.000,21.000,28.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-12,2: Weekend (Sa-Su),0: All Day (12am-12am),650,16,22.255,0.727,8.000,10.000,21.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-12,2: Weekend (Sa-Su),1: Early AM (12am-6am),36,17,22.255,0.743,8.000,10.000,22.000,28.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-12,2: Weekend (Sa-Su),2: Peak AM (6am-10am),62,16,22.255,0.740,9.000,11.000,21.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-12,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),229,17,22.255,0.743,8.000,11.000,22.000,28.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-12,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),201,16,22.255,0.702,7.000,10.000,21.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2023-12,2: Weekend (Sa-Su),5: Late PM (7pm-12am),122,16,22.255,0.727,8.000,10.000,21.000,28.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2024-01,0: All Days (M-Su),0: All Day (12am-12am),749,16,21.347,0.735,7.000,10.000,20.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2024-01,0: All Days (M-Su),1: Early AM (12am-6am),22,16,21.347,0.739,9.000,10.000,23.000,28.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2024-01,0: All Days (M-Su),2: Peak AM (6am-10am),136,15,21.347,0.709,6.000,10.000,20.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2024-01,0: All Days (M-Su),3: Mid-Day (10am-3pm),220,16,21.347,0.741,8.000,10.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2024-01,0: All Days (M-Su),4: Peak PM (3pm-7pm),261,16,21.347,0.741,7.000,10.000,21.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2024-01,0: All Days (M-Su),5: Late PM (7pm-12am),109,16,21.347,0.741,8.000,11.000,20.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2024-01,1: Weekday (M-Th),0: All Day (12am-12am),770,16,21.347,0.730,7.000,10.000,20.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2024-01,1: Weekday (M-Th),1: Early AM (12am-6am),24,15,21.347,0.722,8.000,10.000,22.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2024-01,1: Weekday (M-Th),2: Peak AM (6am-10am),155,15,21.347,0.700,6.000,10.000,20.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2024-01,1: Weekday (M-Th),3: Mid-Day (10am-3pm),212,16,21.347,0.737,8.000,10.000,20.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2024-01,1: Weekday (M-Th),4: Peak PM (3pm-7pm),276,16,21.347,0.741,7.000,10.000,21.000,28.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2024-01,1: Weekday (M-Th),5: Late PM (7pm-12am),102,16,21.347,0.732,8.000,10.000,20.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2024-01,2: Weekend (Sa-Su),0: All Day (12am-12am),607,16,21.347,0.748,8.000,11.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2024-01,2: Weekend (Sa-Su),1: Early AM (12am-6am),19,17,21.347,0.778,13.000,13.000,20.000,28.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2024-01,2: Weekend (Sa-Su),2: Peak AM (6am-10am),69,16,21.347,0.746,7.000,12.000,20.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2024-01,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),205,16,21.347,0.754,8.000,10.000,21.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2024-01,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),202,16,21.347,0.736,8.000,10.000,20.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2024-01,2: Weekend (Sa-Su),5: Late PM (7pm-12am),111,16,21.347,0.756,8.000,11.000,20.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2024-02,0: All Days (M-Su),0: All Day (12am-12am),801,16,26.005,0.611,7.000,10.000,21.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2024-02,0: All Days (M-Su),1: Early AM (12am-6am),19,15,26.005,0.594,2.000,7.000,22.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2024-02,0: All Days (M-Su),2: Peak AM (6am-10am),160,15,26.005,0.589,7.000,10.000,20.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2024-02,0: All Days (M-Su),3: Mid-Day (10am-3pm),228,16,26.005,0.616,7.000,11.000,21.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2024-02,0: All Days (M-Su),4: Peak PM (3pm-7pm),281,16,26.005,0.617,8.000,11.000,21.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2024-02,0: All Days (M-Su),5: Late PM (7pm-12am),114,16,26.005,0.618,8.000,10.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2024-02,1: Weekday (M-Th),0: All Day (12am-12am),830,16,26.005,0.612,7.000,10.000,21.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2024-02,1: Weekday (M-Th),1: Early AM (12am-6am),18,15,26.005,0.577,2.000,12.000,22.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2024-02,1: Weekday (M-Th),2: Peak AM (6am-10am),187,15,26.005,0.584,7.000,10.000,20.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2024-02,1: Weekday (M-Th),3: Mid-Day (10am-3pm),225,16,26.005,0.619,8.000,11.000,20.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2024-02,1: Weekday (M-Th),4: Peak PM (3pm-7pm),294,16,26.005,0.621,8.000,11.000,21.000,28.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2024-02,1: Weekday (M-Th),5: Late PM (7pm-12am),105,16,26.005,0.624,9.000,11.000,21.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2024-02,2: Weekend (Sa-Su),0: All Day (12am-12am),670,16,26.005,0.606,7.000,10.000,21.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2024-02,2: Weekend (Sa-Su),1: Early AM (12am-6am),23,16,26.005,0.632,5.000,7.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2024-02,2: Weekend (Sa-Su),2: Peak AM (6am-10am),78,16,26.005,0.605,9.000,10.000,20.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2024-02,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),230,16,26.005,0.606,6.000,11.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2024-02,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),212,16,26.005,0.605,8.000,10.000,20.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2024-02,2: Weekend (Sa-Su),5: Late PM (7pm-12am),127,16,26.005,0.602,7.000,10.000,21.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2024-03,0: All Days (M-Su),0: All Day (12am-12am),797,16,20.537,0.776,8.000,10.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2024-03,0: All Days (M-Su),1: Early AM (12am-6am),26,16,20.537,0.760,7.000,10.000,22.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2024-03,0: All Days (M-Su),2: Peak AM (6am-10am),144,16,20.537,0.763,7.000,10.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2024-03,0: All Days (M-Su),3: Mid-Day (10am-3pm),223,16,20.537,0.780,8.000,11.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2024-03,0: All Days (M-Su),4: Peak PM (3pm-7pm),267,16,20.537,0.787,8.000,11.000,21.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2024-03,0: All Days (M-Su),5: Late PM (7pm-12am),137,16,20.537,0.766,7.000,10.000,21.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2024-03,1: Weekday (M-Th),0: All Day (12am-12am),837,16,20.537,0.774,7.000,10.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2024-03,1: Weekday (M-Th),1: Early AM (12am-6am),26,15,20.537,0.734,3.000,10.000,20.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2024-03,1: Weekday (M-Th),2: Peak AM (6am-10am),184,16,20.537,0.757,6.000,10.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2024-03,1: Weekday (M-Th),3: Mid-Day (10am-3pm),223,16,20.537,0.774,8.000,11.000,20.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2024-03,1: Weekday (M-Th),4: Peak PM (3pm-7pm),285,16,20.537,0.787,9.000,11.000,21.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2024-03,1: Weekday (M-Th),5: Late PM (7pm-12am),119,16,20.537,0.779,8.000,10.000,21.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2024-03,2: Weekend (Sa-Su),0: All Day (12am-12am),648,16,20.537,0.778,8.000,11.000,20.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2024-03,2: Weekend (Sa-Su),1: Early AM (12am-6am),27,16,20.537,0.771,10.000,11.000,23.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2024-03,2: Weekend (Sa-Su),2: Peak AM (6am-10am),59,16,20.537,0.772,8.000,11.000,20.000,23.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2024-03,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),211,16,20.537,0.790,9.000,11.000,20.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2024-03,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),201,16,20.537,0.785,8.000,11.000,21.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2024-03,2: Weekend (Sa-Su),5: Late PM (7pm-12am),150,15,20.537,0.753,8.000,10.000,20.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2024-04,0: All Days (M-Su),0: All Day (12am-12am),768,16,19.687,0.809,8.000,10.000,21.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2024-04,0: All Days (M-Su),1: Early AM (12am-6am),23,15,19.687,0.776,8.000,10.000,23.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2024-04,0: All Days (M-Su),2: Peak AM (6am-10am),140,16,19.687,0.794,7.000,10.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2024-04,0: All Days (M-Su),3: Mid-Day (10am-3pm),216,16,19.687,0.821,8.000,11.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2024-04,0: All Days (M-Su),4: Peak PM (3pm-7pm),259,16,19.687,0.820,8.000,11.000,21.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2024-04,0: All Days (M-Su),5: Late PM (7pm-12am),129,16,19.687,0.790,7.000,10.000,20.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2024-04,1: Weekday (M-Th),0: All Day (12am-12am),788,16,19.687,0.806,8.000,10.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2024-04,1: Weekday (M-Th),1: Early AM (12am-6am),19,15,19.687,0.742,10.000,12.000,23.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2024-04,1: Weekday (M-Th),2: Peak AM (6am-10am),169,16,19.687,0.790,7.000,10.000,21.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2024-04,1: Weekday (M-Th),3: Mid-Day (10am-3pm),211,16,19.687,0.817,8.000,10.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2024-04,1: Weekday (M-Th),4: Peak PM (3pm-7pm),272,16,19.687,0.817,8.000,11.000,21.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2024-04,1: Weekday (M-Th),5: Late PM (7pm-12am),118,16,19.687,0.795,8.000,10.000,20.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2024-04,2: Weekend (Sa-Su),0: All Day (12am-12am),631,16,19.687,0.821,7.000,10.000,21.000,28.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2024-04,2: Weekend (Sa-Su),1: Early AM (12am-6am),30,17,19.687,0.875,8.000,10.000,23.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2024-04,2: Weekend (Sa-Su),2: Peak AM (6am-10am),62,16,19.687,0.821,8.000,10.000,21.000,31.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2024-04,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),211,17,19.687,0.838,7.000,11.000,22.000,28.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2024-04,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),191,16,19.687,0.809,8.000,10.000,21.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2024-04,2: Weekend (Sa-Su),5: Late PM (7pm-12am),137,16,19.687,0.802,6.000,10.000,21.000,30.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2024-05,0: All Days (M-Su),0: All Day (12am-12am),792,16,21.498,0.735,7.000,10.000,21.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2024-05,0: All Days (M-Su),1: Early AM (12am-6am),25,15,21.498,0.701,7.000,10.000,21.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2024-05,0: All Days (M-Su),2: Peak AM (6am-10am),154,15,21.498,0.714,7.000,10.000,20.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2024-05,0: All Days (M-Su),3: Mid-Day (10am-3pm),224,16,21.498,0.752,8.000,11.000,21.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2024-05,0: All Days (M-Su),4: Peak PM (3pm-7pm),254,16,21.498,0.737,7.000,10.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2024-05,0: All Days (M-Su),5: Late PM (7pm-12am),135,16,21.498,0.735,7.000,10.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2024-05,1: Weekday (M-Th),0: All Day (12am-12am),831,16,21.498,0.724,7.000,10.000,21.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2024-05,1: Weekday (M-Th),1: Early AM (12am-6am),23,14,21.498,0.654,4.000,9.000,18.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2024-05,1: Weekday (M-Th),2: Peak AM (6am-10am),182,15,21.498,0.701,6.000,10.000,20.000,24.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2024-05,1: Weekday (M-Th),3: Mid-Day (10am-3pm),226,16,21.498,0.743,8.000,11.000,21.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2024-05,1: Weekday (M-Th),4: Peak PM (3pm-7pm),271,16,21.498,0.724,7.000,10.000,20.000,25.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2024-05,1: Weekday (M-Th),5: Late PM (7pm-12am),129,16,21.498,0.736,7.000,10.000,21.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2024-05,2: Weekend (Sa-Su),0: All Day (12am-12am),655,16,21.498,0.757,8.000,11.000,21.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2024-05,2: Weekend (Sa-Su),1: Early AM (12am-6am),29,17,21.498,0.810,9.000,12.000,25.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2024-05,2: Weekend (Sa-Su),2: Peak AM (6am-10am),72,17,21.498,0.769,9.000,11.000,21.000,28.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2024-05,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),228,16,21.498,0.762,8.000,11.000,21.000,26.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2024-05,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),187,16,21.498,0.744,8.000,10.000,21.000,27.000
+"Jun 01, 2023 - Jun 01, 2024",All Vehicles - StL All Vehicles Volume,,West F Street (1),yes,266,yes,2024-05,2: Weekend (Sa-Su),5: Late PM (7pm-12am),139,16,21.498,0.750,7.000,10.000,21.000,28.000

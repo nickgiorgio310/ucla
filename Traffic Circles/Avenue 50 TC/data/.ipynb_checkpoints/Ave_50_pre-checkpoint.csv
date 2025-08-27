@@ -1,0 +1,865 @@
+Data Periods,Mode of Travel,Zone ID,Zone Name,Zone Is Pass-Through,Zone Direction (degrees),Zone is Bi-Direction,Year-Month,Day Type,Day Part,Average Daily Spot Traffic (StL Volume),Avg Spot Speed (mph),Free Flow Speed (mph),Free Flow Factor,5th Speed Percentile,15th Speed Percentile,85th Speed Percentile,95th Speed Percentile
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-06,0: All Days (M-Su),0: All Day (12am-12am),1019,15,18.666,0.801,10.000,11.000,18.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-06,0: All Days (M-Su),1: Early AM (12am-6am),29,15,18.666,0.813,9.000,11.000,19.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-06,0: All Days (M-Su),2: Peak AM (6am-10am),136,15,18.666,0.806,9.000,12.000,19.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-06,0: All Days (M-Su),3: Mid-Day (10am-3pm),340,15,18.666,0.798,9.000,11.000,18.000,21.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-06,0: All Days (M-Su),4: Peak PM (3pm-7pm),312,15,18.666,0.803,10.000,12.000,18.000,21.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-06,0: All Days (M-Su),5: Late PM (7pm-12am),202,15,18.666,0.800,10.000,12.000,18.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-06,1: Weekday (M-Th),0: All Day (12am-12am),978,15,18.666,0.808,10.000,11.000,19.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-06,1: Weekday (M-Th),1: Early AM (12am-6am),26,15,18.666,0.826,6.000,12.000,21.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-06,1: Weekday (M-Th),2: Peak AM (6am-10am),153,15,18.666,0.815,9.000,12.000,19.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-06,1: Weekday (M-Th),3: Mid-Day (10am-3pm),316,15,18.666,0.808,9.000,11.000,19.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-06,1: Weekday (M-Th),4: Peak PM (3pm-7pm),298,15,18.666,0.808,10.000,12.000,19.000,21.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-06,1: Weekday (M-Th),5: Late PM (7pm-12am),185,15,18.666,0.803,10.000,12.000,19.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-06,2: Weekend (Sa-Su),0: All Day (12am-12am),984,15,18.666,0.789,10.000,11.000,17.000,21.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-06,2: Weekend (Sa-Su),1: Early AM (12am-6am),38,15,18.666,0.786,9.000,11.000,17.000,19.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-06,2: Weekend (Sa-Su),2: Peak AM (6am-10am),87,15,18.666,0.793,10.000,12.000,18.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-06,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),370,15,18.666,0.777,9.000,11.000,17.000,20.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-06,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),303,15,18.666,0.799,10.000,11.000,17.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-06,2: Weekend (Sa-Su),5: Late PM (7pm-12am),187,15,18.666,0.796,11.000,11.000,18.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-07,0: All Days (M-Su),0: All Day (12am-12am),951,15,18.078,0.821,9.000,11.000,18.000,21.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-07,0: All Days (M-Su),1: Early AM (12am-6am),29,16,18.078,0.868,10.000,11.000,20.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-07,0: All Days (M-Su),2: Peak AM (6am-10am),138,15,18.078,0.831,9.000,11.000,18.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-07,0: All Days (M-Su),3: Mid-Day (10am-3pm),310,15,18.078,0.821,9.000,11.000,18.000,21.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-07,0: All Days (M-Su),4: Peak PM (3pm-7pm),279,15,18.078,0.816,9.000,11.000,18.000,21.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-07,0: All Days (M-Su),5: Late PM (7pm-12am),194,15,18.078,0.816,10.000,11.000,18.000,21.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-07,1: Weekday (M-Th),0: All Day (12am-12am),932,15,18.078,0.825,9.000,12.000,18.000,21.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-07,1: Weekday (M-Th),1: Early AM (12am-6am),22,16,18.078,0.893,11.000,12.000,21.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-07,1: Weekday (M-Th),2: Peak AM (6am-10am),156,15,18.078,0.831,9.000,11.000,19.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-07,1: Weekday (M-Th),3: Mid-Day (10am-3pm),296,15,18.078,0.825,10.000,12.000,18.000,21.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-07,1: Weekday (M-Th),4: Peak PM (3pm-7pm),280,15,18.078,0.817,9.000,11.000,18.000,21.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-07,1: Weekday (M-Th),5: Late PM (7pm-12am),180,15,18.078,0.825,11.000,12.000,18.000,21.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-07,2: Weekend (Sa-Su),0: All Day (12am-12am),905,15,18.078,0.818,9.000,11.000,18.000,21.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-07,2: Weekend (Sa-Su),1: Early AM (12am-6am),47,15,18.078,0.850,10.000,11.000,19.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-07,2: Weekend (Sa-Su),2: Peak AM (6am-10am),95,15,18.078,0.837,10.000,12.000,18.000,21.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-07,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),345,15,18.078,0.814,9.000,11.000,18.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-07,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),252,15,18.078,0.819,9.000,11.000,18.000,21.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-07,2: Weekend (Sa-Su),5: Late PM (7pm-12am),166,15,18.078,0.803,9.000,11.000,18.000,21.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-08,0: All Days (M-Su),0: All Day (12am-12am),1095,15,18.993,0.781,9.000,11.000,18.000,21.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-08,0: All Days (M-Su),1: Early AM (12am-6am),28,16,18.993,0.829,9.000,13.000,21.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-08,0: All Days (M-Su),2: Peak AM (6am-10am),171,15,18.993,0.785,9.000,12.000,19.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-08,0: All Days (M-Su),3: Mid-Day (10am-3pm),362,15,18.993,0.784,10.000,11.000,18.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-08,0: All Days (M-Su),4: Peak PM (3pm-7pm),323,15,18.993,0.771,9.000,11.000,18.000,21.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-08,0: All Days (M-Su),5: Late PM (7pm-12am),211,15,18.993,0.784,9.000,11.000,18.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-08,1: Weekday (M-Th),0: All Day (12am-12am),1114,15,18.993,0.782,10.000,11.000,18.000,21.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-08,1: Weekday (M-Th),1: Early AM (12am-6am),23,16,18.993,0.852,12.000,14.000,22.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-08,1: Weekday (M-Th),2: Peak AM (6am-10am),219,15,18.993,0.787,9.000,12.000,19.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-08,1: Weekday (M-Th),3: Mid-Day (10am-3pm),371,15,18.993,0.782,9.000,11.000,18.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-08,1: Weekday (M-Th),4: Peak PM (3pm-7pm),324,15,18.993,0.770,9.000,11.000,17.000,21.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-08,1: Weekday (M-Th),5: Late PM (7pm-12am),177,15,18.993,0.793,10.000,12.000,19.000,21.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-08,2: Weekend (Sa-Su),0: All Day (12am-12am),977,15,18.993,0.774,9.000,11.000,18.000,21.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-08,2: Weekend (Sa-Su),1: Early AM (12am-6am),37,15,18.993,0.791,8.000,11.000,18.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-08,2: Weekend (Sa-Su),2: Peak AM (6am-10am),78,14,18.993,0.760,9.000,12.000,17.000,21.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-08,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),353,15,18.993,0.780,9.000,11.000,18.000,21.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-08,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),278,15,18.993,0.770,9.000,11.000,18.000,21.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-08,2: Weekend (Sa-Su),5: Late PM (7pm-12am),232,15,18.993,0.773,9.000,11.000,18.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-09,0: All Days (M-Su),0: All Day (12am-12am),1183,15,19.669,0.759,10.000,11.000,18.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-09,0: All Days (M-Su),1: Early AM (12am-6am),32,16,19.669,0.809,9.000,11.000,20.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-09,0: All Days (M-Su),2: Peak AM (6am-10am),184,15,19.669,0.756,9.000,11.000,18.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-09,0: All Days (M-Su),3: Mid-Day (10am-3pm),380,15,19.669,0.763,10.000,12.000,18.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-09,0: All Days (M-Su),4: Peak PM (3pm-7pm),364,15,19.669,0.751,9.000,11.000,18.000,21.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-09,0: All Days (M-Su),5: Late PM (7pm-12am),224,15,19.669,0.759,9.000,11.000,19.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-09,1: Weekday (M-Th),0: All Day (12am-12am),1198,15,19.669,0.765,10.000,12.000,18.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-09,1: Weekday (M-Th),1: Early AM (12am-6am),25,16,19.669,0.808,9.000,12.000,18.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-09,1: Weekday (M-Th),2: Peak AM (6am-10am),217,15,19.669,0.760,9.000,11.000,19.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-09,1: Weekday (M-Th),3: Mid-Day (10am-3pm),374,15,19.669,0.773,11.000,12.000,18.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-09,1: Weekday (M-Th),4: Peak PM (3pm-7pm),378,15,19.669,0.754,9.000,11.000,18.000,21.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-09,1: Weekday (M-Th),5: Late PM (7pm-12am),205,15,19.669,0.771,10.000,11.000,19.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-09,2: Weekend (Sa-Su),0: All Day (12am-12am),1044,15,19.669,0.749,9.000,11.000,18.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-09,2: Weekend (Sa-Su),1: Early AM (12am-6am),43,16,19.669,0.803,9.000,11.000,20.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-09,2: Weekend (Sa-Su),2: Peak AM (6am-10am),97,15,19.669,0.755,9.000,11.000,18.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-09,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),375,15,19.669,0.750,10.000,11.000,18.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-09,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),297,15,19.669,0.741,9.000,11.000,17.000,21.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-09,2: Weekend (Sa-Su),5: Late PM (7pm-12am),232,15,19.669,0.746,9.000,11.000,18.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-10,0: All Days (M-Su),0: All Day (12am-12am),1274,15,16.991,0.858,9.000,11.000,18.000,21.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-10,0: All Days (M-Su),1: Early AM (12am-6am),41,16,16.991,0.916,10.000,12.000,20.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-10,0: All Days (M-Su),2: Peak AM (6am-10am),169,15,16.991,0.875,9.000,11.000,18.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-10,0: All Days (M-Su),3: Mid-Day (10am-3pm),382,15,16.991,0.862,9.000,11.000,18.000,21.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-10,0: All Days (M-Su),4: Peak PM (3pm-7pm),419,14,16.991,0.845,9.000,11.000,17.000,21.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-10,0: All Days (M-Su),5: Late PM (7pm-12am),263,15,16.991,0.854,9.000,11.000,18.000,21.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-10,1: Weekday (M-Th),0: All Day (12am-12am),1205,15,16.991,0.881,10.000,11.000,18.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-10,1: Weekday (M-Th),1: Early AM (12am-6am),31,15,16.991,0.887,6.000,11.000,21.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-10,1: Weekday (M-Th),2: Peak AM (6am-10am),208,15,16.991,0.877,9.000,11.000,18.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-10,1: Weekday (M-Th),3: Mid-Day (10am-3pm),351,15,16.991,0.886,10.000,12.000,19.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-10,1: Weekday (M-Th),4: Peak PM (3pm-7pm),399,15,16.991,0.869,10.000,11.000,18.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-10,1: Weekday (M-Th),5: Late PM (7pm-12am),216,15,16.991,0.895,10.000,12.000,18.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-10,2: Weekend (Sa-Su),0: All Day (12am-12am),1237,14,16.991,0.825,8.000,11.000,17.000,21.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-10,2: Weekend (Sa-Su),1: Early AM (12am-6am),65,16,16.991,0.940,10.000,13.000,21.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-10,2: Weekend (Sa-Su),2: Peak AM (6am-10am),90,14,16.991,0.831,9.000,11.000,17.000,20.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-10,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),435,14,16.991,0.829,8.000,11.000,17.000,21.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-10,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),405,14,16.991,0.807,8.000,11.000,16.000,21.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-10,2: Weekend (Sa-Su),5: Late PM (7pm-12am),242,14,16.991,0.816,7.000,10.000,17.000,20.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-11,0: All Days (M-Su),0: All Day (12am-12am),1002,15,17.709,0.838,9.000,11.000,18.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-11,0: All Days (M-Su),1: Early AM (12am-6am),31,16,17.709,0.889,10.000,12.000,19.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-11,0: All Days (M-Su),2: Peak AM (6am-10am),152,15,17.709,0.848,9.000,11.000,19.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-11,0: All Days (M-Su),3: Mid-Day (10am-3pm),311,15,17.709,0.835,9.000,11.000,18.000,21.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-11,0: All Days (M-Su),4: Peak PM (3pm-7pm),328,15,17.709,0.824,9.000,11.000,18.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-11,0: All Days (M-Su),5: Late PM (7pm-12am),180,15,17.709,0.849,10.000,12.000,18.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-11,1: Weekday (M-Th),0: All Day (12am-12am),992,15,17.709,0.841,9.000,11.000,18.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-11,1: Weekday (M-Th),1: Early AM (12am-6am),25,15,17.709,0.851,11.000,12.000,18.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-11,1: Weekday (M-Th),2: Peak AM (6am-10am),177,15,17.709,0.853,10.000,11.000,19.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-11,1: Weekday (M-Th),3: Mid-Day (10am-3pm),301,15,17.709,0.837,9.000,11.000,18.000,21.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-11,1: Weekday (M-Th),4: Peak PM (3pm-7pm),335,15,17.709,0.833,9.000,11.000,18.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-11,1: Weekday (M-Th),5: Late PM (7pm-12am),154,15,17.709,0.849,10.000,12.000,18.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-11,2: Weekend (Sa-Su),0: All Day (12am-12am),948,15,17.709,0.833,9.000,11.000,18.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-11,2: Weekend (Sa-Su),1: Early AM (12am-6am),38,17,17.709,0.937,10.000,13.000,19.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-11,2: Weekend (Sa-Su),2: Peak AM (6am-10am),89,15,17.709,0.849,10.000,12.000,19.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-11,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),349,15,17.709,0.824,8.000,11.000,18.000,21.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-11,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),289,14,17.709,0.817,9.000,11.000,17.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-11,2: Weekend (Sa-Su),5: Late PM (7pm-12am),183,15,17.709,0.845,9.000,12.000,18.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-12,0: All Days (M-Su),0: All Day (12am-12am),821,15,18.511,0.790,9.000,11.000,18.000,21.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-12,0: All Days (M-Su),1: Early AM (12am-6am),23,15,18.511,0.814,11.000,12.000,17.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-12,0: All Days (M-Su),2: Peak AM (6am-10am),104,15,18.511,0.818,10.000,11.000,19.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-12,0: All Days (M-Su),3: Mid-Day (10am-3pm),267,15,18.511,0.788,9.000,11.000,18.000,21.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-12,0: All Days (M-Su),4: Peak PM (3pm-7pm),288,14,18.511,0.776,9.000,11.000,17.000,21.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-12,0: All Days (M-Su),5: Late PM (7pm-12am),140,15,18.511,0.800,9.000,11.000,18.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-12,1: Weekday (M-Th),0: All Day (12am-12am),832,15,18.511,0.801,9.000,11.000,18.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-12,1: Weekday (M-Th),1: Early AM (12am-6am),16,15,18.511,0.805,12.000,13.000,17.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-12,1: Weekday (M-Th),2: Peak AM (6am-10am),122,15,18.511,0.821,9.000,11.000,19.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-12,1: Weekday (M-Th),3: Mid-Day (10am-3pm),253,15,18.511,0.804,9.000,11.000,18.000,21.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-12,1: Weekday (M-Th),4: Peak PM (3pm-7pm),311,15,18.511,0.787,9.000,11.000,18.000,21.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-12,1: Weekday (M-Th),5: Late PM (7pm-12am),130,15,18.511,0.809,9.000,11.000,18.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-12,2: Weekend (Sa-Su),0: All Day (12am-12am),750,14,18.511,0.771,9.000,11.000,17.000,21.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-12,2: Weekend (Sa-Su),1: Early AM (12am-6am),43,15,18.511,0.803,10.000,12.000,17.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-12,2: Weekend (Sa-Su),2: Peak AM (6am-10am),57,15,18.511,0.810,10.000,12.000,18.000,21.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-12,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),266,14,18.511,0.763,8.000,11.000,18.000,21.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-12,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),236,14,18.511,0.754,8.000,11.000,16.000,21.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2021-12,2: Weekend (Sa-Su),5: Late PM (7pm-12am),148,15,18.511,0.788,9.000,11.000,17.000,21.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2022-01,0: All Days (M-Su),0: All Day (12am-12am),873,15,20.932,0.701,9.000,11.000,18.000,21.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2022-01,0: All Days (M-Su),1: Early AM (12am-6am),24,16,20.932,0.745,11.000,12.000,19.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2022-01,0: All Days (M-Su),2: Peak AM (6am-10am),153,15,20.932,0.716,9.000,12.000,18.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2022-01,0: All Days (M-Su),3: Mid-Day (10am-3pm),288,14,20.932,0.692,9.000,11.000,18.000,21.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2022-01,0: All Days (M-Su),4: Peak PM (3pm-7pm),275,15,20.932,0.693,9.000,11.000,18.000,21.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2022-01,0: All Days (M-Su),5: Late PM (7pm-12am),133,15,20.932,0.713,9.000,12.000,18.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2022-01,1: Weekday (M-Th),0: All Day (12am-12am),909,15,20.932,0.703,9.000,11.000,18.000,21.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2022-01,1: Weekday (M-Th),1: Early AM (12am-6am),20,15,20.932,0.733,12.000,12.000,22.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2022-01,1: Weekday (M-Th),2: Peak AM (6am-10am),202,15,20.932,0.718,9.000,12.000,18.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2022-01,1: Weekday (M-Th),3: Mid-Day (10am-3pm),284,15,20.932,0.699,9.000,11.000,18.000,21.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2022-01,1: Weekday (M-Th),4: Peak PM (3pm-7pm),284,14,20.932,0.688,8.000,11.000,17.000,21.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2022-01,1: Weekday (M-Th),5: Late PM (7pm-12am),119,15,20.932,0.716,8.000,11.000,18.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2022-01,2: Weekend (Sa-Su),0: All Day (12am-12am),716,15,20.932,0.698,8.000,11.000,18.000,21.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2022-01,2: Weekend (Sa-Su),1: Early AM (12am-6am),31,15,20.932,0.726,9.000,13.000,17.000,20.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2022-01,2: Weekend (Sa-Su),2: Peak AM (6am-10am),60,15,20.932,0.716,7.000,11.000,19.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2022-01,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),288,14,20.932,0.682,7.000,11.000,18.000,21.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2022-01,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),216,15,20.932,0.699,9.000,11.000,18.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2022-01,2: Weekend (Sa-Su),5: Late PM (7pm-12am),120,15,20.932,0.717,9.000,12.000,18.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2022-02,0: All Days (M-Su),0: All Day (12am-12am),1043,15,20.154,0.737,9.000,11.000,18.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2022-02,0: All Days (M-Su),1: Early AM (12am-6am),30,16,20.154,0.808,11.000,12.000,21.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2022-02,0: All Days (M-Su),2: Peak AM (6am-10am),175,15,20.154,0.753,10.000,12.000,19.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2022-02,0: All Days (M-Su),3: Mid-Day (10am-3pm),322,15,20.154,0.730,9.000,11.000,18.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2022-02,0: All Days (M-Su),4: Peak PM (3pm-7pm),336,15,20.154,0.725,9.000,11.000,18.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2022-02,0: All Days (M-Su),5: Late PM (7pm-12am),179,15,20.154,0.745,9.000,11.000,19.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2022-02,1: Weekday (M-Th),0: All Day (12am-12am),1030,15,20.154,0.749,9.000,11.000,19.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2022-02,1: Weekday (M-Th),1: Early AM (12am-6am),23,17,20.154,0.824,11.000,13.000,21.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2022-02,1: Weekday (M-Th),2: Peak AM (6am-10am),213,15,20.154,0.764,10.000,12.000,19.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2022-02,1: Weekday (M-Th),3: Mid-Day (10am-3pm),297,15,20.154,0.746,9.000,11.000,19.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2022-02,1: Weekday (M-Th),4: Peak PM (3pm-7pm),334,15,20.154,0.730,9.000,11.000,18.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2022-02,1: Weekday (M-Th),5: Late PM (7pm-12am),162,15,20.154,0.762,10.000,12.000,20.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2022-02,2: Weekend (Sa-Su),0: All Day (12am-12am),912,15,20.154,0.721,9.000,11.000,18.000,21.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2022-02,2: Weekend (Sa-Su),1: Early AM (12am-6am),46,16,20.154,0.813,11.000,13.000,20.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2022-02,2: Weekend (Sa-Su),2: Peak AM (6am-10am),74,14,20.154,0.707,7.000,11.000,16.000,21.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2022-02,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),337,14,20.154,0.709,9.000,11.000,17.000,21.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2022-02,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),284,14,20.154,0.714,9.000,11.000,17.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2022-02,2: Weekend (Sa-Su),5: Late PM (7pm-12am),171,15,20.154,0.736,10.000,12.000,18.000,21.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2022-03,0: All Days (M-Su),0: All Day (12am-12am),1043,15,19.266,0.770,9.000,11.000,18.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2022-03,0: All Days (M-Su),1: Early AM (12am-6am),33,16,19.266,0.839,9.000,12.000,20.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2022-03,0: All Days (M-Su),2: Peak AM (6am-10am),170,15,19.266,0.790,10.000,12.000,19.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2022-03,0: All Days (M-Su),3: Mid-Day (10am-3pm),312,15,19.266,0.764,9.000,11.000,18.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2022-03,0: All Days (M-Su),4: Peak PM (3pm-7pm),338,15,19.266,0.756,9.000,11.000,17.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2022-03,0: All Days (M-Su),5: Late PM (7pm-12am),189,15,19.266,0.774,10.000,11.000,18.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2022-03,1: Weekday (M-Th),0: All Day (12am-12am),1012,15,19.266,0.777,10.000,11.000,18.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2022-03,1: Weekday (M-Th),1: Early AM (12am-6am),29,16,19.266,0.849,5.000,12.000,20.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2022-03,1: Weekday (M-Th),2: Peak AM (6am-10am),205,15,19.266,0.791,10.000,12.000,19.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2022-03,1: Weekday (M-Th),3: Mid-Day (10am-3pm),274,15,19.266,0.780,10.000,11.000,19.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2022-03,1: Weekday (M-Th),4: Peak PM (3pm-7pm),348,15,19.266,0.762,9.000,11.000,18.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2022-03,1: Weekday (M-Th),5: Late PM (7pm-12am),157,15,19.266,0.775,10.000,12.000,18.000,21.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2022-03,2: Weekend (Sa-Su),0: All Day (12am-12am),954,15,19.266,0.757,9.000,11.000,18.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2022-03,2: Weekend (Sa-Su),1: Early AM (12am-6am),43,16,19.266,0.833,9.000,12.000,20.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2022-03,2: Weekend (Sa-Su),2: Peak AM (6am-10am),80,15,19.266,0.783,10.000,12.000,19.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2022-03,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),358,14,19.266,0.739,9.000,11.000,17.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2022-03,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),272,14,19.266,0.739,9.000,11.000,17.000,21.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2022-03,2: Weekend (Sa-Su),5: Late PM (7pm-12am),201,15,19.266,0.785,10.000,12.000,19.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2022-04,0: All Days (M-Su),0: All Day (12am-12am),1112,15,17.887,0.828,9.000,11.000,18.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2022-04,0: All Days (M-Su),1: Early AM (12am-6am),35,16,17.887,0.886,8.000,12.000,19.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2022-04,0: All Days (M-Su),2: Peak AM (6am-10am),173,15,17.887,0.839,9.000,11.000,19.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2022-04,0: All Days (M-Su),3: Mid-Day (10am-3pm),338,15,17.887,0.826,9.000,11.000,18.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2022-04,0: All Days (M-Su),4: Peak PM (3pm-7pm),360,15,17.887,0.819,9.000,11.000,18.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2022-04,0: All Days (M-Su),5: Late PM (7pm-12am),206,15,17.887,0.827,10.000,11.000,18.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2022-04,1: Weekday (M-Th),0: All Day (12am-12am),1094,15,17.887,0.837,10.000,11.000,18.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2022-04,1: Weekday (M-Th),1: Early AM (12am-6am),32,15,17.887,0.861,8.000,11.000,19.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2022-04,1: Weekday (M-Th),2: Peak AM (6am-10am),210,15,17.887,0.831,9.000,11.000,18.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2022-04,1: Weekday (M-Th),3: Mid-Day (10am-3pm),311,15,17.887,0.839,10.000,11.000,19.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2022-04,1: Weekday (M-Th),4: Peak PM (3pm-7pm),355,15,17.887,0.832,10.000,11.000,18.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2022-04,1: Weekday (M-Th),5: Late PM (7pm-12am),187,15,17.887,0.845,10.000,12.000,18.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2022-04,2: Weekend (Sa-Su),0: All Day (12am-12am),1017,14,17.887,0.810,9.000,11.000,18.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2022-04,2: Weekend (Sa-Su),1: Early AM (12am-6am),40,16,17.887,0.897,8.000,13.000,20.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2022-04,2: Weekend (Sa-Su),2: Peak AM (6am-10am),91,15,17.887,0.844,10.000,12.000,20.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2022-04,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),379,14,17.887,0.808,9.000,11.000,17.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2022-04,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),318,14,17.887,0.785,8.000,11.000,17.000,21.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2022-04,2: Weekend (Sa-Su),5: Late PM (7pm-12am),189,15,17.887,0.819,9.000,11.000,18.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2022-05,0: All Days (M-Su),0: All Day (12am-12am),1092,15,18.844,0.789,9.000,11.000,18.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2022-05,0: All Days (M-Su),1: Early AM (12am-6am),31,16,18.844,0.860,10.000,13.000,21.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2022-05,0: All Days (M-Su),2: Peak AM (6am-10am),182,15,18.844,0.813,10.000,12.000,19.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2022-05,0: All Days (M-Su),3: Mid-Day (10am-3pm),332,15,18.844,0.777,9.000,11.000,18.000,21.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2022-05,0: All Days (M-Su),4: Peak PM (3pm-7pm),349,15,18.844,0.777,9.000,11.000,18.000,21.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2022-05,0: All Days (M-Su),5: Late PM (7pm-12am),199,15,18.844,0.798,10.000,11.000,19.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2022-05,1: Weekday (M-Th),0: All Day (12am-12am),1095,15,18.844,0.798,9.000,11.000,19.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2022-05,1: Weekday (M-Th),1: Early AM (12am-6am),26,17,18.844,0.884,13.000,14.000,21.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2022-05,1: Weekday (M-Th),2: Peak AM (6am-10am),219,15,18.844,0.812,10.000,12.000,19.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2022-05,1: Weekday (M-Th),3: Mid-Day (10am-3pm),312,15,18.844,0.784,9.000,11.000,18.000,21.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2022-05,1: Weekday (M-Th),4: Peak PM (3pm-7pm),360,15,18.844,0.784,9.000,11.000,18.000,21.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2022-05,1: Weekday (M-Th),5: Late PM (7pm-12am),178,15,18.844,0.818,11.000,12.000,20.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2022-05,2: Weekend (Sa-Su),0: All Day (12am-12am),994,15,18.844,0.777,9.000,11.000,18.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2022-05,2: Weekend (Sa-Su),1: Early AM (12am-6am),41,16,18.844,0.861,7.000,11.000,21.000,25.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2022-05,2: Weekend (Sa-Su),2: Peak AM (6am-10am),97,15,18.844,0.814,10.000,12.000,20.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2022-05,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),361,14,18.844,0.764,9.000,11.000,18.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2022-05,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),291,14,18.844,0.767,9.000,11.000,17.000,21.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50,yes,193,yes,2022-05,2: Weekend (Sa-Su),5: Late PM (7pm-12am),204,15,18.844,0.781,10.000,11.000,18.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-06,0: All Days (M-Su),0: All Day (12am-12am),2342,17,23.293,0.716,7.000,11.000,22.000,29.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-06,0: All Days (M-Su),1: Early AM (12am-6am),59,19,23.293,0.795,10.000,13.000,24.000,30.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-06,0: All Days (M-Su),2: Peak AM (6am-10am),294,18,23.293,0.752,8.000,11.000,24.000,31.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-06,0: All Days (M-Su),3: Mid-Day (10am-3pm),800,16,23.293,0.701,7.000,11.000,22.000,29.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-06,0: All Days (M-Su),4: Peak PM (3pm-7pm),701,16,23.293,0.700,7.000,11.000,22.000,28.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-06,0: All Days (M-Su),5: Late PM (7pm-12am),489,17,23.293,0.734,8.000,12.000,23.000,29.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-06,1: Weekday (M-Th),0: All Day (12am-12am),2173,17,23.293,0.725,7.000,11.000,23.000,30.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-06,1: Weekday (M-Th),1: Early AM (12am-6am),51,19,23.293,0.819,9.000,12.000,25.000,31.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-06,1: Weekday (M-Th),2: Peak AM (6am-10am),324,18,23.293,0.756,8.000,12.000,24.000,31.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-06,1: Weekday (M-Th),3: Mid-Day (10am-3pm),729,17,23.293,0.719,7.000,11.000,23.000,30.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-06,1: Weekday (M-Th),4: Peak PM (3pm-7pm),649,16,23.293,0.702,6.000,11.000,22.000,29.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-06,1: Weekday (M-Th),5: Late PM (7pm-12am),421,17,23.293,0.738,8.000,12.000,23.000,30.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-06,2: Weekend (Sa-Su),0: All Day (12am-12am),2457,16,23.293,0.703,7.000,11.000,22.000,29.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-06,2: Weekend (Sa-Su),1: Early AM (12am-6am),80,18,23.293,0.764,10.000,13.000,22.000,30.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-06,2: Weekend (Sa-Su),2: Peak AM (6am-10am),188,17,23.293,0.735,7.000,11.000,23.000,31.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-06,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),929,16,23.293,0.671,6.000,10.000,21.000,28.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-06,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),744,16,23.293,0.699,7.000,11.000,22.000,29.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-06,2: Weekend (Sa-Su),5: Late PM (7pm-12am),517,17,23.293,0.744,9.000,12.000,23.000,29.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-07,0: All Days (M-Su),0: All Day (12am-12am),2379,16,25.702,0.635,6.000,11.000,22.000,29.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-07,0: All Days (M-Su),1: Early AM (12am-6am),68,19,25.702,0.736,11.000,13.000,24.000,30.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-07,0: All Days (M-Su),2: Peak AM (6am-10am),301,17,25.702,0.670,7.000,11.000,24.000,29.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-07,0: All Days (M-Su),3: Mid-Day (10am-3pm),784,16,25.702,0.621,6.000,10.000,21.000,28.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-07,0: All Days (M-Su),4: Peak PM (3pm-7pm),716,16,25.702,0.606,5.000,10.000,20.000,28.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-07,0: All Days (M-Su),5: Late PM (7pm-12am),510,17,25.702,0.662,8.000,12.000,23.000,29.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-07,1: Weekday (M-Th),0: All Day (12am-12am),2288,17,25.702,0.644,6.000,11.000,22.000,29.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-07,1: Weekday (M-Th),1: Early AM (12am-6am),51,18,25.702,0.718,11.000,14.000,22.000,29.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-07,1: Weekday (M-Th),2: Peak AM (6am-10am),329,17,25.702,0.681,7.000,11.000,24.000,30.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-07,1: Weekday (M-Th),3: Mid-Day (10am-3pm),733,16,25.702,0.641,6.000,11.000,22.000,29.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-07,1: Weekday (M-Th),4: Peak PM (3pm-7pm),709,16,25.702,0.606,5.000,10.000,20.000,28.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-07,1: Weekday (M-Th),5: Late PM (7pm-12am),466,17,25.702,0.675,9.000,12.000,23.000,29.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-07,2: Weekend (Sa-Su),0: All Day (12am-12am),2322,16,25.702,0.625,6.000,10.000,21.000,28.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-07,2: Weekend (Sa-Su),1: Early AM (12am-6am),101,19,25.702,0.747,10.000,13.000,26.000,31.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-07,2: Weekend (Sa-Su),2: Peak AM (6am-10am),213,17,25.702,0.654,7.000,12.000,22.000,29.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-07,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),881,15,25.702,0.600,6.000,10.000,20.000,27.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-07,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),677,16,25.702,0.611,6.000,10.000,21.000,27.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-07,2: Weekend (Sa-Su),5: Late PM (7pm-12am),450,17,25.702,0.653,8.000,12.000,22.000,29.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-08,0: All Days (M-Su),0: All Day (12am-12am),2418,16,23.191,0.692,6.000,10.000,21.000,29.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-08,0: All Days (M-Su),1: Early AM (12am-6am),55,18,23.191,0.776,8.000,12.000,24.000,31.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-08,0: All Days (M-Su),2: Peak AM (6am-10am),334,17,23.191,0.727,6.000,11.000,23.000,30.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-08,0: All Days (M-Su),3: Mid-Day (10am-3pm),811,16,23.191,0.677,5.000,10.000,21.000,28.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-08,0: All Days (M-Su),4: Peak PM (3pm-7pm),737,16,23.191,0.672,6.000,10.000,20.000,28.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-08,0: All Days (M-Su),5: Late PM (7pm-12am),481,17,23.191,0.715,8.000,11.000,22.000,29.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-08,1: Weekday (M-Th),0: All Day (12am-12am),2331,16,23.191,0.709,6.000,11.000,22.000,29.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-08,1: Weekday (M-Th),1: Early AM (12am-6am),41,18,23.191,0.784,9.000,14.000,24.000,31.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-08,1: Weekday (M-Th),2: Peak AM (6am-10am),401,17,23.191,0.724,6.000,11.000,23.000,30.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-08,1: Weekday (M-Th),3: Mid-Day (10am-3pm),768,16,23.191,0.702,6.000,10.000,22.000,29.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-08,1: Weekday (M-Th),4: Peak PM (3pm-7pm),722,16,23.191,0.687,6.000,10.000,21.000,28.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-08,1: Weekday (M-Th),5: Late PM (7pm-12am),399,17,23.191,0.742,9.000,12.000,22.000,30.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-08,2: Weekend (Sa-Su),0: All Day (12am-12am),2369,15,23.191,0.665,6.000,10.000,21.000,28.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-08,2: Weekend (Sa-Su),1: Early AM (12am-6am),79,18,23.191,0.773,7.000,12.000,25.000,32.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-08,2: Weekend (Sa-Su),2: Peak AM (6am-10am),178,17,23.191,0.727,6.000,11.000,24.000,30.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-08,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),889,15,23.191,0.638,5.000,9.000,20.000,27.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-08,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),684,15,23.191,0.656,5.000,9.000,20.000,27.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-08,2: Weekend (Sa-Su),5: Late PM (7pm-12am),540,16,23.191,0.686,7.000,10.000,21.000,28.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-09,0: All Days (M-Su),0: All Day (12am-12am),2626,16,23.125,0.692,6.000,10.000,21.000,28.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-09,0: All Days (M-Su),1: Early AM (12am-6am),68,18,23.125,0.783,10.000,13.000,23.000,29.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-09,0: All Days (M-Su),2: Peak AM (6am-10am),390,16,23.125,0.712,5.000,10.000,22.000,29.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-09,0: All Days (M-Su),3: Mid-Day (10am-3pm),841,16,23.125,0.677,6.000,10.000,21.000,28.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-09,0: All Days (M-Su),4: Peak PM (3pm-7pm),808,16,23.125,0.672,5.000,10.000,21.000,28.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-09,0: All Days (M-Su),5: Late PM (7pm-12am),518,17,23.125,0.719,8.000,11.000,22.000,29.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-09,1: Weekday (M-Th),0: All Day (12am-12am),2551,16,23.125,0.706,6.000,11.000,22.000,28.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-09,1: Weekday (M-Th),1: Early AM (12am-6am),53,18,23.125,0.772,11.000,13.000,22.000,29.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-09,1: Weekday (M-Th),2: Peak AM (6am-10am),454,16,23.125,0.708,5.000,10.000,22.000,29.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-09,1: Weekday (M-Th),3: Mid-Day (10am-3pm),782,16,23.125,0.704,7.000,11.000,21.000,28.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-09,1: Weekday (M-Th),4: Peak PM (3pm-7pm),814,16,23.125,0.681,5.000,10.000,21.000,28.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-09,1: Weekday (M-Th),5: Late PM (7pm-12am),448,17,23.125,0.746,9.000,12.000,23.000,29.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-09,2: Weekend (Sa-Su),0: All Day (12am-12am),2533,15,23.125,0.667,6.000,10.000,21.000,28.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-09,2: Weekend (Sa-Su),1: Early AM (12am-6am),103,18,23.125,0.790,10.000,13.000,26.000,31.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-09,2: Weekend (Sa-Su),2: Peak AM (6am-10am),205,17,23.125,0.725,6.000,11.000,23.000,30.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-09,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),948,15,23.125,0.632,5.000,9.000,20.000,26.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-09,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),717,15,23.125,0.663,5.000,10.000,20.000,28.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-09,2: Weekend (Sa-Su),5: Late PM (7pm-12am),561,16,23.125,0.688,7.000,10.000,21.000,28.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-10,0: All Days (M-Su),0: All Day (12am-12am),2885,15,23.658,0.654,6.000,9.000,21.000,28.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-10,0: All Days (M-Su),1: Early AM (12am-6am),92,18,23.658,0.771,9.000,13.000,24.000,31.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-10,0: All Days (M-Su),2: Peak AM (6am-10am),379,17,23.658,0.700,5.000,10.000,23.000,29.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-10,0: All Days (M-Su),3: Mid-Day (10am-3pm),904,15,23.658,0.639,5.000,9.000,20.000,27.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-10,0: All Days (M-Su),4: Peak PM (3pm-7pm),905,15,23.658,0.626,5.000,9.000,20.000,27.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-10,0: All Days (M-Su),5: Late PM (7pm-12am),605,16,23.658,0.674,7.000,10.000,21.000,28.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-10,1: Weekday (M-Th),0: All Day (12am-12am),2759,16,23.658,0.677,6.000,10.000,22.000,28.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-10,1: Weekday (M-Th),1: Early AM (12am-6am),67,18,23.658,0.768,9.000,13.000,24.000,30.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-10,1: Weekday (M-Th),2: Peak AM (6am-10am),468,17,23.658,0.700,5.000,10.000,23.000,29.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-10,1: Weekday (M-Th),3: Mid-Day (10am-3pm),848,16,23.658,0.664,6.000,10.000,21.000,28.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-10,1: Weekday (M-Th),4: Peak PM (3pm-7pm),864,15,23.658,0.648,5.000,10.000,20.000,27.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-10,1: Weekday (M-Th),5: Late PM (7pm-12am),513,17,23.658,0.714,8.000,11.000,23.000,29.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-10,2: Weekend (Sa-Su),0: All Day (12am-12am),2653,15,23.658,0.626,5.000,9.000,20.000,27.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-10,2: Weekend (Sa-Su),1: Early AM (12am-6am),135,18,23.658,0.759,9.000,12.000,24.000,31.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-10,2: Weekend (Sa-Su),2: Peak AM (6am-10am),191,17,23.658,0.702,7.000,10.000,24.000,31.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-10,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),985,14,23.658,0.605,5.000,8.000,19.000,26.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-10,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),834,14,23.658,0.604,5.000,8.000,19.000,26.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-10,2: Weekend (Sa-Su),5: Late PM (7pm-12am),508,15,23.658,0.642,6.000,10.000,20.000,26.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-11,0: All Days (M-Su),0: All Day (12am-12am),2344,16,22.245,0.708,6.000,10.000,21.000,28.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-11,0: All Days (M-Su),1: Early AM (12am-6am),65,18,22.245,0.814,10.000,13.000,22.000,29.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-11,0: All Days (M-Su),2: Peak AM (6am-10am),351,17,22.245,0.744,6.000,11.000,22.000,29.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-11,0: All Days (M-Su),3: Mid-Day (10am-3pm),781,15,22.245,0.684,5.000,9.000,20.000,28.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-11,0: All Days (M-Su),4: Peak PM (3pm-7pm),728,15,22.245,0.682,5.000,9.000,20.000,27.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-11,0: All Days (M-Su),5: Late PM (7pm-12am),419,17,22.245,0.754,8.000,12.000,22.000,29.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-11,1: Weekday (M-Th),0: All Day (12am-12am),2300,16,22.245,0.719,5.000,10.000,21.000,28.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-11,1: Weekday (M-Th),1: Early AM (12am-6am),58,18,22.245,0.832,9.000,13.000,23.000,30.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-11,1: Weekday (M-Th),2: Peak AM (6am-10am),411,16,22.245,0.733,5.000,10.000,22.000,29.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-11,1: Weekday (M-Th),3: Mid-Day (10am-3pm),728,16,22.245,0.705,5.000,10.000,21.000,29.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-11,1: Weekday (M-Th),4: Peak PM (3pm-7pm),727,15,22.245,0.689,5.000,9.000,20.000,27.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-11,1: Weekday (M-Th),5: Late PM (7pm-12am),375,17,22.245,0.774,8.000,12.000,23.000,30.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-11,2: Weekend (Sa-Su),0: All Day (12am-12am),2281,15,22.245,0.688,6.000,10.000,21.000,27.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-11,2: Weekend (Sa-Su),1: Early AM (12am-6am),77,18,22.245,0.795,10.000,13.000,21.000,29.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-11,2: Weekend (Sa-Su),2: Peak AM (6am-10am),200,17,22.245,0.768,8.000,12.000,22.000,29.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-11,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),932,14,22.245,0.651,5.000,9.000,19.000,26.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-11,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),684,15,22.245,0.672,5.000,9.000,20.000,27.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-11,2: Weekend (Sa-Su),5: Late PM (7pm-12am),389,17,22.245,0.743,7.000,12.000,21.000,29.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-12,0: All Days (M-Su),0: All Day (12am-12am),1994,15,22.484,0.685,5.000,10.000,21.000,27.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-12,0: All Days (M-Su),1: Early AM (12am-6am),52,18,22.484,0.801,10.000,13.000,23.000,29.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-12,0: All Days (M-Su),2: Peak AM (6am-10am),258,17,22.484,0.741,6.000,11.000,23.000,30.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-12,0: All Days (M-Su),3: Mid-Day (10am-3pm),714,15,22.484,0.662,5.000,9.000,20.000,26.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-12,0: All Days (M-Su),4: Peak PM (3pm-7pm),629,15,22.484,0.653,4.000,9.000,20.000,26.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-12,0: All Days (M-Su),5: Late PM (7pm-12am),341,16,22.484,0.732,8.000,11.000,22.000,29.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-12,1: Weekday (M-Th),0: All Day (12am-12am),2009,16,22.484,0.701,6.000,10.000,21.000,28.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-12,1: Weekday (M-Th),1: Early AM (12am-6am),46,18,22.484,0.798,9.000,13.000,24.000,28.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-12,1: Weekday (M-Th),2: Peak AM (6am-10am),302,17,22.484,0.747,6.000,11.000,23.000,30.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-12,1: Weekday (M-Th),3: Mid-Day (10am-3pm),672,15,22.484,0.684,5.000,10.000,20.000,27.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-12,1: Weekday (M-Th),4: Peak PM (3pm-7pm),661,15,22.484,0.666,5.000,9.000,20.000,26.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-12,1: Weekday (M-Th),5: Late PM (7pm-12am),329,17,22.484,0.752,9.000,12.000,22.000,29.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-12,2: Weekend (Sa-Su),0: All Day (12am-12am),1857,15,22.484,0.654,5.000,9.000,20.000,26.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-12,2: Weekend (Sa-Su),1: Early AM (12am-6am),67,18,22.484,0.801,10.000,13.000,23.000,31.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-12,2: Weekend (Sa-Su),2: Peak AM (6am-10am),136,17,22.484,0.749,6.000,12.000,22.000,29.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-12,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),763,14,22.484,0.621,5.000,8.000,19.000,25.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-12,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),551,14,22.484,0.625,4.000,7.000,19.000,26.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2021-12,2: Weekend (Sa-Su),5: Late PM (7pm-12am),341,16,22.484,0.708,7.000,11.000,21.000,28.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2022-01,0: All Days (M-Su),0: All Day (12am-12am),2346,15,23.523,0.652,5.000,9.000,21.000,28.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2022-01,0: All Days (M-Su),1: Early AM (12am-6am),48,19,23.523,0.792,10.000,13.000,27.000,31.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2022-01,0: All Days (M-Su),2: Peak AM (6am-10am),439,16,23.523,0.666,5.000,9.000,22.000,29.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2022-01,0: All Days (M-Su),3: Mid-Day (10am-3pm),844,15,23.523,0.623,4.000,8.000,20.000,26.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2022-01,0: All Days (M-Su),4: Peak PM (3pm-7pm),682,15,23.523,0.647,5.000,9.000,20.000,27.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2022-01,0: All Days (M-Su),5: Late PM (7pm-12am),334,16,23.523,0.698,8.000,12.000,21.000,28.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2022-01,1: Weekday (M-Th),0: All Day (12am-12am),2563,15,23.523,0.646,4.000,9.000,21.000,27.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2022-01,1: Weekday (M-Th),1: Early AM (12am-6am),44,19,23.523,0.813,10.000,13.000,28.000,33.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2022-01,1: Weekday (M-Th),2: Peak AM (6am-10am),608,15,23.523,0.650,5.000,8.000,21.000,29.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2022-01,1: Weekday (M-Th),3: Mid-Day (10am-3pm),908,14,23.523,0.613,4.000,8.000,20.000,26.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2022-01,1: Weekday (M-Th),4: Peak PM (3pm-7pm),696,15,23.523,0.648,4.000,9.000,21.000,27.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2022-01,1: Weekday (M-Th),5: Late PM (7pm-12am),308,17,23.523,0.708,8.000,12.000,21.000,28.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2022-01,2: Weekend (Sa-Su),0: All Day (12am-12am),1813,15,23.523,0.654,6.000,10.000,20.000,28.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2022-01,2: Weekend (Sa-Su),1: Early AM (12am-6am),54,18,23.523,0.754,10.000,13.000,22.000,29.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2022-01,2: Weekend (Sa-Su),2: Peak AM (6am-10am),148,17,23.523,0.725,7.000,11.000,23.000,31.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2022-01,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),761,15,23.523,0.623,5.000,9.000,20.000,27.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2022-01,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),563,15,23.523,0.646,6.000,9.000,20.000,27.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2022-01,2: Weekend (Sa-Su),5: Late PM (7pm-12am),287,16,23.523,0.694,7.000,12.000,21.000,29.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2022-02,0: All Days (M-Su),0: All Day (12am-12am),2261,16,23.590,0.681,7.000,10.000,22.000,28.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2022-02,0: All Days (M-Su),1: Early AM (12am-6am),55,18,23.590,0.766,10.000,13.000,24.000,32.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2022-02,0: All Days (M-Su),2: Peak AM (6am-10am),358,17,23.590,0.712,7.000,11.000,23.000,30.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2022-02,0: All Days (M-Su),3: Mid-Day (10am-3pm),754,16,23.590,0.664,6.000,10.000,21.000,28.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2022-02,0: All Days (M-Su),4: Peak PM (3pm-7pm),706,16,23.590,0.665,6.000,10.000,21.000,28.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2022-02,0: All Days (M-Su),5: Late PM (7pm-12am),388,17,23.590,0.704,7.000,11.000,22.000,29.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2022-02,1: Weekday (M-Th),0: All Day (12am-12am),2234,16,23.590,0.692,7.000,11.000,22.000,29.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2022-02,1: Weekday (M-Th),1: Early AM (12am-6am),52,18,23.590,0.766,10.000,12.000,24.000,32.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2022-02,1: Weekday (M-Th),2: Peak AM (6am-10am),433,17,23.590,0.717,7.000,11.000,23.000,30.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2022-02,1: Weekday (M-Th),3: Mid-Day (10am-3pm),684,16,23.590,0.677,7.000,10.000,21.000,28.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2022-02,1: Weekday (M-Th),4: Peak PM (3pm-7pm),713,16,23.590,0.674,6.000,10.000,21.000,28.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2022-02,1: Weekday (M-Th),5: Late PM (7pm-12am),352,17,23.590,0.717,8.000,12.000,23.000,29.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2022-02,2: Weekend (Sa-Su),0: All Day (12am-12am),1985,16,23.590,0.664,7.000,10.000,21.000,28.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2022-02,2: Weekend (Sa-Su),1: Early AM (12am-6am),67,18,23.590,0.768,10.000,13.000,24.000,32.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2022-02,2: Weekend (Sa-Su),2: Peak AM (6am-10am),164,17,23.590,0.709,7.000,11.000,23.000,30.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2022-02,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),803,15,23.590,0.644,6.000,10.000,21.000,28.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2022-02,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),595,15,23.590,0.646,6.000,9.000,20.000,27.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2022-02,2: Weekend (Sa-Su),5: Late PM (7pm-12am),355,16,23.590,0.699,7.000,11.000,22.000,29.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2022-03,0: All Days (M-Su),0: All Day (12am-12am),2273,17,23.898,0.694,7.000,11.000,22.000,29.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2022-03,0: All Days (M-Su),1: Early AM (12am-6am),59,19,23.898,0.781,9.000,13.000,25.000,32.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2022-03,0: All Days (M-Su),2: Peak AM (6am-10am),365,17,23.898,0.729,8.000,12.000,24.000,30.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2022-03,0: All Days (M-Su),3: Mid-Day (10am-3pm),697,16,23.898,0.678,7.000,10.000,22.000,29.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2022-03,0: All Days (M-Su),4: Peak PM (3pm-7pm),728,16,23.898,0.682,7.000,10.000,22.000,29.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2022-03,0: All Days (M-Su),5: Late PM (7pm-12am),425,17,23.898,0.697,8.000,11.000,22.000,29.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2022-03,1: Weekday (M-Th),0: All Day (12am-12am),2150,17,23.898,0.712,8.000,11.000,23.000,30.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2022-03,1: Weekday (M-Th),1: Early AM (12am-6am),52,19,23.898,0.799,7.000,13.000,27.000,34.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2022-03,1: Weekday (M-Th),2: Peak AM (6am-10am),435,17,23.898,0.731,8.000,12.000,24.000,30.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2022-03,1: Weekday (M-Th),3: Mid-Day (10am-3pm),591,17,23.898,0.708,8.000,11.000,23.000,30.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2022-03,1: Weekday (M-Th),4: Peak PM (3pm-7pm),697,17,23.898,0.698,7.000,11.000,23.000,29.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2022-03,1: Weekday (M-Th),5: Late PM (7pm-12am),376,17,23.898,0.709,8.000,12.000,23.000,29.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2022-03,2: Weekend (Sa-Su),0: All Day (12am-12am),2260,16,23.898,0.664,7.000,10.000,21.000,28.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2022-03,2: Weekend (Sa-Su),1: Early AM (12am-6am),75,18,23.898,0.745,9.000,13.000,23.000,31.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2022-03,2: Weekend (Sa-Su),2: Peak AM (6am-10am),165,17,23.898,0.718,8.000,12.000,23.000,31.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2022-03,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),880,15,23.898,0.633,6.000,9.000,21.000,28.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2022-03,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),716,16,23.898,0.657,7.000,10.000,21.000,28.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2022-03,2: Weekend (Sa-Su),5: Late PM (7pm-12am),423,17,23.898,0.705,9.000,11.000,23.000,29.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2022-04,0: All Days (M-Su),0: All Day (12am-12am),2428,16,23.352,0.702,7.000,11.000,22.000,29.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2022-04,0: All Days (M-Su),1: Early AM (12am-6am),61,19,23.352,0.800,9.000,13.000,25.000,31.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2022-04,0: All Days (M-Su),2: Peak AM (6am-10am),365,17,23.352,0.735,7.000,11.000,23.000,30.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2022-04,0: All Days (M-Su),3: Mid-Day (10am-3pm),764,16,23.352,0.689,7.000,10.000,21.000,29.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2022-04,0: All Days (M-Su),4: Peak PM (3pm-7pm),760,16,23.352,0.690,7.000,10.000,22.000,29.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2022-04,0: All Days (M-Su),5: Late PM (7pm-12am),479,17,23.352,0.707,8.000,11.000,22.000,29.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2022-04,1: Weekday (M-Th),0: All Day (12am-12am),2325,17,23.352,0.718,7.000,11.000,22.000,30.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2022-04,1: Weekday (M-Th),1: Early AM (12am-6am),53,19,23.352,0.813,8.000,13.000,27.000,31.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2022-04,1: Weekday (M-Th),2: Peak AM (6am-10am),429,17,23.352,0.736,7.000,11.000,23.000,31.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2022-04,1: Weekday (M-Th),3: Mid-Day (10am-3pm),667,17,23.352,0.712,7.000,11.000,22.000,29.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2022-04,1: Weekday (M-Th),4: Peak PM (3pm-7pm),738,17,23.352,0.707,7.000,11.000,22.000,29.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2022-04,1: Weekday (M-Th),5: Late PM (7pm-12am),438,17,23.352,0.715,8.000,12.000,22.000,29.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2022-04,2: Weekend (Sa-Su),0: All Day (12am-12am),2233,16,23.352,0.678,7.000,10.000,21.000,28.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2022-04,2: Weekend (Sa-Su),1: Early AM (12am-6am),66,18,23.352,0.786,10.000,13.000,22.000,32.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2022-04,2: Weekend (Sa-Su),2: Peak AM (6am-10am),193,17,23.352,0.730,7.000,12.000,23.000,29.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2022-04,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),883,15,23.352,0.660,7.000,10.000,20.000,28.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2022-04,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),694,15,23.352,0.659,7.000,10.000,20.000,27.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2022-04,2: Weekend (Sa-Su),5: Late PM (7pm-12am),397,16,23.352,0.706,8.000,11.000,22.000,28.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2022-05,0: All Days (M-Su),0: All Day (12am-12am),2357,17,24.356,0.681,7.000,11.000,22.000,29.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2022-05,0: All Days (M-Su),1: Early AM (12am-6am),53,19,24.356,0.765,10.000,13.000,26.000,31.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2022-05,0: All Days (M-Su),2: Peak AM (6am-10am),379,18,24.356,0.728,8.000,12.000,24.000,31.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2022-05,0: All Days (M-Su),3: Mid-Day (10am-3pm),748,16,24.356,0.668,7.000,10.000,22.000,29.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2022-05,0: All Days (M-Su),4: Peak PM (3pm-7pm),728,16,24.356,0.668,7.000,11.000,22.000,28.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2022-05,0: All Days (M-Su),5: Late PM (7pm-12am),448,16,24.356,0.677,8.000,11.000,22.000,29.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2022-05,1: Weekday (M-Th),0: All Day (12am-12am),2356,17,24.356,0.699,8.000,11.000,23.000,30.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2022-05,1: Weekday (M-Th),1: Early AM (12am-6am),44,19,24.356,0.783,11.000,14.000,26.000,31.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2022-05,1: Weekday (M-Th),2: Peak AM (6am-10am),465,18,24.356,0.734,8.000,12.000,24.000,31.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2022-05,1: Weekday (M-Th),3: Mid-Day (10am-3pm),694,17,24.356,0.697,6.000,11.000,23.000,30.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2022-05,1: Weekday (M-Th),4: Peak PM (3pm-7pm),734,17,24.356,0.680,7.000,11.000,22.000,29.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2022-05,1: Weekday (M-Th),5: Late PM (7pm-12am),418,17,24.356,0.690,8.000,12.000,22.000,29.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2022-05,2: Weekend (Sa-Su),0: All Day (12am-12am),2091,16,24.356,0.657,7.000,10.000,21.000,29.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2022-05,2: Weekend (Sa-Su),1: Early AM (12am-6am),71,19,24.356,0.765,10.000,13.000,26.000,31.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2022-05,2: Weekend (Sa-Su),2: Peak AM (6am-10am),162,18,24.356,0.731,8.000,12.000,24.000,30.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2022-05,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),819,15,24.356,0.628,7.000,10.000,20.000,28.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2022-05,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),628,16,24.356,0.650,7.000,10.000,21.000,28.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Avenue 50 (1),yes,193,yes,2022-05,2: Weekend (Sa-Su),5: Late PM (7pm-12am),412,17,24.356,0.679,8.000,11.000,22.000,29.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-06,0: All Days (M-Su),0: All Day (12am-12am),2065,18,26.377,0.677,12.000,14.000,22.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-06,0: All Days (M-Su),1: Early AM (12am-6am),43,20,26.377,0.751,13.000,16.000,23.000,27.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-06,0: All Days (M-Su),2: Peak AM (6am-10am),238,18,26.377,0.694,11.000,15.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-06,0: All Days (M-Su),3: Mid-Day (10am-3pm),707,18,26.377,0.675,12.000,14.000,21.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-06,0: All Days (M-Su),4: Peak PM (3pm-7pm),651,18,26.377,0.673,12.000,15.000,21.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-06,0: All Days (M-Su),5: Late PM (7pm-12am),427,18,26.377,0.668,11.000,14.000,21.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-06,1: Weekday (M-Th),0: All Day (12am-12am),1950,18,26.377,0.683,12.000,15.000,22.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-06,1: Weekday (M-Th),1: Early AM (12am-6am),38,21,26.377,0.778,13.000,15.000,23.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-06,1: Weekday (M-Th),2: Peak AM (6am-10am),265,18,26.377,0.687,10.000,14.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-06,1: Weekday (M-Th),3: Mid-Day (10am-3pm),641,18,26.377,0.684,12.000,15.000,22.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-06,1: Weekday (M-Th),4: Peak PM (3pm-7pm),631,18,26.377,0.678,12.000,15.000,22.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-06,1: Weekday (M-Th),5: Late PM (7pm-12am),375,18,26.377,0.676,11.000,14.000,22.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-06,2: Weekend (Sa-Su),0: All Day (12am-12am),2164,18,26.377,0.669,12.000,14.000,21.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-06,2: Weekend (Sa-Su),1: Early AM (12am-6am),55,19,26.377,0.709,12.000,16.000,23.000,28.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-06,2: Weekend (Sa-Su),2: Peak AM (6am-10am),155,19,26.377,0.718,13.000,15.000,23.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-06,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),852,17,26.377,0.660,12.000,14.000,21.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-06,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),633,18,26.377,0.664,12.000,14.000,21.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-06,2: Weekend (Sa-Su),5: Late PM (7pm-12am),469,18,26.377,0.668,11.000,14.000,21.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-07,0: All Days (M-Su),0: All Day (12am-12am),2068,18,21.130,0.836,11.000,14.000,21.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-07,0: All Days (M-Su),1: Early AM (12am-6am),53,19,21.130,0.912,14.000,16.000,23.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-07,0: All Days (M-Su),2: Peak AM (6am-10am),244,18,21.130,0.865,12.000,15.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-07,0: All Days (M-Su),3: Mid-Day (10am-3pm),700,18,21.130,0.835,11.000,14.000,21.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-07,0: All Days (M-Su),4: Peak PM (3pm-7pm),634,18,21.130,0.832,11.000,14.000,21.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-07,0: All Days (M-Su),5: Late PM (7pm-12am),438,17,21.130,0.820,11.000,14.000,21.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-07,1: Weekday (M-Th),0: All Day (12am-12am),1992,18,21.130,0.844,11.000,15.000,22.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-07,1: Weekday (M-Th),1: Early AM (12am-6am),40,20,21.130,0.925,15.000,17.000,23.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-07,1: Weekday (M-Th),2: Peak AM (6am-10am),269,18,21.130,0.868,12.000,15.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-07,1: Weekday (M-Th),3: Mid-Day (10am-3pm),651,18,21.130,0.847,11.000,15.000,22.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-07,1: Weekday (M-Th),4: Peak PM (3pm-7pm),633,18,21.130,0.837,11.000,14.000,21.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-07,1: Weekday (M-Th),5: Late PM (7pm-12am),399,17,21.130,0.826,11.000,14.000,21.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-07,2: Weekend (Sa-Su),0: All Day (12am-12am),2008,17,21.130,0.828,11.000,14.000,21.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-07,2: Weekend (Sa-Su),1: Early AM (12am-6am),78,19,21.130,0.902,14.000,16.000,23.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-07,2: Weekend (Sa-Su),2: Peak AM (6am-10am),173,18,21.130,0.860,12.000,15.000,22.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-07,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),782,17,21.130,0.815,11.000,14.000,21.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-07,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),575,18,21.130,0.828,11.000,14.000,21.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-07,2: Weekend (Sa-Su),5: Late PM (7pm-12am),399,17,21.130,0.825,11.000,14.000,21.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-08,0: All Days (M-Su),0: All Day (12am-12am),2093,18,21.058,0.834,11.000,14.000,21.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-08,0: All Days (M-Su),1: Early AM (12am-6am),42,19,21.058,0.899,13.000,15.000,23.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-08,0: All Days (M-Su),2: Peak AM (6am-10am),285,18,21.058,0.877,13.000,15.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-08,0: All Days (M-Su),3: Mid-Day (10am-3pm),673,17,21.058,0.828,11.000,14.000,21.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-08,0: All Days (M-Su),4: Peak PM (3pm-7pm),669,18,21.058,0.835,12.000,14.000,21.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-08,0: All Days (M-Su),5: Late PM (7pm-12am),425,17,21.058,0.806,10.000,13.000,20.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-08,1: Weekday (M-Th),0: All Day (12am-12am),1990,18,21.058,0.847,12.000,15.000,21.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-08,1: Weekday (M-Th),1: Early AM (12am-6am),29,19,21.058,0.908,13.000,16.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-08,1: Weekday (M-Th),2: Peak AM (6am-10am),342,18,21.058,0.875,13.000,15.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-08,1: Weekday (M-Th),3: Mid-Day (10am-3pm),625,18,21.058,0.840,11.000,14.000,21.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-08,1: Weekday (M-Th),4: Peak PM (3pm-7pm),653,18,21.058,0.843,12.000,15.000,21.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-08,1: Weekday (M-Th),5: Late PM (7pm-12am),340,18,21.058,0.835,11.000,14.000,21.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-08,2: Weekend (Sa-Su),0: All Day (12am-12am),2119,17,21.058,0.817,11.000,14.000,21.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-08,2: Weekend (Sa-Su),1: Early AM (12am-6am),66,19,21.058,0.889,11.000,15.000,23.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-08,2: Weekend (Sa-Su),2: Peak AM (6am-10am),153,18,21.058,0.873,13.000,15.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-08,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),766,17,21.058,0.810,11.000,13.000,21.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-08,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),631,17,21.058,0.830,11.000,14.000,21.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-08,2: Weekend (Sa-Su),5: Late PM (7pm-12am),503,17,21.058,0.784,10.000,13.000,20.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-09,0: All Days (M-Su),0: All Day (12am-12am),2209,18,20.962,0.835,11.000,14.000,21.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-09,0: All Days (M-Su),1: Early AM (12am-6am),49,19,20.962,0.891,14.000,16.000,23.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-09,0: All Days (M-Su),2: Peak AM (6am-10am),337,18,20.962,0.865,12.000,15.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-09,0: All Days (M-Su),3: Mid-Day (10am-3pm),686,18,20.962,0.839,11.000,14.000,21.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-09,0: All Days (M-Su),4: Peak PM (3pm-7pm),709,17,20.962,0.828,11.000,14.000,21.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-09,0: All Days (M-Su),5: Late PM (7pm-12am),428,17,20.962,0.811,10.000,13.000,20.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-09,1: Weekday (M-Th),0: All Day (12am-12am),2109,18,20.962,0.846,11.000,15.000,21.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-09,1: Weekday (M-Th),1: Early AM (12am-6am),30,19,20.962,0.897,15.000,16.000,23.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-09,1: Weekday (M-Th),2: Peak AM (6am-10am),385,18,20.962,0.862,11.000,15.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-09,1: Weekday (M-Th),3: Mid-Day (10am-3pm),622,18,20.962,0.853,12.000,15.000,22.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-09,1: Weekday (M-Th),4: Peak PM (3pm-7pm),711,18,20.962,0.836,11.000,14.000,21.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-09,1: Weekday (M-Th),5: Late PM (7pm-12am),361,17,20.962,0.831,11.000,14.000,21.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-09,2: Weekend (Sa-Su),0: All Day (12am-12am),2168,17,20.962,0.821,11.000,14.000,21.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-09,2: Weekend (Sa-Su),1: Early AM (12am-6am),92,18,20.962,0.881,14.000,15.000,23.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-09,2: Weekend (Sa-Su),2: Peak AM (6am-10am),174,19,20.962,0.887,12.000,15.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-09,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),794,17,20.962,0.816,11.000,14.000,20.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-09,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),632,17,20.962,0.817,11.000,14.000,20.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-09,2: Weekend (Sa-Su),5: Late PM (7pm-12am),476,17,20.962,0.797,9.000,13.000,20.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-10,0: All Days (M-Su),0: All Day (12am-12am),2430,17,22.517,0.749,9.000,13.000,21.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-10,0: All Days (M-Su),1: Early AM (12am-6am),64,19,22.517,0.849,12.000,16.000,23.000,25.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-10,0: All Days (M-Su),2: Peak AM (6am-10am),332,18,22.517,0.802,12.000,15.000,22.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-10,0: All Days (M-Su),3: Mid-Day (10am-3pm),777,17,22.517,0.748,9.000,13.000,21.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-10,0: All Days (M-Su),4: Peak PM (3pm-7pm),777,16,22.517,0.731,9.000,12.000,20.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-10,0: All Days (M-Su),5: Late PM (7pm-12am),480,16,22.517,0.730,9.000,12.000,20.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-10,1: Weekday (M-Th),0: All Day (12am-12am),2149,18,22.517,0.786,11.000,14.000,21.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-10,1: Weekday (M-Th),1: Early AM (12am-6am),42,19,22.517,0.859,13.000,15.000,23.000,25.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-10,1: Weekday (M-Th),2: Peak AM (6am-10am),383,18,22.517,0.800,12.000,15.000,22.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-10,1: Weekday (M-Th),3: Mid-Day (10am-3pm),669,18,22.517,0.792,11.000,15.000,22.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-10,1: Weekday (M-Th),4: Peak PM (3pm-7pm),695,17,22.517,0.774,11.000,14.000,21.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-10,1: Weekday (M-Th),5: Late PM (7pm-12am),360,17,22.517,0.774,11.000,14.000,21.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-10,2: Weekend (Sa-Su),0: All Day (12am-12am),2598,16,22.517,0.709,8.000,11.000,20.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-10,2: Weekend (Sa-Su),1: Early AM (12am-6am),100,19,22.517,0.842,11.000,16.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-10,2: Weekend (Sa-Su),2: Peak AM (6am-10am),235,18,22.517,0.796,12.000,15.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-10,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),961,16,22.517,0.702,9.000,12.000,20.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-10,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),785,15,22.517,0.678,8.000,10.000,19.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-10,2: Weekend (Sa-Su),5: Late PM (7pm-12am),517,16,22.517,0.704,9.000,11.000,20.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-11,0: All Days (M-Su),0: All Day (12am-12am),2303,17,22.025,0.790,11.000,14.000,21.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-11,0: All Days (M-Su),1: Early AM (12am-6am),55,19,22.025,0.872,13.000,16.000,23.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-11,0: All Days (M-Su),2: Peak AM (6am-10am),337,18,22.025,0.827,11.000,15.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-11,0: All Days (M-Su),3: Mid-Day (10am-3pm),822,17,22.025,0.788,11.000,14.000,21.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-11,0: All Days (M-Su),4: Peak PM (3pm-7pm),723,17,22.025,0.772,11.000,13.000,20.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-11,0: All Days (M-Su),5: Late PM (7pm-12am),366,17,22.025,0.787,10.000,14.000,21.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-11,1: Weekday (M-Th),0: All Day (12am-12am),2256,18,22.025,0.805,11.000,14.000,21.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-11,1: Weekday (M-Th),1: Early AM (12am-6am),50,20,22.025,0.897,14.000,16.000,23.000,25.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-11,1: Weekday (M-Th),2: Peak AM (6am-10am),394,18,22.025,0.829,11.000,15.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-11,1: Weekday (M-Th),3: Mid-Day (10am-3pm),784,18,22.025,0.807,11.000,14.000,21.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-11,1: Weekday (M-Th),4: Peak PM (3pm-7pm),712,17,22.025,0.784,11.000,14.000,21.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-11,1: Weekday (M-Th),5: Late PM (7pm-12am),317,18,22.025,0.803,11.000,15.000,21.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-11,2: Weekend (Sa-Su),0: All Day (12am-12am),2140,17,22.025,0.768,10.000,13.000,21.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-11,2: Weekend (Sa-Su),1: Early AM (12am-6am),67,18,22.025,0.830,9.000,15.000,23.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-11,2: Weekend (Sa-Su),2: Peak AM (6am-10am),178,18,22.025,0.809,11.000,14.000,22.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-11,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),897,17,22.025,0.757,10.000,13.000,20.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-11,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),654,17,22.025,0.753,9.000,13.000,20.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-11,2: Weekend (Sa-Su),5: Late PM (7pm-12am),344,17,22.025,0.792,10.000,14.000,21.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-12,0: All Days (M-Su),0: All Day (12am-12am),1999,17,23.978,0.723,11.000,14.000,21.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-12,0: All Days (M-Su),1: Early AM (12am-6am),49,20,23.978,0.814,14.000,16.000,23.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-12,0: All Days (M-Su),2: Peak AM (6am-10am),250,18,23.978,0.768,12.000,15.000,22.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-12,0: All Days (M-Su),3: Mid-Day (10am-3pm),741,17,23.978,0.718,10.000,13.000,21.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-12,0: All Days (M-Su),4: Peak PM (3pm-7pm),637,17,23.978,0.703,10.000,13.000,20.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-12,0: All Days (M-Su),5: Late PM (7pm-12am),323,17,23.978,0.721,10.000,14.000,21.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-12,1: Weekday (M-Th),0: All Day (12am-12am),2071,18,23.978,0.734,11.000,14.000,21.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-12,1: Weekday (M-Th),1: Early AM (12am-6am),41,20,23.978,0.828,15.000,16.000,23.000,25.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-12,1: Weekday (M-Th),2: Peak AM (6am-10am),303,18,23.978,0.767,12.000,15.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-12,1: Weekday (M-Th),3: Mid-Day (10am-3pm),728,18,23.978,0.733,11.000,14.000,21.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-12,1: Weekday (M-Th),4: Peak PM (3pm-7pm),684,17,23.978,0.715,11.000,14.000,21.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-12,1: Weekday (M-Th),5: Late PM (7pm-12am),314,18,23.978,0.734,11.000,14.000,21.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-12,2: Weekend (Sa-Su),0: All Day (12am-12am),1767,17,23.978,0.695,9.000,13.000,20.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-12,2: Weekend (Sa-Su),1: Early AM (12am-6am),63,19,23.978,0.802,13.000,15.000,23.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-12,2: Weekend (Sa-Su),2: Peak AM (6am-10am),122,18,23.978,0.768,13.000,15.000,22.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-12,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),725,16,23.978,0.685,9.000,12.000,20.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-12,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),542,16,23.978,0.674,9.000,12.000,19.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2021-12,2: Weekend (Sa-Su),5: Late PM (7pm-12am),315,17,23.978,0.704,9.000,13.000,21.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2022-01,0: All Days (M-Su),0: All Day (12am-12am),2573,17,22.054,0.772,10.000,13.000,21.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2022-01,0: All Days (M-Su),1: Early AM (12am-6am),38,20,22.054,0.894,11.000,17.000,23.000,25.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2022-01,0: All Days (M-Su),2: Peak AM (6am-10am),447,17,22.054,0.779,10.000,13.000,21.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2022-01,0: All Days (M-Su),3: Mid-Day (10am-3pm),1025,17,22.054,0.761,10.000,13.000,20.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2022-01,0: All Days (M-Su),4: Peak PM (3pm-7pm),740,17,22.054,0.766,10.000,13.000,20.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2022-01,0: All Days (M-Su),5: Late PM (7pm-12am),323,18,22.054,0.797,11.000,14.000,21.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2022-01,1: Weekday (M-Th),0: All Day (12am-12am),2926,17,22.054,0.766,10.000,13.000,21.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2022-01,1: Weekday (M-Th),1: Early AM (12am-6am),32,20,22.054,0.892,13.000,17.000,24.000,25.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2022-01,1: Weekday (M-Th),2: Peak AM (6am-10am),623,17,22.054,0.763,10.000,13.000,21.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2022-01,1: Weekday (M-Th),3: Mid-Day (10am-3pm),1184,17,22.054,0.751,10.000,13.000,20.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2022-01,1: Weekday (M-Th),4: Peak PM (3pm-7pm),788,17,22.054,0.769,10.000,14.000,21.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2022-01,1: Weekday (M-Th),5: Late PM (7pm-12am),298,18,22.054,0.810,11.000,15.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2022-01,2: Weekend (Sa-Su),0: All Day (12am-12am),1731,17,22.054,0.778,10.000,14.000,21.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2022-01,2: Weekend (Sa-Su),1: Early AM (12am-6am),45,20,22.054,0.888,8.000,17.000,23.000,27.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2022-01,2: Weekend (Sa-Su),2: Peak AM (6am-10am),133,18,22.054,0.826,12.000,15.000,22.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2022-01,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),737,17,22.054,0.768,10.000,13.000,20.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2022-01,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),555,17,22.054,0.765,11.000,13.000,20.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2022-01,2: Weekend (Sa-Su),5: Late PM (7pm-12am),261,17,22.054,0.787,9.000,14.000,21.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2022-02,0: All Days (M-Su),0: All Day (12am-12am),2323,17,22.595,0.770,11.000,14.000,21.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2022-02,0: All Days (M-Su),1: Early AM (12am-6am),44,20,22.595,0.880,12.000,16.000,23.000,27.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2022-02,0: All Days (M-Su),2: Peak AM (6am-10am),322,18,22.595,0.809,12.000,15.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2022-02,0: All Days (M-Su),3: Mid-Day (10am-3pm),796,17,22.595,0.769,11.000,14.000,21.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2022-02,0: All Days (M-Su),4: Peak PM (3pm-7pm),778,17,22.595,0.753,11.000,13.000,21.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2022-02,0: All Days (M-Su),5: Late PM (7pm-12am),383,17,22.595,0.762,10.000,14.000,21.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2022-02,1: Weekday (M-Th),0: All Day (12am-12am),2312,18,22.595,0.786,11.000,14.000,21.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2022-02,1: Weekday (M-Th),1: Early AM (12am-6am),40,20,22.595,0.890,14.000,18.000,23.000,26.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2022-02,1: Weekday (M-Th),2: Peak AM (6am-10am),389,18,22.595,0.810,12.000,15.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2022-02,1: Weekday (M-Th),3: Mid-Day (10am-3pm),761,18,22.595,0.786,11.000,14.000,21.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2022-02,1: Weekday (M-Th),4: Peak PM (3pm-7pm),780,17,22.595,0.771,12.000,14.000,21.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2022-02,1: Weekday (M-Th),5: Late PM (7pm-12am),342,18,22.595,0.778,10.000,14.000,21.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2022-02,2: Weekend (Sa-Su),0: All Day (12am-12am),2038,17,22.595,0.750,10.000,13.000,20.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2022-02,2: Weekend (Sa-Su),1: Early AM (12am-6am),48,19,22.595,0.852,11.000,16.000,23.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2022-02,2: Weekend (Sa-Su),2: Peak AM (6am-10am),161,18,22.595,0.797,11.000,14.000,21.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2022-02,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),839,17,22.595,0.746,11.000,13.000,20.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2022-02,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),650,16,22.595,0.729,10.000,13.000,20.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2022-02,2: Weekend (Sa-Su),5: Late PM (7pm-12am),340,17,22.595,0.765,10.000,14.000,21.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2022-03,0: All Days (M-Su),0: All Day (12am-12am),2363,17,21.591,0.805,11.000,14.000,21.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2022-03,0: All Days (M-Su),1: Early AM (12am-6am),45,19,21.591,0.903,13.000,16.000,23.000,27.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2022-03,0: All Days (M-Su),2: Peak AM (6am-10am),328,18,21.591,0.851,12.000,15.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2022-03,0: All Days (M-Su),3: Mid-Day (10am-3pm),754,17,21.591,0.808,11.000,14.000,21.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2022-03,0: All Days (M-Su),4: Peak PM (3pm-7pm),814,17,21.591,0.784,11.000,13.000,20.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2022-03,0: All Days (M-Su),5: Late PM (7pm-12am),421,17,21.591,0.792,11.000,14.000,21.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2022-03,1: Weekday (M-Th),0: All Day (12am-12am),2254,18,21.591,0.826,12.000,15.000,22.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2022-03,1: Weekday (M-Th),1: Early AM (12am-6am),37,20,21.591,0.907,11.000,16.000,23.000,26.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2022-03,1: Weekday (M-Th),2: Peak AM (6am-10am),384,18,21.591,0.849,13.000,15.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2022-03,1: Weekday (M-Th),3: Mid-Day (10am-3pm),675,18,21.591,0.836,12.000,15.000,22.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2022-03,1: Weekday (M-Th),4: Peak PM (3pm-7pm),780,17,21.591,0.808,12.000,14.000,21.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2022-03,1: Weekday (M-Th),5: Late PM (7pm-12am),377,18,21.591,0.811,12.000,14.000,21.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2022-03,2: Weekend (Sa-Su),0: All Day (12am-12am),2318,17,21.591,0.774,10.000,13.000,20.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2022-03,2: Weekend (Sa-Su),1: Early AM (12am-6am),53,19,21.591,0.872,14.000,15.000,23.000,25.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2022-03,2: Weekend (Sa-Su),2: Peak AM (6am-10am),166,19,21.591,0.860,12.000,15.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2022-03,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),894,17,21.591,0.767,10.000,13.000,20.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2022-03,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),801,16,21.591,0.750,10.000,12.000,19.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2022-03,2: Weekend (Sa-Su),5: Late PM (7pm-12am),404,17,21.591,0.788,11.000,14.000,20.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2022-04,0: All Days (M-Su),0: All Day (12am-12am),2487,16,20.780,0.765,10.000,13.000,19.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2022-04,0: All Days (M-Su),1: Early AM (12am-6am),49,18,20.780,0.857,11.000,14.000,22.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2022-04,0: All Days (M-Su),2: Peak AM (6am-10am),334,17,20.780,0.797,11.000,13.000,20.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2022-04,0: All Days (M-Su),3: Mid-Day (10am-3pm),791,16,20.780,0.768,10.000,13.000,19.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2022-04,0: All Days (M-Su),4: Peak PM (3pm-7pm),821,16,20.780,0.751,10.000,12.000,19.000,21.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2022-04,0: All Days (M-Su),5: Late PM (7pm-12am),493,16,20.780,0.753,10.000,12.000,19.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2022-04,1: Weekday (M-Th),0: All Day (12am-12am),2377,16,20.780,0.776,11.000,13.000,19.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2022-04,1: Weekday (M-Th),1: Early AM (12am-6am),35,18,20.780,0.885,14.000,15.000,23.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2022-04,1: Weekday (M-Th),2: Peak AM (6am-10am),385,17,20.780,0.802,11.000,13.000,20.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2022-04,1: Weekday (M-Th),3: Mid-Day (10am-3pm),701,16,20.780,0.787,11.000,13.000,20.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2022-04,1: Weekday (M-Th),4: Peak PM (3pm-7pm),826,16,20.780,0.762,11.000,13.000,19.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2022-04,1: Weekday (M-Th),5: Late PM (7pm-12am),430,16,20.780,0.753,10.000,12.000,19.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2022-04,2: Weekend (Sa-Su),0: All Day (12am-12am),2232,16,20.780,0.757,10.000,12.000,19.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2022-04,2: Weekend (Sa-Su),1: Early AM (12am-6am),63,18,20.780,0.848,11.000,14.000,21.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2022-04,2: Weekend (Sa-Su),2: Peak AM (6am-10am),175,17,20.780,0.799,11.000,13.000,20.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2022-04,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),870,16,20.780,0.747,10.000,12.000,19.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2022-04,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),709,15,20.780,0.741,10.000,12.000,19.000,21.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2022-04,2: Weekend (Sa-Su),5: Late PM (7pm-12am),415,16,20.780,0.775,11.000,13.000,19.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2022-05,0: All Days (M-Su),0: All Day (12am-12am),2313,15,17.990,0.835,10.000,12.000,18.000,20.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2022-05,0: All Days (M-Su),1: Early AM (12am-6am),40,16,17.990,0.898,8.000,13.000,19.000,21.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2022-05,0: All Days (M-Su),2: Peak AM (6am-10am),324,16,17.990,0.867,11.000,13.000,18.000,20.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2022-05,0: All Days (M-Su),3: Mid-Day (10am-3pm),761,15,17.990,0.839,10.000,12.000,18.000,19.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2022-05,0: All Days (M-Su),4: Peak PM (3pm-7pm),755,15,17.990,0.821,10.000,12.000,18.000,19.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2022-05,0: All Days (M-Su),5: Late PM (7pm-12am),431,15,17.990,0.821,10.000,12.000,18.000,20.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2022-05,1: Weekday (M-Th),0: All Day (12am-12am),2289,15,17.990,0.844,10.000,12.000,18.000,20.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2022-05,1: Weekday (M-Th),1: Early AM (12am-6am),32,17,17.990,0.935,13.000,14.000,20.000,21.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2022-05,1: Weekday (M-Th),2: Peak AM (6am-10am),395,16,17.990,0.870,11.000,13.000,18.000,20.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2022-05,1: Weekday (M-Th),3: Mid-Day (10am-3pm),695,15,17.990,0.853,11.000,13.000,18.000,20.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2022-05,1: Weekday (M-Th),4: Peak PM (3pm-7pm),767,15,17.990,0.830,10.000,12.000,18.000,19.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2022-05,1: Weekday (M-Th),5: Late PM (7pm-12am),401,15,17.990,0.824,10.000,12.000,18.000,20.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2022-05,2: Weekend (Sa-Su),0: All Day (12am-12am),2083,15,17.990,0.822,10.000,12.000,18.000,19.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2022-05,2: Weekend (Sa-Su),1: Early AM (12am-6am),55,16,17.990,0.863,8.000,12.000,18.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2022-05,2: Weekend (Sa-Su),2: Peak AM (6am-10am),133,16,17.990,0.862,11.000,13.000,18.000,20.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2022-05,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),871,15,17.990,0.820,10.000,12.000,18.000,19.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2022-05,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),633,15,17.990,0.813,9.000,12.000,18.000,19.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue,yes,103,yes,2022-05,2: Weekend (Sa-Su),5: Late PM (7pm-12am),391,15,17.990,0.821,10.000,12.000,18.000,20.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-06,0: All Days (M-Su),0: All Day (12am-12am),991,18,21.132,0.862,11.000,15.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-06,0: All Days (M-Su),1: Early AM (12am-6am),21,18,21.132,0.855,14.000,16.000,22.000,30.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-06,0: All Days (M-Su),2: Peak AM (6am-10am),112,19,21.132,0.895,12.000,15.000,22.000,25.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-06,0: All Days (M-Su),3: Mid-Day (10am-3pm),328,18,21.132,0.855,11.000,15.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-06,0: All Days (M-Su),4: Peak PM (3pm-7pm),330,18,21.132,0.869,12.000,15.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-06,0: All Days (M-Su),5: Late PM (7pm-12am),200,18,21.132,0.844,10.000,14.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-06,1: Weekday (M-Th),0: All Day (12am-12am),960,18,21.132,0.866,11.000,15.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-06,1: Weekday (M-Th),1: Early AM (12am-6am),21,19,21.132,0.883,16.000,16.000,28.000,30.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-06,1: Weekday (M-Th),2: Peak AM (6am-10am),124,19,21.132,0.892,12.000,15.000,22.000,26.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-06,1: Weekday (M-Th),3: Mid-Day (10am-3pm),300,18,21.132,0.854,10.000,14.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-06,1: Weekday (M-Th),4: Peak PM (3pm-7pm),328,19,21.132,0.875,12.000,15.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-06,1: Weekday (M-Th),5: Late PM (7pm-12am),186,18,21.132,0.851,8.000,14.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-06,2: Weekend (Sa-Su),0: All Day (12am-12am),960,18,21.132,0.854,12.000,14.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-06,2: Weekend (Sa-Su),1: Early AM (12am-6am),23,17,21.132,0.813,11.000,14.000,22.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-06,2: Weekend (Sa-Su),2: Peak AM (6am-10am),76,19,21.132,0.907,12.000,15.000,23.000,25.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-06,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),384,18,21.132,0.850,12.000,14.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-06,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),282,18,21.132,0.855,11.000,14.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-06,2: Weekend (Sa-Su),5: Late PM (7pm-12am),195,18,21.132,0.844,12.000,14.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-07,0: All Days (M-Su),0: All Day (12am-12am),926,18,23.378,0.783,11.000,15.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-07,0: All Days (M-Su),1: Early AM (12am-6am),25,19,23.378,0.797,7.000,15.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-07,0: All Days (M-Su),2: Peak AM (6am-10am),114,19,23.378,0.801,11.000,14.000,22.000,25.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-07,0: All Days (M-Su),3: Mid-Day (10am-3pm),328,18,23.378,0.787,12.000,15.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-07,0: All Days (M-Su),4: Peak PM (3pm-7pm),277,18,23.378,0.783,11.000,15.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-07,0: All Days (M-Su),5: Late PM (7pm-12am),181,18,23.378,0.766,10.000,14.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-07,1: Weekday (M-Th),0: All Day (12am-12am),902,18,23.378,0.790,11.000,15.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-07,1: Weekday (M-Th),1: Early AM (12am-6am),20,19,23.378,0.813,7.000,15.000,22.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-07,1: Weekday (M-Th),2: Peak AM (6am-10am),125,19,23.378,0.807,12.000,15.000,22.000,25.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-07,1: Weekday (M-Th),3: Mid-Day (10am-3pm),305,19,23.378,0.795,12.000,15.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-07,1: Weekday (M-Th),4: Peak PM (3pm-7pm),286,18,23.378,0.789,11.000,15.000,22.000,25.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-07,1: Weekday (M-Th),5: Late PM (7pm-12am),167,18,23.378,0.767,10.000,15.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-07,2: Weekend (Sa-Su),0: All Day (12am-12am),845,18,23.378,0.773,10.000,14.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-07,2: Weekend (Sa-Su),1: Early AM (12am-6am),32,18,23.378,0.781,13.000,15.000,20.000,29.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-07,2: Weekend (Sa-Su),2: Peak AM (6am-10am),75,18,23.378,0.779,6.000,13.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-07,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),362,18,23.378,0.775,12.000,15.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-07,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),220,18,23.378,0.769,10.000,14.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-07,2: Weekend (Sa-Su),5: Late PM (7pm-12am),155,18,23.378,0.767,10.000,15.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-08,0: All Days (M-Su),0: All Day (12am-12am),928,18,20.432,0.886,11.000,15.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-08,0: All Days (M-Su),1: Early AM (12am-6am),24,18,20.432,0.886,10.000,16.000,22.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-08,0: All Days (M-Su),2: Peak AM (6am-10am),128,19,20.432,0.914,12.000,15.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-08,0: All Days (M-Su),3: Mid-Day (10am-3pm),301,18,20.432,0.882,11.000,14.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-08,0: All Days (M-Su),4: Peak PM (3pm-7pm),298,18,20.432,0.884,11.000,15.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-08,0: All Days (M-Su),5: Late PM (7pm-12am),177,18,20.432,0.876,11.000,14.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-08,1: Weekday (M-Th),0: All Day (12am-12am),871,18,20.432,0.905,11.000,15.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-08,1: Weekday (M-Th),1: Early AM (12am-6am),18,19,20.432,0.910,9.000,17.000,22.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-08,1: Weekday (M-Th),2: Peak AM (6am-10am),157,19,20.432,0.925,13.000,15.000,22.000,25.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-08,1: Weekday (M-Th),3: Mid-Day (10am-3pm),272,19,20.432,0.906,11.000,15.000,22.000,25.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-08,1: Weekday (M-Th),4: Peak PM (3pm-7pm),288,18,20.432,0.893,11.000,15.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-08,1: Weekday (M-Th),5: Late PM (7pm-12am),137,18,20.432,0.903,13.000,15.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-08,2: Weekend (Sa-Su),0: All Day (12am-12am),965,18,20.432,0.858,10.000,14.000,22.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-08,2: Weekend (Sa-Su),1: Early AM (12am-6am),37,18,20.432,0.900,12.000,16.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-08,2: Weekend (Sa-Su),2: Peak AM (6am-10am),66,18,20.432,0.887,10.000,14.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-08,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),363,17,20.432,0.843,10.000,13.000,21.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-08,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),283,18,20.432,0.872,9.000,14.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-08,2: Weekend (Sa-Su),5: Late PM (7pm-12am),217,17,20.432,0.847,11.000,14.000,21.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-09,0: All Days (M-Su),0: All Day (12am-12am),1009,18,24.271,0.738,11.000,14.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-09,0: All Days (M-Su),1: Early AM (12am-6am),27,18,24.271,0.761,8.000,14.000,22.000,26.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-09,0: All Days (M-Su),2: Peak AM (6am-10am),150,19,24.271,0.774,12.000,15.000,22.000,25.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-09,0: All Days (M-Su),3: Mid-Day (10am-3pm),323,18,24.271,0.733,11.000,14.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-09,0: All Days (M-Su),4: Peak PM (3pm-7pm),326,18,24.271,0.735,10.000,14.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-09,0: All Days (M-Su),5: Late PM (7pm-12am),183,17,24.271,0.718,10.000,14.000,21.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-09,1: Weekday (M-Th),0: All Day (12am-12am),959,18,24.271,0.751,11.000,15.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-09,1: Weekday (M-Th),1: Early AM (12am-6am),21,18,24.271,0.752,8.000,15.000,24.000,28.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-09,1: Weekday (M-Th),2: Peak AM (6am-10am),173,19,24.271,0.771,12.000,15.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-09,1: Weekday (M-Th),3: Mid-Day (10am-3pm),288,18,24.271,0.748,11.000,14.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-09,1: Weekday (M-Th),4: Peak PM (3pm-7pm),317,18,24.271,0.748,11.000,14.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-09,1: Weekday (M-Th),5: Late PM (7pm-12am),160,18,24.271,0.741,11.000,14.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-09,2: Weekend (Sa-Su),0: All Day (12am-12am),1004,17,24.271,0.716,10.000,13.000,22.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-09,2: Weekend (Sa-Su),1: Early AM (12am-6am),38,19,24.271,0.771,8.000,14.000,22.000,26.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-09,2: Weekend (Sa-Su),2: Peak AM (6am-10am),73,19,24.271,0.774,12.000,15.000,22.000,25.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-09,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),398,17,24.271,0.711,11.000,13.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-09,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),294,17,24.271,0.715,10.000,14.000,22.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-09,2: Weekend (Sa-Su),5: Late PM (7pm-12am),201,17,24.271,0.695,10.000,13.000,21.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-10,0: All Days (M-Su),0: All Day (12am-12am),1376,17,22.306,0.760,9.000,12.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-10,0: All Days (M-Su),1: Early AM (12am-6am),34,19,22.306,0.869,7.000,14.000,23.000,28.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-10,0: All Days (M-Su),2: Peak AM (6am-10am),188,18,22.306,0.818,12.000,14.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-10,0: All Days (M-Su),3: Mid-Day (10am-3pm),432,17,22.306,0.759,9.000,12.000,22.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-10,0: All Days (M-Su),4: Peak PM (3pm-7pm),452,17,22.306,0.745,9.000,12.000,21.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-10,0: All Days (M-Su),5: Late PM (7pm-12am),270,16,22.306,0.732,9.000,12.000,21.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-10,1: Weekday (M-Th),0: All Day (12am-12am),1087,18,22.306,0.819,12.000,15.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-10,1: Weekday (M-Th),1: Early AM (12am-6am),26,20,22.306,0.895,7.000,18.000,24.000,30.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-10,1: Weekday (M-Th),2: Peak AM (6am-10am),196,19,22.306,0.838,13.000,15.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-10,1: Weekday (M-Th),3: Mid-Day (10am-3pm),334,18,22.306,0.820,11.000,15.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-10,1: Weekday (M-Th),4: Peak PM (3pm-7pm),370,18,22.306,0.809,12.000,15.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-10,1: Weekday (M-Th),5: Late PM (7pm-12am),160,18,22.306,0.806,11.000,14.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-10,2: Weekend (Sa-Su),0: All Day (12am-12am),1777,16,22.306,0.702,8.000,11.000,20.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-10,2: Weekend (Sa-Su),1: Early AM (12am-6am),49,19,22.306,0.850,7.000,13.000,23.000,29.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-10,2: Weekend (Sa-Su),2: Peak AM (6am-10am),179,17,22.306,0.778,10.000,13.000,22.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-10,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),633,16,22.306,0.704,9.000,11.000,20.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-10,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),537,15,22.306,0.667,8.000,10.000,19.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-10,2: Weekend (Sa-Su),5: Late PM (7pm-12am),378,15,22.306,0.693,9.000,11.000,20.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-11,0: All Days (M-Su),0: All Day (12am-12am),1160,18,21.539,0.839,11.000,14.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-11,0: All Days (M-Su),1: Early AM (12am-6am),27,20,21.539,0.921,12.000,16.000,23.000,27.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-11,0: All Days (M-Su),2: Peak AM (6am-10am),165,19,21.539,0.874,12.000,15.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-11,0: All Days (M-Su),3: Mid-Day (10am-3pm),433,18,21.539,0.827,11.000,14.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-11,0: All Days (M-Su),4: Peak PM (3pm-7pm),369,18,21.539,0.828,11.000,14.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-11,0: All Days (M-Su),5: Late PM (7pm-12am),165,18,21.539,0.846,11.000,14.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-11,1: Weekday (M-Th),0: All Day (12am-12am),1122,18,21.539,0.852,11.000,15.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-11,1: Weekday (M-Th),1: Early AM (12am-6am),26,20,21.539,0.930,12.000,16.000,24.000,30.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-11,1: Weekday (M-Th),2: Peak AM (6am-10am),196,19,21.539,0.875,11.000,15.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-11,1: Weekday (M-Th),3: Mid-Day (10am-3pm),405,18,21.539,0.845,11.000,15.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-11,1: Weekday (M-Th),4: Peak PM (3pm-7pm),352,18,21.539,0.841,12.000,15.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-11,1: Weekday (M-Th),5: Late PM (7pm-12am),143,18,21.539,0.855,11.000,14.000,22.000,25.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-11,2: Weekend (Sa-Su),0: All Day (12am-12am),1103,18,21.539,0.814,11.000,14.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-11,2: Weekend (Sa-Su),1: Early AM (12am-6am),33,20,21.539,0.908,12.000,14.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-11,2: Weekend (Sa-Su),2: Peak AM (6am-10am),88,18,21.539,0.858,13.000,15.000,22.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-11,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),481,17,21.539,0.798,10.000,13.000,21.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-11,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),339,17,21.539,0.800,11.000,13.000,22.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-11,2: Weekend (Sa-Su),5: Late PM (7pm-12am),162,18,21.539,0.849,11.000,15.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-12,0: All Days (M-Su),0: All Day (12am-12am),1096,18,21.922,0.811,11.000,14.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-12,0: All Days (M-Su),1: Early AM (12am-6am),27,19,21.922,0.866,11.000,15.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-12,0: All Days (M-Su),2: Peak AM (6am-10am),131,19,21.922,0.849,12.000,15.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-12,0: All Days (M-Su),3: Mid-Day (10am-3pm),411,18,21.922,0.803,11.000,14.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-12,0: All Days (M-Su),4: Peak PM (3pm-7pm),360,18,21.922,0.799,11.000,14.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-12,0: All Days (M-Su),5: Late PM (7pm-12am),168,18,21.922,0.816,12.000,14.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-12,1: Weekday (M-Th),0: All Day (12am-12am),1130,18,21.922,0.820,11.000,14.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-12,1: Weekday (M-Th),1: Early AM (12am-6am),20,19,21.922,0.867,7.000,14.000,22.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-12,1: Weekday (M-Th),2: Peak AM (6am-10am),163,19,21.922,0.848,11.000,15.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-12,1: Weekday (M-Th),3: Mid-Day (10am-3pm),394,18,21.922,0.814,12.000,14.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-12,1: Weekday (M-Th),4: Peak PM (3pm-7pm),390,18,21.922,0.808,11.000,14.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-12,1: Weekday (M-Th),5: Late PM (7pm-12am),162,18,21.922,0.827,11.000,15.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-12,2: Weekend (Sa-Su),0: All Day (12am-12am),988,17,21.922,0.786,10.000,13.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-12,2: Weekend (Sa-Su),1: Early AM (12am-6am),39,19,21.922,0.853,12.000,16.000,22.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-12,2: Weekend (Sa-Su),2: Peak AM (6am-10am),53,19,21.922,0.876,13.000,15.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-12,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),421,17,21.922,0.774,10.000,13.000,21.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-12,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),304,17,21.922,0.772,10.000,13.000,21.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2021-12,2: Weekend (Sa-Su),5: Late PM (7pm-12am),172,18,21.922,0.799,11.000,14.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2022-01,0: All Days (M-Su),0: All Day (12am-12am),1355,18,23.212,0.766,12.000,14.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2022-01,0: All Days (M-Su),1: Early AM (12am-6am),24,19,23.212,0.815,5.000,15.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2022-01,0: All Days (M-Su),2: Peak AM (6am-10am),191,19,23.212,0.803,12.000,15.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2022-01,0: All Days (M-Su),3: Mid-Day (10am-3pm),559,18,23.212,0.754,11.000,14.000,22.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2022-01,0: All Days (M-Su),4: Peak PM (3pm-7pm),409,18,23.212,0.755,11.000,14.000,21.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2022-01,0: All Days (M-Su),5: Late PM (7pm-12am),172,18,23.212,0.788,12.000,15.000,22.000,25.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2022-01,1: Weekday (M-Th),0: All Day (12am-12am),1456,18,23.212,0.772,12.000,14.000,22.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2022-01,1: Weekday (M-Th),1: Early AM (12am-6am),18,19,23.212,0.828,15.000,17.000,22.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2022-01,1: Weekday (M-Th),2: Peak AM (6am-10am),245,19,23.212,0.803,12.000,15.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2022-01,1: Weekday (M-Th),3: Mid-Day (10am-3pm),612,18,23.212,0.756,11.000,14.000,22.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2022-01,1: Weekday (M-Th),4: Peak PM (3pm-7pm),428,18,23.212,0.763,12.000,14.000,22.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2022-01,1: Weekday (M-Th),5: Late PM (7pm-12am),154,19,23.212,0.799,13.000,15.000,22.000,25.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2022-01,2: Weekend (Sa-Su),0: All Day (12am-12am),1031,17,23.212,0.752,11.000,14.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2022-01,2: Weekend (Sa-Su),1: Early AM (12am-6am),31,18,23.212,0.783,5.000,15.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2022-01,2: Weekend (Sa-Su),2: Peak AM (6am-10am),76,19,23.212,0.807,13.000,15.000,23.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2022-01,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),449,17,23.212,0.742,11.000,14.000,21.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2022-01,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),333,17,23.212,0.737,11.000,14.000,21.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2022-01,2: Weekend (Sa-Su),5: Late PM (7pm-12am),141,18,23.212,0.783,11.000,15.000,22.000,25.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2022-02,0: All Days (M-Su),0: All Day (12am-12am),1444,18,23.795,0.751,12.000,14.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2022-02,0: All Days (M-Su),1: Early AM (12am-6am),32,20,23.795,0.824,9.000,15.000,23.000,28.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2022-02,0: All Days (M-Su),2: Peak AM (6am-10am),172,19,23.795,0.781,12.000,15.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2022-02,0: All Days (M-Su),3: Mid-Day (10am-3pm),509,18,23.795,0.742,12.000,14.000,22.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2022-02,0: All Days (M-Su),4: Peak PM (3pm-7pm),492,18,23.795,0.746,11.000,14.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2022-02,0: All Days (M-Su),5: Late PM (7pm-12am),237,18,23.795,0.752,11.000,14.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2022-02,1: Weekday (M-Th),0: All Day (12am-12am),1411,18,23.795,0.759,12.000,14.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2022-02,1: Weekday (M-Th),1: Early AM (12am-6am),29,19,23.795,0.800,10.000,14.000,24.000,28.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2022-02,1: Weekday (M-Th),2: Peak AM (6am-10am),211,19,23.795,0.778,12.000,15.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2022-02,1: Weekday (M-Th),3: Mid-Day (10am-3pm),479,18,23.795,0.749,12.000,14.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2022-02,1: Weekday (M-Th),4: Peak PM (3pm-7pm),483,18,23.795,0.759,12.000,14.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2022-02,1: Weekday (M-Th),5: Late PM (7pm-12am),209,18,23.795,0.759,12.000,15.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2022-02,2: Weekend (Sa-Su),0: All Day (12am-12am),1329,18,23.795,0.737,11.000,14.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2022-02,2: Weekend (Sa-Su),1: Early AM (12am-6am),36,19,23.795,0.808,7.000,16.000,22.000,25.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2022-02,2: Weekend (Sa-Su),2: Peak AM (6am-10am),85,18,23.795,0.776,13.000,15.000,22.000,26.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2022-02,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),571,17,23.795,0.733,11.000,14.000,22.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2022-02,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),418,17,23.795,0.726,11.000,14.000,21.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2022-02,2: Weekend (Sa-Su),5: Late PM (7pm-12am),219,18,23.795,0.746,10.000,14.000,22.000,25.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2022-03,0: All Days (M-Su),0: All Day (12am-12am),1503,18,24.466,0.731,12.000,14.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2022-03,0: All Days (M-Su),1: Early AM (12am-6am),30,19,24.466,0.793,12.000,15.000,23.000,25.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2022-03,0: All Days (M-Su),2: Peak AM (6am-10am),181,19,24.466,0.766,12.000,15.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2022-03,0: All Days (M-Su),3: Mid-Day (10am-3pm),501,18,24.466,0.726,12.000,14.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2022-03,0: All Days (M-Su),4: Peak PM (3pm-7pm),538,18,24.466,0.722,12.000,14.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2022-03,0: All Days (M-Su),5: Late PM (7pm-12am),252,18,24.466,0.730,12.000,14.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2022-03,1: Weekday (M-Th),0: All Day (12am-12am),1412,18,24.466,0.744,12.000,15.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2022-03,1: Weekday (M-Th),1: Early AM (12am-6am),22,20,24.466,0.823,13.000,17.000,23.000,25.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2022-03,1: Weekday (M-Th),2: Peak AM (6am-10am),211,19,24.466,0.768,13.000,15.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2022-03,1: Weekday (M-Th),3: Mid-Day (10am-3pm),437,18,24.466,0.746,12.000,15.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2022-03,1: Weekday (M-Th),4: Peak PM (3pm-7pm),520,18,24.466,0.733,12.000,15.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2022-03,1: Weekday (M-Th),5: Late PM (7pm-12am),222,18,24.466,0.732,12.000,14.000,22.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2022-03,2: Weekend (Sa-Su),0: All Day (12am-12am),1566,17,24.466,0.709,11.000,14.000,21.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2022-03,2: Weekend (Sa-Su),1: Early AM (12am-6am),47,18,24.466,0.756,10.000,15.000,24.000,25.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2022-03,2: Weekend (Sa-Su),2: Peak AM (6am-10am),104,18,24.466,0.751,9.000,15.000,23.000,25.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2022-03,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),633,17,24.466,0.692,11.000,13.000,21.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2022-03,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),540,17,24.466,0.703,11.000,14.000,21.000,24.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2022-03,2: Weekend (Sa-Su),5: Late PM (7pm-12am),243,18,24.466,0.740,13.000,15.000,22.000,25.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2022-04,0: All Days (M-Su),0: All Day (12am-12am),1515,16,21.456,0.757,11.000,13.000,20.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2022-04,0: All Days (M-Su),1: Early AM (12am-6am),29,17,21.456,0.802,9.000,13.000,22.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2022-04,0: All Days (M-Su),2: Peak AM (6am-10am),173,17,21.456,0.780,12.000,13.000,21.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2022-04,0: All Days (M-Su),3: Mid-Day (10am-3pm),514,16,21.456,0.752,10.000,13.000,20.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2022-04,0: All Days (M-Su),4: Peak PM (3pm-7pm),518,16,21.456,0.750,10.000,13.000,19.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2022-04,0: All Days (M-Su),5: Late PM (7pm-12am),280,16,21.456,0.758,10.000,13.000,20.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2022-04,1: Weekday (M-Th),0: All Day (12am-12am),1407,16,21.456,0.765,11.000,13.000,20.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2022-04,1: Weekday (M-Th),1: Early AM (12am-6am),16,18,21.456,0.845,12.000,13.000,21.000,27.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2022-04,1: Weekday (M-Th),2: Peak AM (6am-10am),193,17,21.456,0.789,11.000,13.000,21.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2022-04,1: Weekday (M-Th),3: Mid-Day (10am-3pm),441,17,21.456,0.769,11.000,13.000,20.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2022-04,1: Weekday (M-Th),4: Peak PM (3pm-7pm),521,16,21.456,0.754,11.000,13.000,20.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2022-04,1: Weekday (M-Th),5: Late PM (7pm-12am),236,16,21.456,0.758,10.000,13.000,20.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2022-04,2: Weekend (Sa-Su),0: All Day (12am-12am),1488,16,21.456,0.752,10.000,13.000,20.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2022-04,2: Weekend (Sa-Su),1: Early AM (12am-6am),45,17,21.456,0.803,9.000,14.000,21.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2022-04,2: Weekend (Sa-Su),2: Peak AM (6am-10am),107,17,21.456,0.770,12.000,13.000,19.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2022-04,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),599,16,21.456,0.739,10.000,12.000,19.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2022-04,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),464,16,21.456,0.748,10.000,12.000,19.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2022-04,2: Weekend (Sa-Su),5: Late PM (7pm-12am),272,17,21.456,0.770,10.000,13.000,20.000,23.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2022-05,0: All Days (M-Su),0: All Day (12am-12am),1367,15,17.781,0.850,10.000,12.000,18.000,20.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2022-05,0: All Days (M-Su),1: Early AM (12am-6am),24,15,17.781,0.855,11.000,12.000,17.000,21.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2022-05,0: All Days (M-Su),2: Peak AM (6am-10am),159,15,17.781,0.872,10.000,13.000,18.000,20.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2022-05,0: All Days (M-Su),3: Mid-Day (10am-3pm),484,15,17.781,0.844,10.000,12.000,18.000,20.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2022-05,0: All Days (M-Su),4: Peak PM (3pm-7pm),463,15,17.781,0.846,10.000,12.000,18.000,20.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2022-05,0: All Days (M-Su),5: Late PM (7pm-12am),238,15,17.781,0.854,10.000,12.000,18.000,20.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2022-05,1: Weekday (M-Th),0: All Day (12am-12am),1310,15,17.781,0.860,11.000,13.000,18.000,20.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2022-05,1: Weekday (M-Th),1: Early AM (12am-6am),18,15,17.781,0.865,12.000,13.000,17.000,19.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2022-05,1: Weekday (M-Th),2: Peak AM (6am-10am),184,16,17.781,0.876,10.000,13.000,18.000,20.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2022-05,1: Weekday (M-Th),3: Mid-Day (10am-3pm),432,15,17.781,0.858,11.000,13.000,18.000,20.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2022-05,1: Weekday (M-Th),4: Peak PM (3pm-7pm),464,15,17.781,0.852,10.000,12.000,18.000,20.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2022-05,1: Weekday (M-Th),5: Late PM (7pm-12am),212,15,17.781,0.866,11.000,13.000,18.000,21.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2022-05,2: Weekend (Sa-Su),0: All Day (12am-12am),1309,15,17.781,0.833,10.000,12.000,18.000,20.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2022-05,2: Weekend (Sa-Su),1: Early AM (12am-6am),37,15,17.781,0.857,11.000,12.000,18.000,22.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2022-05,2: Weekend (Sa-Su),2: Peak AM (6am-10am),84,15,17.781,0.845,10.000,13.000,18.000,19.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2022-05,2: Weekend (Sa-Su),3: Mid-Day (10am-3pm),566,15,17.781,0.824,10.000,12.000,18.000,19.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2022-05,2: Weekend (Sa-Su),4: Peak PM (3pm-7pm),402,15,17.781,0.832,9.000,12.000,18.000,20.000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,Meridian Avenue (1),yes,103,yes,2022-05,2: Weekend (Sa-Su),5: Late PM (7pm-12am),220,15,17.781,0.849,10.000,12.000,18.000,20.000

@@ -1,0 +1,49 @@
+Data Periods,Mode of Travel,Zone ID,Zone Name,Zone Is Pass-Through,Zone Direction (degrees),Zone is Bi-Direction,Year-Month,Day Type,Day Part,Average Daily Spot Traffic (StL Volume),Lower 95 Prediction Range,Upper 95 Prediction Range
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,South Saint Andrew's Place,yes,180,yes,2021-06,0: All Days (M-Su),0: All Day (12am-12am),710,400,1200
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,South Saint Andrew's Place,yes,180,yes,2021-07,0: All Days (M-Su),0: All Day (12am-12am),691,400,1200
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,South Saint Andrew's Place,yes,180,yes,2021-08,0: All Days (M-Su),0: All Day (12am-12am),833,500,1400
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,South Saint Andrew's Place,yes,180,yes,2021-09,0: All Days (M-Su),0: All Day (12am-12am),895,600,1500
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,South Saint Andrew's Place,yes,180,yes,2021-10,0: All Days (M-Su),0: All Day (12am-12am),806,500,1400
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,South Saint Andrew's Place,yes,180,yes,2021-11,0: All Days (M-Su),0: All Day (12am-12am),810,500,1400
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,South Saint Andrew's Place,yes,180,yes,2021-12,0: All Days (M-Su),0: All Day (12am-12am),755,500,1300
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,South Saint Andrew's Place,yes,180,yes,2022-01,0: All Days (M-Su),0: All Day (12am-12am),661,400,1200
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,South Saint Andrew's Place,yes,180,yes,2022-02,0: All Days (M-Su),0: All Day (12am-12am),814,500,1400
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,South Saint Andrew's Place,yes,180,yes,2022-03,0: All Days (M-Su),0: All Day (12am-12am),844,500,1400
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,South Saint Andrew's Place,yes,180,yes,2022-04,0: All Days (M-Su),0: All Day (12am-12am),794,500,1400
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,South Saint Andrew's Place,yes,180,yes,2022-05,0: All Days (M-Su),0: All Day (12am-12am),815,500,1400
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,South Saint Andrew's Place (1),yes,180,yes,2021-06,0: All Days (M-Su),0: All Day (12am-12am),902,600,1500
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,South Saint Andrew's Place (1),yes,180,yes,2021-07,0: All Days (M-Su),0: All Day (12am-12am),885,600,1500
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,South Saint Andrew's Place (1),yes,180,yes,2021-08,0: All Days (M-Su),0: All Day (12am-12am),974,600,1700
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,South Saint Andrew's Place (1),yes,180,yes,2021-09,0: All Days (M-Su),0: All Day (12am-12am),1059,700,1800
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,South Saint Andrew's Place (1),yes,180,yes,2021-10,0: All Days (M-Su),0: All Day (12am-12am),1010,700,1700
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,South Saint Andrew's Place (1),yes,180,yes,2021-11,0: All Days (M-Su),0: All Day (12am-12am),1004,700,1700
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,South Saint Andrew's Place (1),yes,180,yes,2021-12,0: All Days (M-Su),0: All Day (12am-12am),885,600,1500
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,South Saint Andrew's Place (1),yes,180,yes,2022-01,0: All Days (M-Su),0: All Day (12am-12am),750,500,1300
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,South Saint Andrew's Place (1),yes,180,yes,2022-02,0: All Days (M-Su),0: All Day (12am-12am),974,600,1600
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,South Saint Andrew's Place (1),yes,180,yes,2022-03,0: All Days (M-Su),0: All Day (12am-12am),1005,700,1700
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,South Saint Andrew's Place (1),yes,180,yes,2022-04,0: All Days (M-Su),0: All Day (12am-12am),969,600,1600
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,South Saint Andrew's Place (1),yes,180,yes,2022-05,0: All Days (M-Su),0: All Day (12am-12am),971,600,1600
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,West 29th Street,yes,270,yes,2021-06,0: All Days (M-Su),0: All Day (12am-12am),623,400,1100
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,West 29th Street,yes,270,yes,2021-07,0: All Days (M-Su),0: All Day (12am-12am),592,400,1100
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,West 29th Street,yes,270,yes,2021-08,0: All Days (M-Su),0: All Day (12am-12am),629,400,1100
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,West 29th Street,yes,270,yes,2021-09,0: All Days (M-Su),0: All Day (12am-12am),704,400,1200
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,West 29th Street,yes,270,yes,2021-10,0: All Days (M-Su),0: All Day (12am-12am),719,400,1300
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,West 29th Street,yes,270,yes,2021-11,0: All Days (M-Su),0: All Day (12am-12am),700,400,1200
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,West 29th Street,yes,270,yes,2021-12,0: All Days (M-Su),0: All Day (12am-12am),570,300,1000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,West 29th Street,yes,270,yes,2022-01,0: All Days (M-Su),0: All Day (12am-12am),539,300,1000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,West 29th Street,yes,270,yes,2022-02,0: All Days (M-Su),0: All Day (12am-12am),704,400,1200
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,West 29th Street,yes,270,yes,2022-03,0: All Days (M-Su),0: All Day (12am-12am),706,400,1200
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,West 29th Street,yes,270,yes,2022-04,0: All Days (M-Su),0: All Day (12am-12am),669,400,1200
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,West 29th Street,yes,270,yes,2022-05,0: All Days (M-Su),0: All Day (12am-12am),702,400,1200
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,West 29th Street (1),yes,270,yes,2021-06,0: All Days (M-Su),0: All Day (12am-12am),520,300,900
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,West 29th Street (1),yes,270,yes,2021-07,0: All Days (M-Su),0: All Day (12am-12am),487,300,900
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,West 29th Street (1),yes,270,yes,2021-08,0: All Days (M-Su),0: All Day (12am-12am),528,300,900
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,West 29th Street (1),yes,270,yes,2021-09,0: All Days (M-Su),0: All Day (12am-12am),600,400,1100
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,West 29th Street (1),yes,270,yes,2021-10,0: All Days (M-Su),0: All Day (12am-12am),577,300,1000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,West 29th Street (1),yes,270,yes,2021-11,0: All Days (M-Su),0: All Day (12am-12am),571,300,1000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,West 29th Street (1),yes,270,yes,2021-12,0: All Days (M-Su),0: All Day (12am-12am),478,300,900
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,West 29th Street (1),yes,270,yes,2022-01,0: All Days (M-Su),0: All Day (12am-12am),446,300,800
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,West 29th Street (1),yes,270,yes,2022-02,0: All Days (M-Su),0: All Day (12am-12am),589,400,1000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,West 29th Street (1),yes,270,yes,2022-03,0: All Days (M-Su),0: All Day (12am-12am),589,400,1000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,West 29th Street (1),yes,270,yes,2022-04,0: All Days (M-Su),0: All Day (12am-12am),536,300,1000
+"Jun 01, 2021 - Jun 01, 2022",All Vehicles - StL All Vehicles Volume,,West 29th Street (1),yes,270,yes,2022-05,0: All Days (M-Su),0: All Day (12am-12am),546,300,1000
